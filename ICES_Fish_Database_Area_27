@@ -1,0 +1,1238 @@
+"","X","Species","Area","Country","X2017","X2016","X2015","X2014","X2013","X2012","X2011","X2010","X2009","X2008","X2007","X2006","Latin.species.name","English","redlistCategory","populationTrend","totalWeight"
+"1",1,"ABZ","27","EE",0.03,0.15,0.33,0.04,0,0,0,0,0,0,0,0,"Ammodytes tobianus","Small sandeel","Data Deficient","Unknown",0.55
+"2",2,"ABZ","27","PL",377.53,0,0,0,0,0,0,0,0,0,0,0,"Ammodytes tobianus","Small sandeel","Data Deficient","Unknown",377.53
+"3",3,"AFT","27","DK",0,0,2.35,0,0,0,0,0,0,0,0,0,"Agonus cataphractus","Hooknose","Least Concern","Increasing",2.35
+"4",4,"AGD","27","PT",0,0,0,0,0,0.01,0,0,0,0,0,0,"Gymnothorax maderensis","Sharktooth moray","Least Concern","Unknown",0.01
+"5",5,"AGK","27","PT",1.27,5.35,4,2.84,2.79,3.3,2.58,3,2,3,3,4.9,"Gymnothorax unicolor","Brown moray","Least Concern","Unknown",38.03
+"6",6,"AGN","27","ES",0,0.86,1.91,0.3,4.26,62.54,10.36,9.3,0.01,0.02,0.8,0.1,"Squatina squatina","Angelshark","Critically Endangered","Decreasing",90.46
+"7",7,"AGN","27","FR",0,0,0.53,0.01,0.02,1.5,0.97,1.7,1.6,0.01,0.63,0.3,"Squatina squatina","Angelshark","Critically Endangered","Decreasing",7.27
+"8",8,"AGN","27","GB",0.13,0,0,0,0,0,0,0,0,0,0.02,0.01,"Squatina squatina","Angelshark","Critically Endangered","Decreasing",0.16
+"9",9,"AHN","27","PT",1.38,3.42,0.92,0.99,0.78,0.58,1.07,1,1.01,1,1,0.71,"Anthias anthias","Swallowtail seaperch","Least Concern","Stable",13.86
+"10",10,"AKL","27","PT",0,0,0,0,0,0.31,0,0,0,0,0,0,"Acantholabrus palloni","Scale-rayed wrasse","Least Concern","Unknown",0.31
+"11",11,"ALB","27","CN",0,0,0,0,0,0,0,0,0,0,9,15,"Thunnus alalunga","Albacore","Near Threatened","Decreasing",24
+"12",12,"ALB","27","ES",11573.61,11569.94,11196.33,8967.44,9464.68,7499.67,7473.2,12436.5,9056.41,13587.01,14197,22835.2,"Thunnus alalunga","Albacore","Near Threatened","Decreasing",139856.99
+"13",13,"ALB","27","FR",4163.81,4140.19,3433.94,6704.21,5595.86,4489.79,3583.33,1297,1289,311,2574.6,5529.1,"Thunnus alalunga","Albacore","Near Threatened","Decreasing",43111.83
+"14",14,"ALB","27","GB",0,0.06,31.01,135.7,133.37,50.1,57.5,117.6,65.7,49,29.62,18.05,"Thunnus alalunga","Albacore","Near Threatened","Decreasing",687.71
+"15",15,"ALB","27","IE",2490.78,2324.35,2366.98,2484.69,2231.41,3671.87,3597.38,786.21,1997.3,1522,556.6,521.6,"Thunnus alalunga","Albacore","Near Threatened","Decreasing",24551.17
+"16",16,"ALB","27","JP",0,0,0,0,0,0,0,2,7,50,105,184,"Thunnus alalunga","Albacore","Near Threatened","Decreasing",348
+"17",17,"ALB","27","KR",1,0,0,0,0,0,0,0,0,0,0,0,"Thunnus alalunga","Albacore","Near Threatened","Decreasing",1
+"18",18,"ALB","27","NL",0,0,0,0,0,0,6,0,0,0,0,0,"Thunnus alalunga","Albacore","Near Threatened","Decreasing",6
+"19",19,"ALB","27","PT",362.44,17.26,67.94,370.25,422.45,1240.93,1006.41,61,53.01,488.01,39.05,43.7,"Thunnus alalunga","Albacore","Near Threatened","Decreasing",4172.45
+"20",20,"ALB","27","TW",0,0,0,0,0,0,0,0,0,5,29,0,"Thunnus alalunga","Albacore","Near Threatened","Decreasing",34
+"21",21,"ALC","27","DE",0.41,0,0,0,0,0,0,0,0,0,0,0,"Alepocephalus bairdii","Baird's slickhead","Data Deficient","Unknown",0.41
+"22",22,"ALC","27","ES",481.97,399.59,228.09,488.95,649.69,884.16,1503.6,1567,1516,1845,0,315.7,"Alepocephalus bairdii","Baird's slickhead","Data Deficient","Unknown",9879.75
+"23",23,"ALC","27","GB",0.04,0,0,0,0,0,0,0,0,0,0,70.02,"Alepocephalus bairdii","Baird's slickhead","Data Deficient","Unknown",70.06
+"24",24,"ALC","27","IS",14,21,5,14,35,20,13,0,0,0,0,0,"Alepocephalus bairdii","Baird's slickhead","Data Deficient","Unknown",122
+"25",25,"ALC","27","LT",0,0,0,0,0,28.44,0,0,0,24.8,206,328,"Alepocephalus bairdii","Baird's slickhead","Data Deficient","Unknown",587.24
+"26",26,"ALC","27","PT",0,0,17.21,15.06,27.42,18.22,0,0,0,0,0.01,0,"Alepocephalus bairdii","Baird's slickhead","Data Deficient","Unknown",77.92
+"27",27,"ALC","27","RU",0,0,0,0,0,0,0,0,0,9,0,0,"Alepocephalus bairdii","Baird's slickhead","Data Deficient","Unknown",9
+"28",28,"ALM","27","ES",0,0,0.01,0,0.01,0,0,0,0,0,0,0,"Aluterus monoceros","Unicorn leatherjacket filefish","Least Concern","Unknown",0.02
+"29",29,"ALV","27","ES",0,0,0,0.01,0,0.02,0.01,0.1,36.63,39.03,34.1,40.7,"Alopias vulpinus","Thresher","Vulnerable","Decreasing",150.6
+"30",30,"ALV","27","FR",55.62,35.02,38.83,40.96,32.31,32.24,49.5,23.9,33.1,1.6,31.1,22.5,"Alopias vulpinus","Thresher","Vulnerable","Decreasing",396.68
+"31",31,"ALV","27","IE",0,0,0,0,0,0,0,0,0,0,0,0.3,"Alopias vulpinus","Thresher","Vulnerable","Decreasing",0.3
+"32",32,"ALV","27","PT",0,0,0.92,1.5,1.28,0.64,0,15,64.02,62.03,86.04,105.5,"Alopias vulpinus","Thresher","Vulnerable","Decreasing",336.93
+"33",33,"AMB","27","ES",6.51,4.58,5.63,5.65,2.65,1.18,14.32,3.9,2.4,6.01,11.5,3.3,"Seriola dumerili","Greater amberjack","Least Concern","Unknown",67.63
+"34",34,"AMB","27","FR",0,0,0.22,0.54,0.23,0.43,2.24,2.2,4.9,0,0,0,"Seriola dumerili","Greater amberjack","Least Concern","Unknown",10.76
+"35",35,"AMB","27","PT",28.11,47.34,43.95,22.44,28.87,27.97,37.76,38,48.02,64.01,0.03,0.1,"Seriola dumerili","Greater amberjack","Least Concern","Unknown",386.6
+"36",36,"ANE","27","DE",11.02,86.47,473.42,45.95,352.8,396.7,0,200,16.01,0,37.5,30.8,"Engraulis encrasicolus","European anchovy","Least Concern","Decreasing",1650.67
+"37",37,"ANE","27","DK",12043,139.29,5716.97,53.12,0,0,0,20.2,0,0,156,158,"Engraulis encrasicolus","European anchovy","Least Concern","Decreasing",18286.58
+"38",38,"ANE","27","ES",26440.03,24526.17,29766.17,22820.2,17255.43,15645.12,16236.27,8761.3,2205.41,2575.01,4540.8,4804.8,"Engraulis encrasicolus","European anchovy","Least Concern","Decreasing",175576.71
+"39",39,"ANE","27","FR",3172.18,2404.34,4594.74,4681.1,2636.24,6660.34,4243,5933.3,900.6,10,148.5,913.9,"Engraulis encrasicolus","European anchovy","Least Concern","Decreasing",36298.24
+"40",40,"ANE","27","GB",156.08,358.93,37.66,767.2,10.36,50.9,503.3,319.6,353.6,176.02,939.52,0.03,"Engraulis encrasicolus","European anchovy","Least Concern","Decreasing",3673.2
+"41",41,"ANE","27","IE",0,0,48.98,0,0,0,0,0,0,0,0,0,"Engraulis encrasicolus","European anchovy","Least Concern","Decreasing",48.98
+"42",42,"ANE","27","NL",67.23,215.3,1679.3,9.7,4,3,31,1,1,9,9,4,"Engraulis encrasicolus","European anchovy","Least Concern","Decreasing",2033.53
+"43",43,"ANE","27","NO",0,0,0,0,0,0,0,0,0,0,136,0,"Engraulis encrasicolus","European anchovy","Least Concern","Decreasing",136
+"44",44,"ANE","27","PT",9144.17,7107.86,2617.08,827.11,386.52,786.4,2920.2,130,72.01,335,874,111,"Engraulis encrasicolus","European anchovy","Least Concern","Decreasing",25311.35
+"45",45,"ANE","27","RU",0,0,0,0,0,97,0,0,0,0,0,0,"Engraulis encrasicolus","European anchovy","Least Concern","Decreasing",97
+"46",46,"ANE","27","SE",0,0,0.11,0,0,0,0,0,0,0,0,0,"Engraulis encrasicolus","European anchovy","Least Concern","Decreasing",0.11
+"47",47,"ANK","27","ES",123.76,146.83,114.8,66.98,76.63,0,0,0,0,0,0,0,"Lophius budegassa","Blackbellied angler","Data Deficient","Unknown",529
+"48",48,"ANK","27","PT",327.15,243.75,244.68,131.12,158.86,144.07,22.57,20,25,43.01,13.01,3.11,"Lophius budegassa","Blackbellied angler","Data Deficient","Unknown",1376.33
+"49",49,"ANN","27","ES",29.02,5.64,0.56,1.06,4.51,0,0,0,0,0,0,0,"Diplodus annularis","Annular seabream","Least Concern","Stable",40.79
+"50",50,"ANN","27","FR",0.16,0,0,0,0.01,0,0.05,0,0,0,0,0,"Diplodus annularis","Annular seabream","Least Concern","Stable",0.22
+"51",51,"ANN","27","PT",73.82,66.49,73.63,68.47,85.86,56.66,51.68,31,45.01,56.01,31.01,46.2,"Diplodus annularis","Annular seabream","Least Concern","Stable",685.84
+"52",52,"ANT","27","FR",0,0,0,0,0,0,0.97,0,0,0,0,0,"Antimora rostrata","Blue antimora","Least Concern","Unknown",0.97
+"53",53,"ANT","27","GB",0,0,0,0,0,0.1,0,0,0,0,0,0,"Antimora rostrata","Blue antimora","Least Concern","Unknown",0.1
+"54",54,"ANT","27","IE",0,0.43,0,0,0,0,0,0,0,0,0.2,0,"Antimora rostrata","Blue antimora","Least Concern","Unknown",0.63
+"55",55,"APH","27","PT",2.39,0,0,0,16.26,160.23,0,0,0,0,0,0,"Aphanopus intermedius","Intermediate scabbardfish","Least Concern","Unknown",178.88
+"56",56,"APQ","27","GB",0,0,0,0,0.04,0,0,0,0,0,0,0,"Apristurus laurussonii","Iceland catshark","Data Deficient","Unknown",0.04
+"57",57,"ATP","27","ES",0.99,0.04,1.68,0.29,0.05,0,0,0,0,0,0,0,"Atherina presbyter","Sand smelt","Least Concern","Unknown",3.05
+"58",58,"ATP","27","GB",0,0,0,0.01,0,0,0,0,0.01,0.01,0,8,"Atherina presbyter","Sand smelt","Least Concern","Unknown",8.03
+"59",59,"ATP","27","PT",24.18,16.11,11.67,8.01,3.91,8.32,3.83,2,2,2,8,5.4,"Atherina presbyter","Sand smelt","Least Concern","Unknown",95.43
+"60",60,"AUU","27","PT",0,0,0,0,0,0.01,0,0,0.01,0.01,0.01,0.01,"Abudefduf luridus","Canary damsel","Least Concern","Unknown",0.05
+"61",61,"AWM","27","PT",0,0,0,0,0.01,0,0.03,0,0,0,0,0,"Enchelycore anatina","Fangtooth moray","Least Concern","Unknown",0.04
+"62",62,"BBH","27","PT",0,0,0,0,0,0,0.53,0,0,0,0,0,"Alosa aestivalis","Blueback shad","Vulnerable","Decreasing",0.53
+"63",63,"BBS","27","ES",34.84,48.26,30.17,13.58,12.62,0,0,0,0,0,0,0,"Scorpaena porcus","Black scorpionfish","Least Concern","Unknown",139.47
+"64",64,"BBS","27","FR",0.03,0,0,0,0,0,0,0,0,5.4,5.3,4.9,"Scorpaena porcus","Black scorpionfish","Least Concern","Unknown",15.63
+"65",65,"BET","27","CN",0,0,0,0,0,0,0,0,0,0,5,58,"Thunnus obesus","Bigeye tuna","Vulnerable","Decreasing",63
+"66",66,"BET","27","ES",2520.49,2089.22,1101.96,1240.02,247.87,97.98,439.5,91.6,194.64,83.05,165.5,16.6,"Thunnus obesus","Bigeye tuna","Vulnerable","Decreasing",8288.43
+"67",67,"BET","27","FR",320.47,246,0.87,0.03,3.1,42.94,0.61,0,1.1,0,261.5,12.2,"Thunnus obesus","Bigeye tuna","Vulnerable","Decreasing",888.82
+"68",68,"BET","27","GB",0.3,0,0,0,0,0,0,0,0,0,0,0,"Thunnus obesus","Bigeye tuna","Vulnerable","Decreasing",0.3
+"69",69,"BET","27","IE",0.15,2.48,0,0,0,0,0,0,0,0,3.2,0,"Thunnus obesus","Bigeye tuna","Vulnerable","Decreasing",5.83
+"70",70,"BET","27","JP",0,0,0,0,0,0,0,1,2,12,12,21,"Thunnus obesus","Bigeye tuna","Vulnerable","Decreasing",48
+"71",71,"BET","27","PT",768.81,530.16,1393.46,2268.57,4122.48,5228.34,5769.15,2651,2745.03,1450,1257.03,1184.9,"Thunnus obesus","Bigeye tuna","Vulnerable","Decreasing",29368.93
+"72",72,"BET","27","TW",0,0,0,0,0,0,0,0,0,0,8,0,"Thunnus obesus","Bigeye tuna","Vulnerable","Decreasing",8
+"73",73,"BFT","27","CN",64,54,45,37,38,36,36,38,41,118,72,42,"Thunnus thynnus","Atlantic bluefin tuna","Endangered","Decreasing",621
+"74",74,"BFT","27","ES",829.16,664.81,0.17,0,0,135.18,1142.8,618.8,1080.51,2831.01,3092.31,1217.8,"Thunnus thynnus","Atlantic bluefin tuna","Endangered","Decreasing",11612.55
+"75",75,"BFT","27","FO",0,0,0.13,1,1,0,0,0,0,0,0,0,"Thunnus thynnus","Atlantic bluefin tuna","Endangered","Decreasing",2.13
+"76",76,"BFT","27","FR",367.39,344.89,302.49,228.06,234.47,301.89,150.22,210.3,400.4,129.5,637.01,1217.4,"Thunnus thynnus","Atlantic bluefin tuna","Endangered","Decreasing",4524.02
+"77",77,"BFT","27","GB",0,2.98,0,0,0,0,0,0,0.6,0.01,0,0.01,"Thunnus thynnus","Atlantic bluefin tuna","Endangered","Decreasing",3.6
+"78",78,"BFT","27","GL",0,0.2,1.876,13,0,0,0,0,0,0,0,0,"Thunnus thynnus","Atlantic bluefin tuna","Endangered","Decreasing",15.076
+"79",79,"BFT","27","IE",16.02,34.3,15.89,19.42,13.11,11.14,4.39,2.2,1,0.9,0.31,2.31,"Thunnus thynnus","Atlantic bluefin tuna","Endangered","Decreasing",120.99
+"80",80,"BFT","27","IS",0,0,0,31,4,5,2.35,0,0,0,0,0,"Thunnus thynnus","Atlantic bluefin tuna","Endangered","Decreasing",42.35
+"81",81,"BFT","27","JP",1911,1578,1386,1121,1129,1093,1092,1140,1886,1808,1387,1072,"Thunnus thynnus","Atlantic bluefin tuna","Endangered","Decreasing",16603
+"82",82,"BFT","27","KR",157,139,0,0,0,0,0,0,0,0,0,0,"Thunnus thynnus","Atlantic bluefin tuna","Endangered","Decreasing",296
+"83",83,"BFT","27","NL",0.39,1.8,0,0,0,0,0,0,0,0,0,0,"Thunnus thynnus","Atlantic bluefin tuna","Endangered","Decreasing",2.19
+"84",84,"BFT","27","NO",49.96,43.77,8.3,0.11,0.31,0,0,0,0,0.3,0,0,"Thunnus thynnus","Atlantic bluefin tuna","Endangered","Decreasing",102.75
+"85",85,"BFT","27","PT",413.06,320.21,0,42.42,235,223.35,180.52,58,46.01,36,28,35.5,"Thunnus thynnus","Atlantic bluefin tuna","Endangered","Decreasing",1618.07
+"86",86,"BFT","27","SE",2.03,0,0,0,0,0,0,0,0,0,0,0,"Thunnus thynnus","Atlantic bluefin tuna","Endangered","Decreasing",2.03
+"87",87,"BGR","27","PT",0,0,0,0,0.03,0.3,0.41,0,0,0,0,0,"Pomadasys incisus","Bastard grunt","Least Concern","Unknown",0.74
+"88",88,"BHD","27","ES",4.52,8.7,7.96,2.95,0.19,0,0,0,0,0,0,0,"Halobatrachus didactylus","Lusitanian toadfish","Least Concern","Unknown",24.32
+"89",89,"BHD","27","PT",24.27,24.58,31.69,32.92,42.23,39.67,54.26,56,53,56,55,69,"Halobatrachus didactylus","Lusitanian toadfish","Least Concern","Unknown",538.62
+"90",90,"BIS","27","FR",0,0,0,0,0,0,0.11,0,0,0,0,0,"Selar crumenophthalmus","Bigeye scad","Least Concern","Stable",0.11
+"91",91,"BLB","27","ES",5.11,2.45,10.1,3.61,0.33,0.6,1.45,1.4,2.1,24,30.7,15.2,"Stromateus fiatola","Blue butterfish","Least Concern","Stable",97.05
+"92",92,"BLB","27","PT",27.95,20.48,17.21,28.59,29.22,31.78,41.71,99,70.01,68.02,102.02,47.41,"Stromateus fiatola","Blue butterfish","Least Concern","Stable",583.4
+"93",93,"BLF","27","FR",0.16,0,0.03,0,0,0.1,0.26,0,0,0,0,0,"Thunnus atlanticus","Blackfin tuna","Least Concern","Stable",0.55
+"94",94,"BLF","27","IS",0,0,37,0,0,0,0,0,0,0,0,0,"Thunnus atlanticus","Blackfin tuna","Least Concern","Stable",37
+"95",95,"BLT","27","ES",141.13,489.3,256.14,253.06,160.54,0,0,0,0,0,0,0,"Auxis rochei","Bullet tuna","Least Concern","Stable",1300.17
+"96",96,"BLT","27","PT",103.22,149.09,25.76,158.39,37.8,102.79,387.56,656,436.01,385.01,830,863.2,"Auxis rochei","Bullet tuna","Least Concern","Stable",4134.83
+"97",97,"BLU","27","ES",226.24,145.48,67.94,39.83,85.95,17.93,20.89,33.9,63.5,112,142.9,194,"Pomatomus saltatrix","Bluefish","Vulnerable","Decreasing",1150.56
+"98",98,"BLU","27","FR",0.07,0.02,0.05,0,0.68,0,0,0,0,0,0,0,"Pomatomus saltatrix","Bluefish","Vulnerable","Decreasing",0.82
+"99",99,"BLU","27","PT",33.48,32.22,26.09,35.51,15.94,18.4,18.03,17,21.01,19.01,20.01,15.31,"Pomatomus saltatrix","Bluefish","Vulnerable","Decreasing",272.01
+"100",100,"BOA","27","PT",0,0,0,0,0,0,0,0,0.01,0,0,0,"Ethmalosa fimbriata","Bonga shad","Least Concern","Unknown",0.01
+"101",101,"BOC","27","ES",0.02,0.04,0,0,0.01,0,0,0,0,0,0,0,"Capros aper","Boarfish","Least Concern","Unknown",0.07
+"102",102,"BOC","27","FR",2.52,13.59,3.36,0.01,0.29,0.03,0.17,0,0,0,0,0,"Capros aper","Boarfish","Least Concern","Unknown",19.97
+"103",103,"BOC","27","GB",0.13,21.45,103.71,37.95,4379.63,4884.3,2813.1,9413.9,0,0.01,771.7,0,"Capros aper","Boarfish","Least Concern","Unknown",22425.88
+"104",104,"BOC","27","IE",2.78,17495.75,0,49.26,2612.87,19693.12,4011.1,9491.6,16948,7537.5,6283.7,7.2,"Capros aper","Boarfish","Least Concern","Unknown",84132.88
+"105",105,"BOC","27","NL",198.89,442.6,458,0.7,0,0,0,0,0,0,0,0,"Capros aper","Boarfish","Least Concern","Unknown",1100.19
+"106",106,"BOC","27","NO",0,0,0,0,0,2.94,11.27,0,1,0,0,0,"Capros aper","Boarfish","Least Concern","Unknown",15.21
+"107",107,"BOC","27","PT",7.08,0,0.27,1.51,0,0.11,0,0,0,0,0.01,0,"Capros aper","Boarfish","Least Concern","Unknown",8.98
+"108",108,"BOG","27","ES",7471.07,13412.92,8848.86,11184.17,10817.03,13219.05,7286.66,2379.2,1149.1,1082,786.21,1011.7,"Boops boops","Bogue","Least Concern","Stable",78647.97
+"109",109,"BOG","27","FR",28.48,64.15,157.28,62.94,40.19,52.49,110.93,53.6,132.5,80.11,142.01,117.8,"Boops boops","Bogue","Least Concern","Stable",1042.48
+"110",110,"BOG","27","GB",0,0,0,0,0,0,0,0,0,0.01,0.01,0.01,"Boops boops","Bogue","Least Concern","Stable",0.03
+"111",111,"BOG","27","PT",675.19,878.37,704.47,561.92,1070.3,829.77,323.6,257,225,198,372,368.7,"Boops boops","Bogue","Least Concern","Stable",6464.32
+"112",112,"BON","27","DK",1,1.29,0.58,0,0,0,0,0,0,0,0,0,"Sarda sarda","Atlantic bonito","Least Concern","Stable",2.87
+"113",113,"BON","27","ES",1061.19,1404.58,1058.15,1035.97,719.31,1779.91,464.01,232.71,75.81,55.03,127.2,73.2,"Sarda sarda","Atlantic bonito","Least Concern","Stable",8087.07
+"114",114,"BON","27","FR",283.68,397.29,350.07,290.44,245.04,388.86,340.56,207.8,46,91.41,124.12,48.1,"Sarda sarda","Atlantic bonito","Least Concern","Stable",2813.37
+"115",115,"BON","27","GB",0.07,0.18,0.15,0.05,0.01,4.3,0.02,0,0.01,0,0,0,"Sarda sarda","Atlantic bonito","Least Concern","Stable",4.79
+"116",116,"BON","27","NO",0.06,0,0.03,0,0,0,0,0.02,0,0,0,0,"Sarda sarda","Atlantic bonito","Least Concern","Stable",0.11
+"117",117,"BON","27","PT",397.55,622.14,786.65,159.12,184.71,349.06,459.18,511,124.01,191.01,399.01,309.7,"Sarda sarda","Atlantic bonito","Least Concern","Stable",4493.14
+"118",118,"BON","27","SE",0,0,0.81,0,0,0,0,0,0,0,0,0,"Sarda sarda","Atlantic bonito","Least Concern","Stable",0.81
+"119",119,"BOP","27","PT",0,1.62,1.26,0.64,1.21,9.67,6.4,3,4.02,2,1.01,3.31,"Orcynopsis unicolor","Plain bonito","Least Concern","Stable",34.14
+"120",120,"BPI","27","ES",2.03,5.29,3.52,1.02,2.07,0,0,0,0,0,0,0,"Spicara maena","Blotched picarel","Least Concern","Unknown",13.93
+"121",121,"BRB","27","BE",11.7,12.6,10.9,22.1,3.2,0,0,0,0,0,0,0,"Spondyliosoma cantharus","Black seabream","Least Concern","Unknown",60.5
+"122",122,"BRB","27","DE",5.7,7.23,6.54,6.48,14.64,1.66,1.09,3,0,0,0,5.3,"Spondyliosoma cantharus","Black seabream","Least Concern","Unknown",51.64
+"123",123,"BRB","27","ES",617.31,364.61,328.78,422.79,439.96,831.45,929.66,301.5,226.5,203.02,205,129.6,"Spondyliosoma cantharus","Black seabream","Least Concern","Unknown",5000.18
+"124",124,"BRB","27","FR",2287.47,2421.45,2553.74,3255.69,2949.4,2665.36,3979.38,4313.6,4252.6,2235.31,4510.02,3627.9,"Spondyliosoma cantharus","Black seabream","Least Concern","Unknown",39051.92
+"125",125,"BRB","27","GB",81.49,175.43,112.14,190.89,168.26,156.7,201.46,365.3,377.46,211.06,285.05,211.06,"Spondyliosoma cantharus","Black seabream","Least Concern","Unknown",2536.3
+"126",126,"BRB","27","JE",0,7.8422,20.16,22.943,31.258,107.053,17.954,26.811,90.089,4.214,3.028,4.4,"Spondyliosoma cantharus","Black seabream","Least Concern","Unknown",335.7522
+"127",127,"BRB","27","LT",0,0,0,0,0,0,1,0,0,0,0,0,"Spondyliosoma cantharus","Black seabream","Least Concern","Unknown",1
+"128",128,"BRB","27","NL",161.43,128.9,130.5,104.6,64,69,58,0,453,547,462,140,"Spondyliosoma cantharus","Black seabream","Least Concern","Unknown",2318.43
+"129",129,"BRB","27","PT",226.65,246.6,204.76,215.97,236.88,186.65,250.07,252,232,207,227,235.4,"Spondyliosoma cantharus","Black seabream","Least Concern","Unknown",2720.98
+"130",130,"BRD","27","PT",0,0,0,0,0,0.56,0,0,0,0,0,0,"Brotula barbata","Bearded brotula","Least Concern","Unknown",0.56
+"131",131,"BRF","27","ES",844.42,739.03,874.41,1043.58,1571.93,2137.8,3929.38,3361.4,1764.6,1436.01,2298.2,873.8,"Helicolenus dactylopterus","Blackbelly rosefish","Least Concern","Unknown",20874.56
+"132",132,"BRF","27","FR",250.04,184.35,109.46,133.35,128.32,93,125.7,171.3,158.3,135.01,168.83,222.4,"Helicolenus dactylopterus","Blackbelly rosefish","Least Concern","Unknown",1880.06
+"133",133,"BRF","27","GB",83.62,103.49,108.64,75.45,73.03,55.9,95.6,65.7,19.82,84.07,59.94,98.01,"Helicolenus dactylopterus","Blackbelly rosefish","Least Concern","Unknown",923.27
+"134",134,"BRF","27","IE",5.65,8.81,13.88,18.26,10.27,7.7,8.81,11.4,10.5,8.71,23.3,14.6,"Helicolenus dactylopterus","Blackbelly rosefish","Least Concern","Unknown",141.89
+"135",135,"BRF","27","NO",0,0.01,0,5.26,7.39,0,0.01,0,0,0,0,7,"Helicolenus dactylopterus","Blackbelly rosefish","Least Concern","Unknown",19.67
+"136",136,"BRF","27","PT",540.24,487.21,426.68,403.73,428.44,415.31,383.24,350,488.01,466.01,603.01,356.51,"Helicolenus dactylopterus","Blackbelly rosefish","Least Concern","Unknown",5348.39
+"137",137,"BRO","27","ES",0,0,0,0,0,0,0,0,0,0.01,0,0,"Carcharhinus brachyurus","Copper shark","Near Threatened","Unknown",0.01
+"138",138,"BRT","27","ES",0,0,0,0,0.02,0,0,0,0,0,0,0,"Borostomias antarcticus","Snaggletooth","Least Concern","Unknown",0.02
+"139",139,"BSB","27","NL",3.28,0,0,0,0,0,0,0,0,0,0,0,"Centropristis striata","Black seabass","Least Concern","Stable",3.28
+"140",140,"BSB","27","PL",0,0,0,0,0.39,0,0,0,0,0,0,0,"Centropristis striata","Black seabass","Least Concern","Stable",0.39
+"141",141,"BSC","27","ES",1.99,2.31,2.57,3.9,4.47,0,0,0,0,0,0,0,"Pagrus caeruleostictus","Bluespotted seabream","Least Concern","Unknown",15.24
+"142",142,"BSC","27","PT",2.67,2.95,2.4,2.29,1.59,1.26,1.6,1,0.02,0.01,1,0.3,"Pagrus caeruleostictus","Bluespotted seabream","Least Concern","Unknown",17.09
+"143",143,"BSH","27","CN",0,0,0,0,0,0,1,2,0,0,0,0,"Prionace glauca","Blue shark","Near Threatened","Unknown",3
+"144",144,"BSH","27","DK",0,0,0,0.04,0,0.24,0,0.01,0.01,0.01,1.02,1.01,"Prionace glauca","Blue shark","Near Threatened","Unknown",2.34
+"145",145,"BSH","27","ES",16398.22,11163.93,10983.42,10868.64,10637.8,8891.22,7741.41,6038.4,4452.02,2232.02,1752.61,1398.9,"Prionace glauca","Blue shark","Near Threatened","Unknown",92558.59
+"146",146,"BSH","27","FR",122.44,319.91,258.81,131.59,215.99,149.64,129.56,121.8,117.9,109.42,166.63,134.3,"Prionace glauca","Blue shark","Near Threatened","Unknown",1977.99
+"147",147,"BSH","27","GB",11.32,16.76,12.16,10.15,9.74,8.1,10.35,8.3,4.91,5.05,6,3.03,"Prionace glauca","Blue shark","Near Threatened","Unknown",105.87
+"148",148,"BSH","27","GG",0,0,0,0,0,0,0,0,0,1,0,0,"Prionace glauca","Blue shark","Near Threatened","Unknown",1
+"149",149,"BSH","27","GL",0,0,1.11,0,0,0,0,0,0,0,0,0,"Prionace glauca","Blue shark","Near Threatened","Unknown",1.11
+"150",150,"BSH","27","IE",0.37,1.34,3.02,0.8,1.95,2.88,1.48,0.4,0.01,0.12,0.21,0,"Prionace glauca","Blue shark","Near Threatened","Unknown",12.58
+"151",151,"BSH","27","IS",0,1,0,0,0,0,0,0,0,0,0,0,"Prionace glauca","Blue shark","Near Threatened","Unknown",1
+"152",152,"BSH","27","NL",0,0,0,0,0,0,0,0,1,0,1,0,"Prionace glauca","Blue shark","Near Threatened","Unknown",2
+"153",153,"BSH","27","PT",4230.68,4854.8,3391.99,2483.38,2855.7,2807.44,3389.5,3615,3433,2746,2821,2627,"Prionace glauca","Blue shark","Near Threatened","Unknown",39255.49
+"154",154,"BSK","27","FR",0,0,0,0.03,0,0,0,0,5.8,0.01,0.01,0.6,"Cetorhinus maximus","Basking shark","Vulnerable","Decreasing",6.45
+"155",155,"BSK","27","GB",0,0,0,0,0,0,0,0,0.01,0,0,0.01,"Cetorhinus maximus","Basking shark","Vulnerable","Decreasing",0.02
+"156",156,"BSK","27","NO",0,0,0,0,0,22.38,2,0,0,3.9,65,16,"Cetorhinus maximus","Basking shark","Vulnerable","Decreasing",109.28
+"157",157,"BSK","27","PT",0,0,0,0,0.2,0,0,0,0,2,11,0.1,"Cetorhinus maximus","Basking shark","Vulnerable","Decreasing",13.3
+"158",158,"BTH","27","ES",0,0,0,0,0,0,0,0,62.2,18.01,15.5,0.8,"Alopias superciliosus","Bigeye thresher","Vulnerable","Decreasing",96.51
+"159",159,"BTH","27","PT",0,0,0,0,0,0.1,0,0,0.01,1,0.01,0,"Alopias superciliosus","Bigeye thresher","Vulnerable","Decreasing",1.12
+"160",160,"BUA","27","NL",0,0,0,0,0,2,0,0,0,0,0,0,"Chloroscombrus chrysurus","Atlantic bumper","Least Concern","Stable",2
+"161",161,"BUM","27","ES",0,12.9,127.06,40.21,19.37,15.57,11.47,0.81,0.5,0,0.01,0,"Makaira nigricans","Blue marlin","Vulnerable","Decreasing",227.9
+"162",162,"BUM","27","FR",0.03,0.04,0,0.02,0.17,1.77,0,0,0,0.01,0.01,0,"Makaira nigricans","Blue marlin","Vulnerable","Decreasing",2.05
+"163",163,"BUM","27","PT",1.06,0.79,1.14,1.07,0.12,0.48,1.92,3,7.01,6,21.01,7.5,"Makaira nigricans","Blue marlin","Vulnerable","Decreasing",51.1
+"164",164,"BUR","27","PT",3.56,4.07,5.58,5.72,4.46,10.99,3.62,6,3,1.01,3,3.4,"Pomadasys jubelini","Sompat grunt","Least Concern","Unknown",54.41
+"165",165,"BVV","27","PT",52.86,73.39,91.81,111.6,58.08,68.13,74.96,0,0,0,0,0,"Sphyraena viridensis","Yellowmouth barracuda","Least Concern","Increasing",530.83
+"166",166,"BXD","27","ES",19.85,33.22,11.12,23.25,21.66,20.82,160.84,138.2,116.83,102.02,226.6,180.8,"Beryx decadactylus","Alfonsino","Least Concern","Unknown",1055.21
+"167",167,"BXD","27","PT",48.53,59.91,45.24,39.63,38.75,45.02,51.69,60,69,54.01,17.01,49.7,"Beryx decadactylus","Alfonsino","Least Concern","Unknown",578.49
+"168",168,"BYS","27","ES",9.72,6.07,3.14,10.5,9.91,22.79,125.74,112.5,44.11,93.02,186.7,258.1,"Beryx splendens","Splendid alfonsino","Least Concern","Unknown",882.3
+"169",169,"BYS","27","GB",0,0,0,0,0,0,0,0,0,0.01,0,2,"Beryx splendens","Splendid alfonsino","Least Concern","Unknown",2.01
+"170",170,"BYS","27","PT",133.67,138.23,143.32,147.14,154.35,188.63,184.11,172,218,153,201.01,161.22,"Beryx splendens","Splendid alfonsino","Least Concern","Unknown",1994.68
+"171",171,"CBC","27","ES",47.9,45.83,43.07,27.28,43.4,21.65,23.94,41.5,50.81,19,10.51,587.3,"Cepola macrophthalma","Red bandfish","Least Concern","Unknown",962.19
+"172",172,"CBC","27","FR",0,0,0,0,0.01,0.67,0.38,0,0,0,0,0,"Cepola macrophthalma","Red bandfish","Least Concern","Unknown",1.06
+"173",173,"CBC","27","PT",0,0,1.02,1.35,1.59,1.27,2.27,2,5,1,5,0,"Cepola macrophthalma","Red bandfish","Least Concern","Unknown",20.5
+"174",174,"CBM","27","ES",1.59,5.39,8.29,11.93,7.08,0,0,0,0,0,0,0,"Sciaena umbra","Brown meagre","Near Threatened","Decreasing",34.28
+"175",175,"CBR","27","ES",31.08,35.88,29.62,37.98,74.65,100.22,307.24,369.6,279.3,323,1149.5,36.2,"Serranus cabrilla","Comber","Least Concern","Stable",2774.27
+"176",176,"CBR","27","PT",0,1.32,2.1,1.68,0.84,0.85,0.41,0,0.02,3.01,13,43.6,"Serranus cabrilla","Comber","Least Concern","Stable",66.83
+"177",177,"CCL","27","PT",0,0,0,0,0.04,0,0,0,0,0,0,0,"Carcharhinus limbatus","Blacktip shark","Near Threatened","Unknown",0.04
+"178",178,"CCP","27","PT",0,0,0,0,0.02,0.01,0,0,0,0,0,0,"Carcharhinus plumbeus","Sandbar shark","Vulnerable","Decreasing",0.03
+"179",179,"CCT","27","ES",0,0,0,0.02,0.02,0,0,0,0,0,0,0,"Carcharias taurus","Sand tiger shark","Vulnerable","Unknown",0.04
+"180",180,"CCT","27","NL",0,0,0,0,0,3,0,0,2,0,0,0,"Carcharias taurus","Sand tiger shark","Vulnerable","Unknown",5
+"181",181,"CEO","27","ES",0.04,0.03,0.08,0.05,0.16,0,0,0,0,0,0,0,"Centrolophus niger","Rudderfish","Least Concern","Unknown",0.36
+"182",182,"CEO","27","FR",0,0,0,0.09,0.24,0.06,0,0,0,0,0,0,"Centrolophus niger","Rudderfish","Least Concern","Unknown",0.39
+"183",183,"CEO","27","GB",0,0,0,0,0.01,0,0,0,0,0,0,0,"Centrolophus niger","Rudderfish","Least Concern","Unknown",0.01
+"184",184,"CET","27","ES",164.3,180.85,233.88,215.35,333.63,300.85,200.48,397.5,299.9,235.01,191.81,381.5,"Dicologlossa cuneata","Wedge sole","Least Concern","Unknown",3135.06
+"185",185,"CET","27","FR",485.25,507.08,543.04,667.89,394.5,599.09,801.83,543.2,505,417.33,624.15,558.1,"Dicologlossa cuneata","Wedge sole","Least Concern","Unknown",6646.46
+"186",186,"CET","27","GB",0,0,0,0.08,0,1.7,0,0,0,0,0,0,"Dicologlossa cuneata","Wedge sole","Least Concern","Unknown",1.78
+"187",187,"CET","27","PT",297.57,174.34,162.6,282.94,266.05,284.85,340.31,174,97,42,38.01,45.5,"Dicologlossa cuneata","Wedge sole","Least Concern","Unknown",2205.17
+"188",188,"CFB","27","EE",0,0,0,0,0,0,0,0,0,0,0,3.5,"Centroscyllium fabricii","Black dogfish","Least Concern","Unknown",3.5
+"189",189,"CFB","27","ES",0,0,0.03,0,0,0,0,0,0,0,0,0,"Centroscyllium fabricii","Black dogfish","Least Concern","Unknown",0.03
+"190",190,"CFB","27","FR",0,0,0.19,9.33,0.07,0.58,0.44,70.1,93.5,4.7,6.31,2,"Centroscyllium fabricii","Black dogfish","Least Concern","Unknown",187.22
+"191",191,"CFB","27","IS",0,0,2,0,1,3,1,10.4,1,0,0,0,"Centroscyllium fabricii","Black dogfish","Least Concern","Unknown",18.4
+"192",192,"CFB","27","PT",0,0,0,0,0,0.01,0,0,0,0,0,0,"Centroscyllium fabricii","Black dogfish","Least Concern","Unknown",0.01
+"193",193,"CIL","27","ES",115.85,152.56,151.09,97.87,184.26,0,0,0,0,0,0,0,"Citharus linguatula","Spotted flounder","Least Concern","Stable",701.63
+"194",194,"CIL","27","FR",0.02,0,0.37,0,0.09,0,0,0,3.5,0.1,0.1,0,"Citharus linguatula","Spotted flounder","Least Concern","Stable",4.18
+"195",195,"CIL","27","PT",1.58,0,0,0,0,0,0,0,0,0,0,0,"Citharus linguatula","Spotted flounder","Least Concern","Stable",1.58
+"196",196,"CMK","27","ES",0,0,0,0,0.01,0,0,0,0,0,0,0,"Chromis chromis","Damselfish","Least Concern","Unknown",0.01
+"197",197,"CMK","27","FR",0,0,0,0,0,0,0,0,0,0,0,0.1,"Chromis chromis","Damselfish","Least Concern","Unknown",0.1
+"198",198,"CMK","27","PT",0.84,0,0.03,0.05,0.15,0.03,0.2,0,0.01,0.01,1,0.6,"Chromis chromis","Damselfish","Least Concern","Unknown",2.92
+"199",199,"CMO","27","DE",0.93,0.14,0,0,0,0,0,0,0,0,0,0,"Chimaera monstrosa","Rabbit fish","Near Threatened","Stable",1.07
+"200",200,"CMO","27","DK",0,2.63,0.51,0.13,0.27,0.02,1.88,1,1.3,0.02,0.03,1.02,"Chimaera monstrosa","Rabbit fish","Near Threatened","Stable",8.81
+"201",201,"CMO","27","EE",0,0,0,0,0,0,0,0,0,0,0,1.7,"Chimaera monstrosa","Rabbit fish","Near Threatened","Stable",1.7
+"202",202,"CMO","27","ES",0,5.1,1.72,114.12,89.4,17.55,10.58,31.2,31.1,6,0,0,"Chimaera monstrosa","Rabbit fish","Near Threatened","Stable",306.77
+"203",203,"CMO","27","FR",128.81,120.53,136.32,186.52,265.89,257.57,218.78,0,0,0,0,0,"Chimaera monstrosa","Rabbit fish","Near Threatened","Stable",1314.42
+"204",204,"CMO","27","GB",0,0,0.01,0,0.84,11.3,0,0.1,0,0,9,18.01,"Chimaera monstrosa","Rabbit fish","Near Threatened","Stable",39.26
+"205",205,"CMO","27","IE",0,0,0,0,0.09,0,0,0.5,0.3,10,9.8,0.7,"Chimaera monstrosa","Rabbit fish","Near Threatened","Stable",21.39
+"206",206,"CMO","27","IS",0,0,0,2,2,4,4,7.2,1,1,0,1.2,"Chimaera monstrosa","Rabbit fish","Near Threatened","Stable",22.4
+"207",207,"CMO","27","NO",217.2,180.07,151.87,163.55,178.16,152.51,169.18,247.63,156.02,113.8,108.01,65.01,"Chimaera monstrosa","Rabbit fish","Near Threatened","Stable",1903.01
+"208",208,"CMO","27","PL",0.05,0,0,0,0,0,0,0,0,0,0,0,"Chimaera monstrosa","Rabbit fish","Near Threatened","Stable",0.05
+"209",209,"CMO","27","RU",4,0,4,12,23,11,0,0,0,1,0,0,"Chimaera monstrosa","Rabbit fish","Near Threatened","Stable",55
+"210",210,"CMO","27","SE",0,0,0.02,0,0,0,0,0,0,0,0,0,"Chimaera monstrosa","Rabbit fish","Near Threatened","Stable",0.02
+"211",211,"COA","27","DE",0,0,0,0,0.01,0,0,0,0,0,0,0,"Conger oceanicus","American conger","Least Concern","Unknown",0.01
+"212",212,"COD","27","BE",799.7,1240.7,1434.2,1480.3,1342.7,1214.4,868.3,796.8,1087.21,1140.3,1267.51,1551.2,"Gadus morhua","Atlantic cod","Vulnerable","",14223.32
+"213",213,"COD","27","DE",9485.66,13961.4,15572.51,15221.11,14146.09,18813.45,16379.11,19476,18267.5,15001.2,16818.6,17459.5,"Gadus morhua","Atlantic cod","Vulnerable","",190602.13
+"214",214,"COD","27","DK",18641,23284.36,26229.53,22254.03,20425.75,28554.81,26849.4,26701.41,23694.7,23545,24494,29585,"Gadus morhua","Atlantic cod","Vulnerable","",294258.99
+"215",215,"COD","27","EE",1229.14,418.09,490.99,414.35,474.13,913.95,1179.8,796,821.5,973,945.8,702.5,"Gadus morhua","Atlantic cod","Vulnerable","",9359.25
+"216",216,"COD","27","ES",14325.26,14449.23,18633.22,16378.32,14930.9,10825.08,13292.3,12661.31,11473.31,9660,4754.31,404.7,"Gadus morhua","Atlantic cod","Vulnerable","",141787.94
+"217",217,"COD","27","FI",195.63,91.35,414.06,376.15,452,1681.07,1117.38,1039.46,880.19,830.75,852.51,670.05,"Gadus morhua","Atlantic cod","Vulnerable","",8600.6
+"218",218,"COD","27","FO",35555.502,34219.518,36358.114,33006,29290,27615,26583,31814,27283,27102,28141,30751,"Gadus morhua","Atlantic cod","Vulnerable","",367718.134
+"219",219,"COD","27","FR",10072.79,10558.02,12634.65,12234.25,13156.1,9259.46,10227.31,5295.7,4991.1,7338.6,8362.5,8003.7,"Gadus morhua","Atlantic cod","Vulnerable","",112134.18
+"220",220,"COD","27","GB",37698.3,31798.36,28783.75,30607.92,28133.19,25479.5,22104.9,24992.4,21919.51,19038.06,19331.5,20841.07,"Gadus morhua","Atlantic cod","Vulnerable","",310728.46
+"221",221,"COD","27","GG",0.434,4.585,3.9,3,1,3,3,4,1,2,2,1,"Gadus morhua","Atlantic cod","Vulnerable","",28.919
+"222",222,"COD","27","GL",17833.9,17081.8,16183.6,11284,10874,9851,8331,8129,6760,5454,5237,6812,"Gadus morhua","Atlantic cod","Vulnerable","",123831.3
+"223",223,"COD","27","IE",722.69,940.94,1537.15,1373.24,1958.56,2094.16,1255.63,1272.1,1207.4,1525.9,1790.9,1510.8,"Gadus morhua","Atlantic cod","Vulnerable","",17189.47
+"224",224,"COD","27","IM",3,0.173,0.076,0,0,1,1,2,1,1,2,0,"Gadus morhua","Atlantic cod","Vulnerable","",11.249
+"225",225,"COD","27","IS",265762,263091,244554,239980,236318,204952,182356,178599.2,188976,151396.8,174435.9,199396.4,"Gadus morhua","Atlantic cod","Vulnerable","",2529817.3
+"226",226,"COD","27","JE",0,0.0555,0.028,0.402,0.002,0.008,0.302,0.215,0.2,0.193,0.046,0.196,"Gadus morhua","Atlantic cod","Vulnerable","",1.6475
+"227",227,"COD","27","LT",1867,1668.92,1739.31,1197.11,1743.31,2374.11,3060,3211.8,2818.3,2613.9,2935,3301,"Gadus morhua","Atlantic cod","Vulnerable","",28529.76
+"228",228,"COD","27","LV",3644.84,2716.9,2998.01,2037.5,2569.8,4280.75,5026.9,5159.6,4610.8,4019.5,4268,4567,"Gadus morhua","Atlantic cod","Vulnerable","",45899.6
+"229",229,"COD","27","NL",712.63,1431.3,1485,1320.4,1411,2000,1985,2731,2689,1939,1603,1644,"Gadus morhua","Atlantic cod","Vulnerable","",20951.33
+"230",230,"COD","27","NO",411200.69,411218.34,420844.79,472129.02,470219.91,356746.21,338764.93,282659.81,242053,215739.11,217443,221054,"Gadus morhua","Atlantic cod","Vulnerable","",4060072.81
+"231",231,"COD","27","PL",10354.79,16523.16,18474.6,17859.15,19104.28,18551.57,15631.29,14841,12364.2,11253.8,11784.8,15946.7,"Gadus morhua","Atlantic cod","Vulnerable","",182689.34
+"232",232,"COD","27","PT",3978.14,4338.12,906.98,2007.37,4671.04,4024.97,3793.37,4724,4737.01,4087.01,4419.01,5409.51,"Gadus morhua","Atlantic cod","Vulnerable","",47096.53
+"233",233,"COD","27","RU",400335,397626,385058,436946,435409,333900,315490,271847,233963,194123,189867,207529,"Gadus morhua","Atlantic cod","Vulnerable","",3802093
+"234",234,"COD","27","SE",6198.91,7425.19,8056.14,6925.9,7895.1,13483,13480.6,12403.6,13188.1,12606.9,12986.8,13246.68,"Gadus morhua","Atlantic cod","Vulnerable","",127896.92
+"235",235,"COE","27","BE",45,40.1,29.2,40.3,26.5,37.6,31.2,26.7,31.21,64.52,81.31,58,"Conger conger","European conger","Least Concern","Increasing",511.64
+"236",236,"COE","27","DE",0,0.41,0.13,0.49,0.29,0.22,0.21,0,0.01,0,0,0.02,"Conger conger","European conger","Least Concern","Increasing",1.78
+"237",237,"COE","27","DK",0,0.28,0.37,0.3,0.05,0.01,0,0,0,0,0,0,"Conger conger","European conger","Least Concern","Increasing",1.01
+"238",238,"COE","27","ES",2190.37,2115.89,2329.63,2332.79,2899.25,4575.78,8432.94,6967.6,5557.92,5272.02,4380.21,3993.1,"Conger conger","European conger","Least Concern","Increasing",51047.5
+"239",239,"COE","27","FR",4420.97,4547.5,4291.15,4339.61,4449.8,4098.55,4619.79,4942.2,4932.7,4184,5538.34,4981.6,"Conger conger","European conger","Least Concern","Increasing",55346.21
+"240",240,"COE","27","GB",232.83,215.96,185.15,250.64,177.63,211.8,316.92,345.5,315.12,491.06,574.33,679.07,"Conger conger","European conger","Least Concern","Increasing",3996.01
+"241",241,"COE","27","GG",4.474,7.624,6.4,9,11,12,15,15,33,46,55,108,"Conger conger","European conger","Least Concern","Increasing",322.498
+"242",242,"COE","27","IE",50.91,49.62,42.84,62.8,45.04,49.39,52.66,52.81,47.7,57.3,95.2,174.31,"Conger conger","European conger","Least Concern","Increasing",780.58
+"243",243,"COE","27","IS",0,0,0,0,0,0,10516,0,0,0,0,0,"Conger conger","European conger","Least Concern","Increasing",10516
+"244",244,"COE","27","JE",3,2.25,0.979,1.54,1.929,1.932,3.123,3.547,3.71,7.107,13.785,18.714,"Conger conger","European conger","Least Concern","Increasing",61.616
+"245",245,"COE","27","NL",0.79,1,0.6,1,1,1,0,0,0,2,2,2,"Conger conger","European conger","Least Concern","Increasing",11.39
+"246",246,"COE","27","NO",0.91,0.4,0.5,0.2,0.3,0.03,0.06,4.36,0,0,0.01,0.02,"Conger conger","European conger","Least Concern","Increasing",6.79
+"247",247,"COE","27","PT",1308.91,1517.53,1619.03,1853.68,1443.69,1628.78,1885.85,1646,1720,1515,1893,1723.4,"Conger conger","European conger","Least Concern","Increasing",19754.87
+"248",248,"COE","27","RU",0,0,0,0,0,0,0,0,1,3,1,0,"Conger conger","European conger","Least Concern","Increasing",5
+"249",249,"COE","27","SE",0.02,0.04,0.02,0.1,0.1,0.1,0,0,0,0.4,0,0,"Conger conger","European conger","Least Concern","Increasing",0.78
+"250",250,"COU","27","ES",7.46,5.22,1.4,2.42,3.25,0,0,0,0,0,0,0,"Coris julis","Mediterranean rainbow wrasse","Least Concern","Stable",19.75
+"251",251,"COU","27","PT",3.96,5.18,5.24,3.59,3.05,2.53,2.86,3,5,5,6,0.7,"Coris julis","Mediterranean rainbow wrasse","Least Concern","Stable",46.11
+"252",252,"CPL","27","ES",0,0,0.09,0,0,0,0,0,0,0,0,0,"Centrophorus lusitanicus","Lowfin gulper shark","Vulnerable","Unknown",0.09
+"253",253,"CPL","27","PT",0,0,0,0,534.41,631.39,436.94,271,423.01,243.01,218.01,0.1,"Centrophorus lusitanicus","Lowfin gulper shark","Vulnerable","Unknown",2757.87
+"254",254,"CTB","27","ES",66.32,93.45,75.73,92.55,63.08,0,0,0,0,0,0,0,"Diplodus vulgaris","Common two-banded seabream","Least Concern","Unknown",391.13
+"255",255,"CTB","27","FR",5.73,9.73,0.05,0.03,0.53,0.07,0.06,0,0,0,0,0,"Diplodus vulgaris","Common two-banded seabream","Least Concern","Unknown",16.2
+"256",256,"CTB","27","PT",348.54,367.89,380.46,362.65,326.16,366.78,397.51,457,490,417,448,448.9,"Diplodus vulgaris","Common two-banded seabream","Least Concern","Unknown",4810.89
+"257",257,"CTZ","27","ES",9.23,8.87,11.06,20.41,21.64,0,0,0,0,0,0,0,"Chelidonichthys lastoviza","Streaked gurnard","Least Concern","Unknown",71.21
+"258",258,"CTZ","27","FR",54.95,73.66,58.23,71.86,67.95,71.85,74.7,87.5,88.2,4,72.1,74,"Chelidonichthys lastoviza","Streaked gurnard","Least Concern","Unknown",799
+"259",259,"CTZ","27","PT",3.38,0,0,0,0,0,0,0,0,0,0,0,"Chelidonichthys lastoviza","Streaked gurnard","Least Concern","Unknown",3.38
+"260",260,"CVJ","27","ES",42.76,26.24,34.74,51.16,33.76,0,0,0,0,0,0,0,"Caranx hippos","Crevalle jack","Least Concern","Stable",188.66
+"261",261,"CVJ","27","PT",0,0,0,0,0,0,0.01,0,0.01,0.01,0.01,0.02,"Caranx hippos","Crevalle jack","Least Concern","Stable",0.06
+"262",262,"CYO","27","DE",0,0,0.13,0,0,0,0,0,0,0,0,0,"Centroscymnus coelolepis","Portuguese dogfish","Near Threatened","Unknown",0.13
+"263",263,"CYO","27","EE",0,0,0,0,0,0,0,0,0,0,0,2.8,"Centroscymnus coelolepis","Portuguese dogfish","Near Threatened","Unknown",2.8
+"264",264,"CYO","27","ES",0,0,0,0,0,0,0,0.01,5.11,49,35.6,219.5,"Centroscymnus coelolepis","Portuguese dogfish","Near Threatened","Unknown",309.22
+"265",265,"CYO","27","FO",1.087,3.764,0,0,52,1,0,0,0,3,2,0,"Centroscymnus coelolepis","Portuguese dogfish","Near Threatened","Unknown",62.851
+"266",266,"CYO","27","FR",0,0,0.48,5.32,0,0,0,95.4,433.7,228,231.21,186.5,"Centroscymnus coelolepis","Portuguese dogfish","Near Threatened","Unknown",1180.61
+"267",267,"CYO","27","GB",0,0,0,0,0,0,0,20.5,15.11,44.03,88.8,273.08,"Centroscymnus coelolepis","Portuguese dogfish","Near Threatened","Unknown",441.52
+"268",268,"CYO","27","IE",0,0,0,0,0,0,0,0,0,0,7.3,103.9,"Centroscymnus coelolepis","Portuguese dogfish","Near Threatened","Unknown",111.2
+"269",269,"CYO","27","IS",0,0,0,0,2,4,1,0,0,0,0,0,"Centroscymnus coelolepis","Portuguese dogfish","Near Threatened","Unknown",7
+"270",270,"CYO","27","LT",0,0,0,0,0,0,0,0,0,0.1,2,5,"Centroscymnus coelolepis","Portuguese dogfish","Near Threatened","Unknown",7.1
+"271",271,"CYO","27","NL",0,0,0,0,0,0,0,1,0,0,0,0,"Centroscymnus coelolepis","Portuguese dogfish","Near Threatened","Unknown",1
+"272",272,"CYO","27","PT",2.41,0,0,0,0,0,0.4,1,33,74,136.01,481.8,"Centroscymnus coelolepis","Portuguese dogfish","Near Threatened","Unknown",728.62
+"273",273,"DAB","27","BE",284.4,431.6,408.5,481,662.6,625,469,553.1,569.82,559.1,624.4,604.5,"Limanda limanda","Common dab","Least Concern","Increasing",6273.02
+"274",274,"DAB","27","DE",981.03,1300.78,1246.48,1149.77,1195.98,982.3,983.7,786,883.9,926.9,1106.2,1698.3,"Limanda limanda","Common dab","Least Concern","Increasing",13241.34
+"275",275,"DAB","27","DK",1240,1883.27,1795.77,1160.88,1556.44,1624.87,1742.27,1494.01,1609.51,2024.01,2196.01,2264.02,"Limanda limanda","Common dab","Least Concern","Increasing",20591.06
+"276",276,"DAB","27","ES",0.12,0.07,0.03,0,0.13,0.23,0.01,0,0,2.01,0,14.8,"Limanda limanda","Common dab","Least Concern","Increasing",17.4
+"277",277,"DAB","27","FO",8.761,25.314,12.337,9,18,18,42,84,77,69,80,97,"Limanda limanda","Common dab","Least Concern","Increasing",540.412
+"278",278,"DAB","27","FR",253.71,352.98,423.14,549.04,967.13,1043.45,1149.88,1202.5,1117.9,942.53,1100.45,1080,"Limanda limanda","Common dab","Least Concern","Increasing",10182.71
+"279",279,"DAB","27","GB",469.92,463.24,444.84,652.59,898.52,825.8,802,874.6,800.25,964.02,1296.02,1537.03,"Limanda limanda","Common dab","Least Concern","Increasing",10028.83
+"280",280,"DAB","27","IE",0.27,0.58,8.25,9.07,7.55,4.16,0.13,0.1,3.22,0.02,1.3,4.6,"Limanda limanda","Common dab","Least Concern","Increasing",39.25
+"281",281,"DAB","27","IM",0,0,0.001,0,0,0,0,0,0,0,0,0,"Limanda limanda","Common dab","Least Concern","Increasing",0.001
+"282",282,"DAB","27","IS",243,339,500,505,723,144,903,611.9,882,798,810.3,1080.5,"Limanda limanda","Common dab","Least Concern","Increasing",7539.7
+"283",283,"DAB","27","NL",2277.9,2871.4,2780.7,3204.8,3650,4257,4940,5349,4650,5638,6472,5210,"Limanda limanda","Common dab","Least Concern","Increasing",51300.8
+"284",284,"DAB","27","NO",50.8,55.4,20.13,32.35,53.28,53.68,40.94,16.49,30,63.1,121,125,"Limanda limanda","Common dab","Least Concern","Increasing",662.17
+"285",285,"DAB","27","PT",0,0,0.06,0,0,0,0,0,0,0,0,0,"Limanda limanda","Common dab","Least Concern","Increasing",0.06
+"286",286,"DAB","27","RU",196,251,195,162,184,142,157,182,55,3,46,68,"Limanda limanda","Common dab","Least Concern","Increasing",1641
+"287",287,"DAB","27","SE",14.74,28.2,25.68,22,9.1,9,8.9,10.9,17.9,13.6,10.9,6.41,"Limanda limanda","Common dab","Least Concern","Increasing",177.33
+"288",288,"DCA","27","ES",0.01,0,0,0,0.01,0.01,0.79,0,0.02,9.03,26.2,30.4,"Deania calcea","Birdbeak dogfish","Least Concern","Unknown",66.47
+"289",289,"DCA","27","FR",0,0,0,0,0,0,0,1.7,12.1,0.9,0.9,0,"Deania calcea","Birdbeak dogfish","Least Concern","Unknown",15.6
+"290",290,"DCA","27","GB",0,0,0,0,0,0,0,0,0,0,0,21.03,"Deania calcea","Birdbeak dogfish","Least Concern","Unknown",21.03
+"291",291,"DCA","27","NO",0.17,0.03,0.04,0.15,0.16,0,0,0,0,0,0,0,"Deania calcea","Birdbeak dogfish","Least Concern","Unknown",0.55
+"292",292,"DCA","27","PT",2.12,0,0,0,0,0,0.55,2,23.01,60.01,38.01,80.5,"Deania calcea","Birdbeak dogfish","Least Concern","Unknown",206.2
+"293",293,"DEA","27","FO",0,1.98,44.02,4,24,9,0,134,0,0,0,0,"Dentex angolensis","Angolan dentex","Near Threatened","Unknown",217
+"294",294,"DEA","27","PT",0,0,0,0,0,0.02,0.59,7,10,8,9,4,"Dentex angolensis","Angolan dentex","Near Threatened","Unknown",38.61
+"295",295,"DEC","27","ES",17.59,17.62,25.4,39.24,79.34,0,0,0,0,0,0,0,"Dentex dentex","Common dentex","Vulnerable","Unknown",179.19
+"296",296,"DEC","27","FR",0.13,0.77,0.55,0.3,0.62,0.21,3.59,0,1.5,0.2,0.3,0.2,"Dentex dentex","Common dentex","Vulnerable","Unknown",8.37
+"297",297,"DEC","27","PT",8.93,8.1,12.68,9.81,4.47,6.1,9.6,9,6.01,7,6.01,3.71,"Dentex dentex","Common dentex","Vulnerable","Unknown",91.42
+"298",298,"DEL","27","ES",2.54,1.64,0.57,1.83,2.94,0,0,0,0,0,0,0,"Dentex macrophthalmus","Large-eye dentex","Least Concern","Unknown",9.52
+"299",299,"DEL","27","GB",0,0,0,0,0,0,0,0,0.2,0,0.01,0.01,"Dentex macrophthalmus","Large-eye dentex","Least Concern","Unknown",0.22
+"300",300,"DEL","27","PT",0.17,0.19,0.16,0.2,0.93,0.24,0.63,0,0.01,0.01,1,2.3,"Dentex macrophthalmus","Large-eye dentex","Least Concern","Unknown",5.84
+"301",301,"DEM","27","ES",0.15,0.01,0,0,0,0,0,0,0,0,0,0,"Dentex maroccanus","Morocco dentex","Least Concern","Unknown",0.16
+"302",302,"DEM","27","PT",0,0,0,0,0.06,0.64,0.1,0,0.02,0.01,0.01,0.2,"Dentex maroccanus","Morocco dentex","Least Concern","Unknown",1.04
+"303",303,"DEN","27","NL",0,0,0,0,0,0,0,0,0,0,0,1,"Dentex canariensis","Canary dentex","Least Concern","Unknown",1
+"304",304,"DEP","27","ES",36.49,39.92,50.17,39.48,22.07,0,0,0,0,0,0,0,"Dentex gibbosus","Pink dentex","Least Concern","Unknown",188.13
+"305",305,"DEP","27","PT",0,0,0.02,0.04,0,0,0,0,0,0,0,0,"Dentex gibbosus","Pink dentex","Least Concern","Unknown",0.06
+"306",306,"DGS","27","BE",0,0,0.1,0.3,0,0,2.7,1.1,6.42,10.83,10.4,16.6,"Squalus acanthias","Picked dogfish","Vulnerable","Decreasing",48.45
+"307",307,"DGS","27","DE",0.07,2.24,0.09,1.25,0.21,0.96,0.73,1,1.6,5.1,2.9,7.51,"Squalus acanthias","Picked dogfish","Vulnerable","Decreasing",23.66
+"308",308,"DGS","27","DK",38,23.88,26.6,11.07,20.14,31.19,25.74,14.73,82.73,78.02,76.04,122.03,"Squalus acanthias","Picked dogfish","Vulnerable","Decreasing",550.17
+"309",309,"DGS","27","ES",1.21,1.15,4.19,0.93,2.38,6.73,17.16,18.6,53.2,79,114.7,102.2,"Squalus acanthias","Picked dogfish","Vulnerable","Decreasing",401.45
+"310",310,"DGS","27","FR",0,0,0,19.06,13.6,18.76,73.46,290,507.3,580.5,658.7,847.2,"Squalus acanthias","Picked dogfish","Vulnerable","Decreasing",3008.58
+"311",311,"DGS","27","GB",36.87,29.92,0,0.02,6.08,3.2,1.21,64.2,546.45,278.08,808.43,1211.07,"Squalus acanthias","Picked dogfish","Vulnerable","Decreasing",2985.53
+"312",312,"DGS","27","IS",4,0,0,19,6,51,53,61.8,95,68,34.3,81.8,"Squalus acanthias","Picked dogfish","Vulnerable","Decreasing",473.9
+"313",313,"DGS","27","NL",1.72,1.3,0.8,0.2,2,3,1,8,4,19,25,24,"Squalus acanthias","Picked dogfish","Vulnerable","Decreasing",90.02
+"314",314,"DGS","27","NO",221.93,270.21,216.74,313.35,250.32,284.97,247.16,540.27,543.02,711.2,615.02,790.01,"Squalus acanthias","Picked dogfish","Vulnerable","Decreasing",5004.2
+"315",315,"DGS","27","PT",1.45,1.05,2.02,1.42,3.53,1.63,2.44,2,3,3,13.01,10.21,"Squalus acanthias","Picked dogfish","Vulnerable","Decreasing",44.76
+"316",316,"DGS","27","SE",1.27,0.01,0,0,0,0,0,5.1,80.4,76.1,94.8,148.43,"Squalus acanthias","Picked dogfish","Vulnerable","Decreasing",406.11
+"317",317,"DOL","27","ES",0.06,0,0.01,0,0,0,0,0,0,0,0,0,"Coryphaena hippurus","Common dolphinfish","Least Concern","Stable",0.07
+"318",318,"DOL","27","FR",0.08,0.35,0,0.15,0.53,10.86,1.49,0,0,0,0,0,"Coryphaena hippurus","Common dolphinfish","Least Concern","Stable",13.46
+"319",319,"DOL","27","NL",0,0.1,0,0,0,0,0,0,0,0,0,0,"Coryphaena hippurus","Common dolphinfish","Least Concern","Stable",0.1
+"320",320,"DOL","27","PT",2.6,2.33,1.15,0.43,3.24,8.46,17.93,21,4.01,8.03,10.01,7,"Coryphaena hippurus","Common dolphinfish","Least Concern","Stable",86.19
+"321",321,"DRS","27","PT",0,0,3.4,3.06,3.18,8.83,8.57,9,19,7,8,16.01,"Pteroscion peli","Boe drum","Least Concern","Unknown",86.05
+"322",322,"DUS","27","NL",0,0,0,0,0,0,0,0,1,0,0,0,"Carcharhinus obscurus","Dusky shark","Vulnerable","Decreasing",1
+"323",323,"DYL","27","ES",0,0,0.01,0.03,0.04,0,0,0,0,0,0,0,"Dactylopterus volitans","Flying gurnard","Least Concern","Unknown",0.08
+"324",324,"ECE","27","ES",0,0.9,9.08,5.45,2.84,0,0,0,0,0,0,0,"Cheilopogon heterurus","","Least Concern","Unknown",18.27
+"325",325,"EFJ","27","ES",0.04,0,0.01,0,0.01,0,0,0,0,0,0,0,"Epinephelus caninus","Dogtooth grouper","Data Deficient","Unknown",0.06
+"326",326,"EHI","27","PT",0,0,0,0.44,43.72,27.91,3.26,1,0,0,0,0,"Centracanthus cirrus","Curled picarel","Least Concern","Unknown",76.33
+"327",327,"ELE","27","BE",0,0,0.1,0.1,0,0,0,0,0,0,0,0,"Anguilla anguilla","European eel","Critically Endangered","Decreasing",0.2
+"328",328,"ELE","27","DE",16.14,38.95,39.48,46.74,45.2,42.05,52.77,74,73.6,84.5,87.6,116.8,"Anguilla anguilla","European eel","Critically Endangered","Decreasing",717.83
+"329",329,"ELE","27","DK",243,253.56,248.46,315.89,317.53,304.85,355.5,408.5,453.9,447,515.03,566.02,"Anguilla anguilla","European eel","Critically Endangered","Decreasing",4429.24
+"330",330,"ELE","27","EE",0.69,0.79,0.84,1.06,1.65,1.91,2.2,3.5,4.4,5.3,6.1,9,"Anguilla anguilla","European eel","Critically Endangered","Decreasing",37.44
+"331",331,"ELE","27","ES",28.28,35.99,30.01,44.09,50.11,37.98,34.14,32.2,47.2,34,29.4,63.2,"Anguilla anguilla","European eel","Critically Endangered","Decreasing",466.6
+"332",332,"ELE","27","FI",8.05,8.28,9.52,10.02,3,1.54,1.7,0,13,13,0,0,"Anguilla anguilla","European eel","Critically Endangered","Decreasing",68.11
+"333",333,"ELE","27","FR",52.73,33.73,56.39,61.88,65.06,82.77,63.5,97.4,57.9,68.2,76,62,"Anguilla anguilla","European eel","Critically Endangered","Decreasing",777.56
+"334",334,"ELE","27","GB",3.09,1.9,1.66,1.28,2.05,0.4,0.98,0,1.31,1.05,2.24,2.07,"Anguilla anguilla","European eel","Critically Endangered","Decreasing",18.03
+"335",335,"ELE","27","IE",0,0,0,0,0,0,0,0,0,0,0,1,"Anguilla anguilla","European eel","Critically Endangered","Decreasing",1
+"336",336,"ELE","27","IS",0,0,0,0,0,0,0,0.04,0,0,0,0,"Anguilla anguilla","European eel","Critically Endangered","Decreasing",0.04
+"337",337,"ELE","27","LT",0.02,0,0,0,0,0.01,0,0,0,0,0,0,"Anguilla anguilla","European eel","Critically Endangered","Decreasing",0.03
+"338",338,"ELE","27","LV",0.09,0.12,0.09,0.19,1.78,0.49,0.68,1.1,0.9,1.1,1,2,"Anguilla anguilla","European eel","Critically Endangered","Decreasing",9.54
+"339",339,"ELE","27","NL",12.37,13.7,9.1,3.5,5,1,3,6,3,6,8,16,"Anguilla anguilla","European eel","Critically Endangered","Decreasing",86.67
+"340",340,"ELE","27","NO",11.73,3.59,0,0,0.01,0.03,0.02,32.07,68.01,211,194,293,"Anguilla anguilla","European eel","Critically Endangered","Decreasing",813.46
+"341",341,"ELE","27","PL",81.5,58.78,41.58,39.46,48.6,30.83,32.06,53.4,50.5,48.7,48.6,53.1,"Anguilla anguilla","European eel","Critically Endangered","Decreasing",587.11
+"342",342,"ELE","27","PT",3.97,4.74,5.31,5.93,5.4,5.18,6.59,11,9,6,8,5.4,"Anguilla anguilla","European eel","Critically Endangered","Decreasing",76.52
+"343",343,"ELE","27","RU",11,6,4,4,5,5,9,16,9,17,36,54,"Anguilla anguilla","European eel","Critically Endangered","Decreasing",176
+"344",344,"ELE","27","SE",141.35,180.84,157.95,209.6,267.9,236.4,354.5,414.9,421.7,553.1,587.2,605.1,"Anguilla anguilla","European eel","Critically Endangered","Decreasing",4130.54
+"345",345,"ENC","27","PL",0,0,0,0,0,0,0,0,0,0,0.1,0,"Enchelyopus cimbrius","Fourbeard rockling","Least Concern","Unknown",0.1
+"346",346,"ENX","27","GB",0.32,0,0,0,0,0,0,0,0,0,0,0,"Centrolabrus exoletus","Rock cook","Least Concern","Unknown",0.32
+"347",347,"ENX","27","NO",12.53,10.91,5.84,7.82,5.34,9.01,0.25,0.03,0,0,0,0,"Centrolabrus exoletus","Rock cook","Least Concern","Unknown",51.73
+"348",348,"ENX","27","PT",41.29,36.94,39.5,32.49,36.17,37.39,34.84,69,59.01,50.01,0,0,"Centrolabrus exoletus","Rock cook","Least Concern","Unknown",436.64
+"349",349,"EPI","27","ES",1.01,0.59,0.09,0.05,0.19,1.9,42.99,31.7,38.72,14.02,35.41,23.3,"Epigonus telescopus","Black cardinal fish","Least Concern","Unknown",189.97
+"350",350,"EPI","27","FR",12.31,24.39,6.04,6,12.6,20.74,8.02,14.6,13.3,10.6,15.34,76,"Epigonus telescopus","Black cardinal fish","Least Concern","Unknown",219.94
+"351",351,"EPI","27","IE",0,0,0,0,0,0,0,0,0,0,0.7,11.9,"Epigonus telescopus","Black cardinal fish","Least Concern","Unknown",12.6
+"352",352,"EPI","27","PT",10.1,11.94,4.79,5.49,4.52,5.19,5.34,7,11.01,11.01,13.03,18.3,"Epigonus telescopus","Black cardinal fish","Least Concern","Unknown",107.72
+"353",353,"ETP","27","ES",0.03,0,0,0,0,0,0,0,0,0,0,0,"Etmopterus pusillus","Smooth lanternshark","Least Concern","Unknown",0.03
+"354",354,"ETR","27","ES",0.01,0,0.01,0,0,0,0,0,0,0,0,0,"Etmopterus princeps","Great lanternshark","Data Deficient","Unknown",0.02
+"355",355,"ETR","27","FR",0,0,0,0,0.01,0.08,0.14,0,0,0,0,0,"Etmopterus princeps","Great lanternshark","Data Deficient","Unknown",0.23
+"356",356,"ETR","27","GB",0,0,0,0,0,0,0,0,0,20,0,0,"Etmopterus princeps","Great lanternshark","Data Deficient","Unknown",20
+"357",357,"ETX","27","ES",0.05,0.01,0.09,0,0.34,0.56,1.88,0,0.01,0,120.4,0.7,"Etmopterus spinax","Velvet belly","Least Concern","Unknown",124.04
+"358",358,"ETX","27","FR",0,0,0.81,0,0.04,0,0,0,0,0,0,0,"Etmopterus spinax","Velvet belly","Least Concern","Unknown",0.85
+"359",359,"ETX","27","GB",0,0,0,0.03,0.01,0,0.24,0,0,0,7.6,0,"Etmopterus spinax","Velvet belly","Least Concern","Unknown",7.88
+"360",360,"ETX","27","NO",128.76,58.93,27.18,46.63,18.97,12.81,3.71,8.76,0,0,0,0,"Etmopterus spinax","Velvet belly","Least Concern","Unknown",305.75
+"361",361,"EZS","27","ES",0,0.02,0,0,0.06,0,0,0,0,0,0,0,"Scorpaena elongata","Slender rockfish","Least Concern","Unknown",0.08
+"362",362,"FAL","27","ES",0,0,0,0,0,0.76,0,0,0,0,0,0,"Carcharhinus falciformis","Silky shark","Vulnerable","Decreasing",0.76
+"363",363,"FAL","27","PT",0,0,0,0,0.03,0.01,0.33,0,0.01,0,0.01,0,"Carcharhinus falciformis","Silky shark","Vulnerable","Decreasing",0.39
+"364",364,"FBU","27","DE",0.21,0.9,1.31,2.09,3.53,4.87,2.23,3,0.5,0.6,0.4,1.3,"Lota lota","Burbot","Least Concern","Stable",20.94
+"365",365,"FBU","27","EE",3.16,3.82,5.09,4.95,2.8,1.66,1.62,1.31,1.42,1.41,3.1,3,"Lota lota","Burbot","Least Concern","Stable",33.34
+"366",366,"FBU","27","FI",191.27,187.92,101.34,111.96,146,84.01,93.6,101.86,109.69,87.88,215.24,225.23,"Lota lota","Burbot","Least Concern","Stable",1656
+"367",367,"FBU","27","LT",0,0,0,0.01,0,0,0,0,0,0,0,0,"Lota lota","Burbot","Least Concern","Stable",0.01
+"368",368,"FBU","27","LV",0,0.03,0.01,0.01,0.01,0,0,0,0,0,0,0,"Lota lota","Burbot","Least Concern","Stable",0.06
+"369",369,"FBU","27","PL",2.06,7.28,5.61,8.67,12.46,13.1,10.76,7.6,8.7,12.1,10.6,12.2,"Lota lota","Burbot","Least Concern","Stable",111.14
+"370",370,"FBU","27","RU",18,26,24,19,22,15,17,12,13,19,17,14,"Lota lota","Burbot","Least Concern","Stable",216
+"371",371,"FBU","27","SE",0.26,0.72,0.82,0.7,1.1,1.3,0.9,1.3,1.6,1.3,1.3,2.5,"Lota lota","Burbot","Least Concern","Stable",13.8
+"372",372,"FLE","27","BE",116.5,218.1,306.3,379.1,386.7,400.5,321.8,298.5,324.8,345.7,342.7,227.1,"Platichthys flesus","European flounder","Least Concern","Decreasing",3667.8
+"373",373,"FLE","27","DE",1263.46,1528.41,1502.92,1590.69,1844.95,1659.47,2202.23,1422,1778.2,2515.2,2349.8,1018.4,"Platichthys flesus","European flounder","Least Concern","Decreasing",20675.73
+"374",374,"FLE","27","DK",1033,910.59,2387.07,2552.37,3457.89,1379.45,1296.81,1663.71,1653.41,2046.03,2650.01,3371.02,"Platichthys flesus","European flounder","Least Concern","Decreasing",24401.36
+"375",375,"FLE","27","EE",186.53,200.61,239.34,312.99,283.95,190.44,280.16,285.1,336.1,324.2,334.8,352.1,"Platichthys flesus","European flounder","Least Concern","Decreasing",3326.32
+"376",376,"FLE","27","ES",11.03,15.6,18.39,17.84,12.4,8.17,29.24,26.9,21.11,11.04,15.83,38.1,"Platichthys flesus","European flounder","Least Concern","Decreasing",225.65
+"377",377,"FLE","27","FI",15.65,15.61,19.7,15.61,61,62.52,25.57,36.74,90.85,48.85,95.96,97.05,"Platichthys flesus","European flounder","Least Concern","Decreasing",585.11
+"378",378,"FLE","27","FR",67.06,70.92,83.1,96.55,111.29,125.29,159,156.3,193.3,111.42,182.84,238.5,"Platichthys flesus","European flounder","Least Concern","Decreasing",1595.57
+"379",379,"FLE","27","GB",83.04,115.1,135.1,73.38,115.49,126.5,175.9,240.1,205.71,166.02,237.02,344.02,"Platichthys flesus","European flounder","Least Concern","Decreasing",2017.38
+"380",380,"FLE","27","GL",1.3,2.2,2,0,0,0,0,0,0,0,0,0,"Platichthys flesus","European flounder","Least Concern","Decreasing",5.5
+"381",381,"FLE","27","IE",0.8,0.93,3.97,2.27,1.68,3.57,0.9,2.1,0.9,1.6,5.3,6.5,"Platichthys flesus","European flounder","Least Concern","Decreasing",30.52
+"382",382,"FLE","27","JE",0,0.002,0,0,0,0.003,0,0,0,0,0.028,0,"Platichthys flesus","European flounder","Least Concern","Decreasing",0.033
+"383",383,"FLE","27","LT",258.79,302.83,275.43,733.96,1002.76,644.26,450,502.1,498.5,664.5,361,376,"Platichthys flesus","European flounder","Least Concern","Decreasing",6070.13
+"384",384,"FLE","27","LV",1578.75,1924.16,2095.75,1868.45,1478.77,630.56,319.85,281.2,517.9,650.8,1055,1163,"Platichthys flesus","European flounder","Least Concern","Decreasing",13564.19
+"385",385,"FLE","27","NL",956.01,1282.1,1414.9,1333.4,1213,1678,2575,2617,2126,2233,2927,4021,"Platichthys flesus","European flounder","Least Concern","Decreasing",24376.41
+"386",386,"FLE","27","NO",3.25,1.04,1.87,1.48,3.97,0.83,1.98,6.05,3.02,3.61,11.02,39.01,"Platichthys flesus","European flounder","Least Concern","Decreasing",77.13
+"387",387,"FLE","27","PL",11053.31,15059.78,9440.6,12634.33,11861.16,10089.28,9725,11201.6,9653.9,9110.9,10693.4,9427.3,"Platichthys flesus","European flounder","Least Concern","Decreasing",129950.56
+"388",388,"FLE","27","PT",31.04,35.67,50.71,44.21,51.2,8.63,8.52,11,9,8,13,13.7,"Platichthys flesus","European flounder","Least Concern","Decreasing",284.68
+"389",389,"FLE","27","RU",1307,1135,1108,1047,1019,1079,1147,7514,983,980,1328,1237,"Platichthys flesus","European flounder","Least Concern","Decreasing",19884
+"390",390,"FLE","27","SE",131.7,115.56,124.08,259.2,484.7,171.3,186.7,183.3,221.6,224.7,192.7,181.31,"Platichthys flesus","European flounder","Least Concern","Decreasing",2476.85
+"391",391,"FOR","27","ES",46.03,62.91,116.91,151.06,173.58,2691.13,5239.91,4174.6,1603.11,1822,1504.7,267.6,"Phycis phycis","Forkbeard","Least Concern","Unknown",17853.54
+"392",392,"FOR","27","FR",0.1,0.25,0.28,2.38,11.87,0.44,0.26,5.6,4.9,0.31,0.31,0,"Phycis phycis","Forkbeard","Least Concern","Unknown",26.7
+"393",393,"FOR","27","GB",0.61,0,0,0,0,0,0,0,0,0,0,1.03,"Phycis phycis","Forkbeard","Least Concern","Unknown",1.64
+"394",394,"FOR","27","IE",0,0,0,2.6,1.7,1.46,0.3,0.1,0,0.3,0,0,"Phycis phycis","Forkbeard","Least Concern","Unknown",6.46
+"395",395,"FOR","27","PT",248.43,326.3,446.44,620.14,555.03,821.09,790.08,789,682,484.01,456.01,304.4,"Phycis phycis","Forkbeard","Least Concern","Unknown",6522.93
+"396",396,"FRI","27","ES",15.27,104.62,61.71,61.6,18.63,0,0,0,0,0,0,0,"Auxis thazard","Frigate tuna","Least Concern","Stable",261.83
+"397",397,"FRI","27","FR",1.43,3.36,4.18,2.94,4.51,2.04,0.3,3.3,0,2.6,2.6,0,"Auxis thazard","Frigate tuna","Least Concern","Stable",27.26
+"398",398,"FRI","27","PT",0,0.04,0,0,0,0.02,0,0,0,0,0.01,0,"Auxis thazard","Frigate tuna","Least Concern","Stable",0.07
+"399",399,"GAG","27","BE",0,0.1,0,0,0,0,0,0,0,0,0,0,"Galeorhinus galeus","Tope shark","Vulnerable","Decreasing",0.1
+"400",400,"GAG","27","DE",0.4,0,0,0,0,0,0,0,0,0,0,0,"Galeorhinus galeus","Tope shark","Vulnerable","Decreasing",0.4
+"401",401,"GAG","27","DK",2,0.93,1.4,3.44,0.99,1.01,3.82,1.61,2.61,4.02,4.02,6,"Galeorhinus galeus","Tope shark","Vulnerable","Decreasing",31.85
+"402",402,"GAG","27","ES",39.52,39.6,59.36,55.8,49.32,43.65,204.9,328.2,541.53,524.02,484.21,538.9,"Galeorhinus galeus","Tope shark","Vulnerable","Decreasing",2909.01
+"403",403,"GAG","27","FR",309.19,297.96,349.5,260.52,308.63,271.34,273.29,343.4,338.3,148.12,273.33,333,"Galeorhinus galeus","Tope shark","Vulnerable","Decreasing",3506.58
+"404",404,"GAG","27","GB",13.58,20.03,16.78,20.52,16.87,16,15.71,17,23.73,42.07,49.32,91.05,"Galeorhinus galeus","Tope shark","Vulnerable","Decreasing",342.66
+"405",405,"GAG","27","IE",0,0,0,0,0,0.26,0,0,0,0,0,0,"Galeorhinus galeus","Tope shark","Vulnerable","Decreasing",0.26
+"406",406,"GAG","27","JE",0,2.409,0.295,0.225,0.429,0.37,0.27,0.01,0.177,0.362,0.878,2.22,"Galeorhinus galeus","Tope shark","Vulnerable","Decreasing",7.645
+"407",407,"GAG","27","LT",0,0,0,0,0,0.06,0,0,0,0,0,0,"Galeorhinus galeus","Tope shark","Vulnerable","Decreasing",0.06
+"408",408,"GAG","27","NL",18.77,8.1,6.6,10.9,9,17,12,0,0,0,0,0,"Galeorhinus galeus","Tope shark","Vulnerable","Decreasing",82.37
+"409",409,"GAG","27","NO",0,0,0.01,0,0.01,0,0.18,0.05,0,0,0,0,"Galeorhinus galeus","Tope shark","Vulnerable","Decreasing",0.25
+"410",410,"GAG","27","PT",75.34,92.24,101.11,234,46.18,47.44,43.19,41,34.01,47,43,45.11,"Galeorhinus galeus","Tope shark","Vulnerable","Decreasing",849.62
+"411",411,"GAM","27","ES",0,0,0.01,0,0,0,0,0,0,0,0,4.8,"Galeus murinus","Mouse catshark","Least Concern","Stable",4.81
+"412",412,"GAM","27","FR",0.02,0,2.05,3.57,3.82,1.06,5,4.5,7.4,0.6,0.3,0,"Galeus murinus","Mouse catshark","Least Concern","Stable",28.32
+"413",413,"GAR","27","DE",137.98,102.74,137.92,90.87,97.61,71.66,69.55,76,97.6,70.6,109.6,78.12,"Belone belone","Garfish","Least Concern","Unknown",1140.25
+"414",414,"GAR","27","DK",234,212.31,202.31,263.83,237.2,201.06,294.24,300.21,354.11,192,263,347,"Belone belone","Garfish","Least Concern","Unknown",3101.27
+"415",415,"GAR","27","EE",176.76,70,115.94,43.84,19.14,25.04,117.74,86.1,71.7,82.2,109.5,191.3,"Belone belone","Garfish","Least Concern","Unknown",1109.26
+"416",416,"GAR","27","ES",111.35,219.08,162.18,161.14,117.54,133.7,195.42,92.8,88.71,69.01,72.9,83,"Belone belone","Garfish","Least Concern","Unknown",1506.83
+"417",417,"GAR","27","FR",27.25,36.21,59.24,72.01,47.11,56.85,68.23,67.8,58.2,13.7,57.71,51.4,"Belone belone","Garfish","Least Concern","Unknown",615.71
+"418",418,"GAR","27","GB",0.3,0.22,0.49,1.08,1.38,1.2,1.53,1.3,1.64,1.03,0.83,0.04,"Belone belone","Garfish","Least Concern","Unknown",11.04
+"419",419,"GAR","27","GG",0,0,0,0,0,0,0,1,1,0,0,0,"Belone belone","Garfish","Least Concern","Unknown",2
+"420",420,"GAR","27","JE",0,0.035,0.013,0.004,0.1,0.001,0.001,0.001,0.008,0,0.006,0.307,"Belone belone","Garfish","Least Concern","Unknown",0.476
+"421",421,"GAR","27","LT",7.36,19.7,4.26,2.17,4.17,2.96,4,1.6,6.6,3.5,0,0,"Belone belone","Garfish","Least Concern","Unknown",56.32
+"422",422,"GAR","27","LV",56.06,19.49,28.47,12.29,20.55,16.56,21.31,26.1,30.1,40.2,26,25,"Belone belone","Garfish","Least Concern","Unknown",322.13
+"423",423,"GAR","27","NL",0.92,1.3,1,0.4,1,0,10,1,1,0,0,88,"Belone belone","Garfish","Least Concern","Unknown",104.62
+"424",424,"GAR","27","NO",0.12,0.1,0,0.14,0.12,0.1,0.07,0.43,0.01,0.1,1,1,"Belone belone","Garfish","Least Concern","Unknown",3.19
+"425",425,"GAR","27","PL",75.81,46.65,49.25,13.59,29.58,26.33,20.72,23,12.5,24.1,50.4,30,"Belone belone","Garfish","Least Concern","Unknown",401.93
+"426",426,"GAR","27","PT",9.42,27.7,51.58,18.16,16.26,21.79,240.28,22,21.02,15.02,25.01,22.71,"Belone belone","Garfish","Least Concern","Unknown",490.95
+"427",427,"GAR","27","SE",0.36,0.26,0.31,0.6,1.4,1.1,0.9,1.8,2.3,1.8,0.9,1.61,"Belone belone","Garfish","Least Concern","Unknown",13.34
+"428",428,"GBF","27","ES",0,0,0,0.03,0.03,0,0,0,0,0,0,0,"Gobiusculus flavescens","Two-spotted goby","Least Concern","Stable",0.06
+"429",429,"GBN","27","ES",0,0,0.04,0.02,0.01,0,0,0,0,0,0,0,"Gobius niger","Black goby","Least Concern","Stable",0.07
+"430",430,"GBR","27","ES",135.48,166.93,180.34,192.24,196.19,142.08,162.21,193.9,141.82,165.03,21.2,0,"Plectorhinchus mediterraneus","Rubberlip grunt","Data Deficient","Unknown",1697.42
+"431",431,"GBR","27","PT",1.56,1.87,2.02,2.7,2.07,2.29,3.1,8,4,5,6.01,5.41,"Plectorhinchus mediterraneus","Rubberlip grunt","Data Deficient","Unknown",44.03
+"432",432,"GGU","27","ES",0.62,0.54,0.6,0.22,0.03,0,0,0,0,0,0,0,"Gaidropsarus vulgaris","Three-bearded rockling","Least Concern","Stable",2.01
+"433",433,"GLI","27","ES",0,0.01,0,0,0,0,0,0,0,0,0,0,"Glossanodon leioglossus","Smalltoothed argentine","Least Concern","Stable",0.01
+"434",434,"GMG","27","LV",0,0,0,0,25.93,2.19,0.48,0.6,0,0,0,0,"Grammicolepis brachiusculus","Thorny tinselfish","Least Concern","Unknown",29.2
+"435",435,"GOA","27","PT",1.75,2.2,2.22,2.92,3.82,4.27,1.89,26,0.02,0.02,0.01,0,"Pseudupeneus prayensis","West African goatfish","Vulnerable","Decreasing",45.12
+"436",436,"GPC","27","PT",1.32,0,0,0,0,0,0,0,0,0,0,0,"Cynoponticus ferox","Guinean pike conger","Least Concern","Unknown",1.32
+"437",437,"GPD","27","ES",4.8,7.97,5.76,8.96,6.27,17.96,43.09,31.3,28.9,67.05,114.71,55.8,"Epinephelus marginatus","Dusky grouper","Vulnerable","Decreasing",392.57
+"438",438,"GPD","27","FR",4.58,1.09,1.05,0.84,1.01,2.99,4.71,5.4,5.1,8.7,10.9,5.4,"Epinephelus marginatus","Dusky grouper","Vulnerable","Decreasing",51.77
+"439",439,"GPD","27","GB",0.31,0,0,0,0,0.3,0,0,0,0,0.21,1.02,"Epinephelus marginatus","Dusky grouper","Vulnerable","Decreasing",1.84
+"440",440,"GPD","27","PT",37.13,41.91,28.52,24.36,14.4,14.06,20.67,24,1.02,1.02,1.01,1.7,"Epinephelus marginatus","Dusky grouper","Vulnerable","Decreasing",209.8
+"441",441,"GPW","27","PT",0,1.72,2.4,0.98,2.19,2.53,0.94,1,1.01,3.01,14.01,2.61,"Epinephelus aeneus","White grouper","Near Threatened","Decreasing",32.4
+"442",442,"GRA","27","LT",0,0,0,0,0,0,0,0,0,0,6,0,"Parapristipoma octolineatum","African striped grunt","Least Concern","Unknown",6
+"443",443,"GRA","27","PT",0,0,0,1.4,0.17,4.09,3.65,1,3,6,7,7.7,"Parapristipoma octolineatum","African striped grunt","Least Concern","Unknown",34.01
+"444",444,"GRB","27","PT",0,0,0,0,0,0.01,0,0,0.01,0,0,0.11,"Brachydeuterus auritus","Bigeye grunt","Near Threatened","Unknown",0.13
+"445",445,"GSK","27","GL",29.4,26,17,8,0,0,0,0,0,0,17,0,"Somniosus microcephalus","Greenland shark","Near Threatened","Unknown",97.4
+"446",446,"GSK","27","IS",19,26,28,59,6,18,18,43.2,25,42,2,27.9,"Somniosus microcephalus","Greenland shark","Near Threatened","Unknown",314.1
+"447",447,"GSK","27","PT",0,0,0,0,0,0,0,0,0.01,1,1.01,0.51,"Somniosus microcephalus","Greenland shark","Near Threatened","Unknown",2.53
+"448",448,"GSK","27","SE",0,0,0,0,0,0,0,0,0.4,0,0,0,"Somniosus microcephalus","Greenland shark","Near Threatened","Unknown",0.4
+"449",449,"GSM","27","ES",0.09,0.04,0,0,0.1,0,0,0,0,0,0,0,"Buglossidium luteum","Solenette","Least Concern","Unknown",0.23
+"450",450,"GSM","27","FR",0.1,0.02,0.08,0,0,0.06,0,0,0,0.01,0.01,0,"Buglossidium luteum","Solenette","Least Concern","Unknown",0.28
+"451",451,"GTA","27","DK",5,0,0,0,0,0,24.7,0,0,0,0,0,"Gasterosteus aculeatus","Three-spined stickleback","Least Concern","Stable",29.7
+"452",452,"GTA","27","EE",0,0,0,0.3,0,0,0.04,0.01,0.01,0.02,0.3,0,"Gasterosteus aculeatus","Three-spined stickleback","Least Concern","Stable",0.68
+"453",453,"GTA","27","RU",22,47,56,36,38,13,50,102,133,192,175,208,"Gasterosteus aculeatus","Three-spined stickleback","Least Concern","Stable",1072
+"454",454,"GTA","27","SE",74.26,0,50.17,0,0,0,0,0,0,0,0,0,"Gasterosteus aculeatus","Three-spined stickleback","Least Concern","Stable",124.43
+"455",455,"GUM","27","ES",13.25,15.11,8.64,15.02,43.71,0,0,0,0,0,0,0,"Chelidonichthys obscurus","Longfin gurnard","Least Concern","Unknown",95.73
+"456",456,"GUM","27","PT",1.23,0,0,0,0.6,0.78,7.94,22,46.01,44.01,0,0,"Chelidonichthys obscurus","Longfin gurnard","Least Concern","Unknown",122.57
+"457",457,"GUN","27","ES",12.58,21.37,20.88,16.41,10.53,0,0,0,0,0,0,0,"Trigla lyra","Piper gurnard","Least Concern","Unknown",81.77
+"458",458,"GUN","27","FR",0.14,0.03,0.43,0,0.36,0.94,0.36,0.5,0,0.1,0.1,0.3,"Trigla lyra","Piper gurnard","Least Concern","Unknown",3.26
+"459",459,"GUN","27","PT",4.49,7.88,5.88,10.68,19.7,19.64,8.62,4,14.01,45.01,50,39.7,"Trigla lyra","Piper gurnard","Least Concern","Unknown",229.61
+"460",460,"GUQ","27","DE",0,0,0,0,0,0,0,0,0,0,0.1,0.5,"Centrophorus squamosus","Leafscale gulper shark","Vulnerable","Decreasing",0.6
+"461",461,"GUQ","27","ES",0,0,0,0,0,0,0,0,0.91,9.03,6.71,17.8,"Centrophorus squamosus","Leafscale gulper shark","Vulnerable","Decreasing",34.45
+"462",462,"GUQ","27","FO",0,0,0,0,28,17,0,0,0,0,3,0,"Centrophorus squamosus","Leafscale gulper shark","Vulnerable","Decreasing",48
+"463",463,"GUQ","27","FR",0,0,9.64,32.64,0,0.09,2.66,146.2,141.2,48.01,59.51,42.5,"Centrophorus squamosus","Leafscale gulper shark","Vulnerable","Decreasing",482.45
+"464",464,"GUQ","27","GB",0,0,0,0,0,0,0,0,0,0,16.1,150.03,"Centrophorus squamosus","Leafscale gulper shark","Vulnerable","Decreasing",166.13
+"465",465,"GUQ","27","IE",0,0,0,0,0,0,0,0,0,0.3,0,0,"Centrophorus squamosus","Leafscale gulper shark","Vulnerable","Decreasing",0.3
+"466",466,"GUQ","27","PT",6.08,0,0,0.52,0,0,0.39,2,26,87,236.01,548.9,"Centrophorus squamosus","Leafscale gulper shark","Vulnerable","Decreasing",906.9
+"467",467,"GUU","27","BE",1262.1,1276,950.7,730.3,623.9,670.8,438.4,447.9,436.41,0,0,0,"Chelidonichthys lucerna","Tub gurnard","Least Concern","Unknown",6836.51
+"468",468,"GUU","27","DK",86,0,0,0,0,0,0,0,0,0,0,0,"Chelidonichthys lucerna","Tub gurnard","Least Concern","Unknown",86
+"469",469,"GUU","27","ES",19.84,27.73,13.67,6.79,6.59,0,0,0,0,0,0,0,"Chelidonichthys lucerna","Tub gurnard","Least Concern","Unknown",74.62
+"470",470,"GUU","27","FR",1246.23,1418.62,1371.51,1026.34,925.8,919.24,990.13,904.6,937.7,909.21,1328.12,1269,"Chelidonichthys lucerna","Tub gurnard","Least Concern","Unknown",13246.5
+"471",471,"GUU","27","GB",417.66,489.31,391.51,296.36,197.22,32.2,0,0,0,0,0,0,"Chelidonichthys lucerna","Tub gurnard","Least Concern","Unknown",1824.26
+"472",472,"GUU","27","NL",3322.9,3707.3,2984.6,2423.2,2003,1834,1687,0,1668,1543,2088,1726,"Chelidonichthys lucerna","Tub gurnard","Least Concern","Unknown",24987
+"473",473,"GUU","27","PT",44.47,44.96,59.59,77.71,63.92,61.86,75.33,59,59,61.01,0,0,"Chelidonichthys lucerna","Tub gurnard","Least Concern","Unknown",606.85
+"474",474,"HAD","27","BE",146.1,147.4,172.9,205.7,259.2,326.7,335,259.3,246.32,236.01,328.42,228.5,"Melanogrammus aeglefinus","Haddock","Vulnerable","",2891.55
+"475",475,"HAD","27","DE",800.88,850.95,833.04,1144.83,1268.72,1796.42,2443.47,4269,2719.5,1016.1,2056.1,1908.41,"Melanogrammus aeglefinus","Haddock","Vulnerable","",21107.42
+"476",476,"HAD","27","DK",2073,2253.84,2523.02,2843.2,2741.23,2863.6,2359.07,1864.53,1817.83,1575.01,1724.03,1781.03,"Melanogrammus aeglefinus","Haddock","Vulnerable","",26419.39
+"477",477,"HAD","27","EE",22.63,0,0,0,0,0,0,0,0,0,0,0,"Melanogrammus aeglefinus","Haddock","Vulnerable","",22.63
+"478",478,"HAD","27","ES",131.41,179.65,152.74,142.33,104.35,168.93,195.11,200.7,109.83,176.03,180.82,311.4,"Melanogrammus aeglefinus","Haddock","Vulnerable","",2053.3
+"479",479,"HAD","27","FO",6769.878,7194.134,6604.409,5146,5578,5139,5550,8894,8909,11400,16834,21410,"Melanogrammus aeglefinus","Haddock","Vulnerable","",109428.421
+"480",480,"HAD","27","FR",5371.42,5274.44,6256.73,6989.71,9448.19,12301,9197.58,6933.3,5810,4577.5,5248.62,4873.8,"Melanogrammus aeglefinus","Haddock","Vulnerable","",82282.29
+"481",481,"HAD","27","GB",34441.47,34001.07,33264.42,36302.03,39741.8,35056.9,29835.5,33614.2,36294.13,33062.05,33487.13,39807.08,"Melanogrammus aeglefinus","Haddock","Vulnerable","",418907.78
+"482",482,"HAD","27","GL",1399.6,1402.4,1110.4,1158,1578,2551,2110,1989,1426,1038,901,1124,"Melanogrammus aeglefinus","Haddock","Vulnerable","",17787.4
+"483",483,"HAD","27","IE",3933.1,3772.04,3126.26,3394.26,4068.73,5585.36,4171.65,3507.2,4023.2,3724.4,3596.2,2688.2,"Melanogrammus aeglefinus","Haddock","Vulnerable","",45590.6
+"484",484,"HAD","27","IM",15,0.677,0.047,0,0,0,0,0,1,1,0,0,"Melanogrammus aeglefinus","Haddock","Vulnerable","",17.724
+"485",485,"HAD","27","IS",38024,38308,40885,35990,45565,47716,51285,64938.7,81832,102384.9,109313.3,96617.6,"Melanogrammus aeglefinus","Haddock","Vulnerable","",752859.5
+"486",486,"HAD","27","JE",0,0,0,0,0,0,0,0,0.013,0,0,0.034,"Melanogrammus aeglefinus","Haddock","Vulnerable","",0.047
+"487",487,"HAD","27","LV",7.07,0,0,0.3,0,0,0,0,0,0,0,0,"Melanogrammus aeglefinus","Haddock","Vulnerable","",7.37
+"488",488,"HAD","27","NL",137.64,202.2,64.8,124.5,198,256,106,43,25,29,55,33,"Melanogrammus aeglefinus","Haddock","Vulnerable","",1274.14
+"489",489,"HAD","27","NO",113775.79,110334.64,96963.84,94213.32,101219.99,160976.63,159555.73,124678.98,106466,74807.7,73059,71413.01,"Melanogrammus aeglefinus","Haddock","Vulnerable","",1287464.63
+"490",490,"HAD","27","PL",227.75,252.47,245.96,187.33,439.44,442.03,645.78,705.3,316.7,55,31.1,180.8,"Melanogrammus aeglefinus","Haddock","Vulnerable","",3729.66
+"491",491,"HAD","27","PT",87.07,120.36,20.15,32.74,101.08,140.27,995.78,488,643.01,611.01,992.01,558.8,"Melanogrammus aeglefinus","Haddock","Vulnerable","",4790.28
+"492",492,"HAD","27","RU",106867,115711,92000,79113,85672,143887,139912,111570,85569,70471,67851,55467,"Melanogrammus aeglefinus","Haddock","Vulnerable","",1154090
+"493",493,"HAD","27","SE",294.65,247.94,338.79,373,330.7,313.1,326.8,215.6,307.2,359.4,408,346.7,"Melanogrammus aeglefinus","Haddock","Vulnerable","",3861.88
+"494",494,"HAL","27","BE",1.8,1.6,0.7,0.5,0.6,0.2,0.6,4.3,5.84,7.42,5.13,2,"Hippoglossus hippoglossus","Atlantic halibut","Endangered","",30.69
+"495",495,"HAL","27","DE",20.11,18.33,15.33,11.04,17.34,14.59,14.39,19,29.2,30.1,26,24.51,"Hippoglossus hippoglossus","Atlantic halibut","Endangered","",239.94
+"496",496,"HAL","27","DK",170,119.47,58.54,47.66,56.55,35.31,49.23,77.21,110.4,129.03,118.05,139.03,"Hippoglossus hippoglossus","Atlantic halibut","Endangered","",1110.48
+"497",497,"HAL","27","ES",0,0.2,1.14,0.02,0.19,1.81,1.05,3.9,0.04,4.02,0.11,0.2,"Hippoglossus hippoglossus","Atlantic halibut","Endangered","",12.68
+"498",498,"HAL","27","FO",22.434,55.296,68.264,102,103,140,119,176,224,240,405,463,"Hippoglossus hippoglossus","Atlantic halibut","Endangered","",2117.994
+"499",499,"HAL","27","FR",2.68,2.97,1.44,14.08,6.65,6.88,6.43,16.8,34.4,40.53,48.02,27.4,"Hippoglossus hippoglossus","Atlantic halibut","Endangered","",208.28
+"500",500,"HAL","27","GB",204.89,130.95,55.3,36.31,47.65,70.8,107.36,188.9,263.66,325.1,268.74,228.13,"Hippoglossus hippoglossus","Atlantic halibut","Endangered","",1927.79
+"501",501,"HAL","27","GL",14,16.1,44.4,18,25,25,6,24,57,148,8,10,"Hippoglossus hippoglossus","Atlantic halibut","Endangered","",395.5
+"502",502,"HAL","27","IE",0.41,0.11,0.23,0,0.02,0.04,0.36,1.8,1.53,3.01,9.51,4.02,"Hippoglossus hippoglossus","Atlantic halibut","Endangered","",21.04
+"503",503,"HAL","27","IS",107,124,88,60,41,36,549,550.8,498,502,419.5,469.2,"Hippoglossus hippoglossus","Atlantic halibut","Endangered","",3444.5
+"504",504,"HAL","27","NL",5.33,2.9,0.6,1.7,1,1,2,2,2,11,6,3,"Hippoglossus hippoglossus","Atlantic halibut","Endangered","",38.53
+"505",505,"HAL","27","NO",2647.55,2864.26,2410.04,2342.2,1909.02,2181.68,1974.27,1872.25,1538.02,1750.1,1606.01,1363.01,"Hippoglossus hippoglossus","Atlantic halibut","Endangered","",24458.41
+"506",506,"HAL","27","PL",1.92,3.01,4,0,0.03,0.11,0,0,0.3,0,0,0,"Hippoglossus hippoglossus","Atlantic halibut","Endangered","",9.37
+"507",507,"HAL","27","PT",2.57,1.77,0.88,1.07,1.34,0.98,1.48,3,46.01,10.01,22.02,11.81,"Hippoglossus hippoglossus","Atlantic halibut","Endangered","",102.94
+"508",508,"HAL","27","RU",0,0,1,1,0,0,0,0,2,1,2,0,"Hippoglossus hippoglossus","Atlantic halibut","Endangered","",7
+"509",509,"HAL","27","SE",8.39,3.81,3.23,3.7,3.9,7.4,6.4,17.5,7.3,8.3,5.4,4.4,"Hippoglossus hippoglossus","Atlantic halibut","Endangered","",79.73
+"510",510,"HER","27","BE",13.1,27.8,18.4,27.4,22.4,3.8,3.2,1.2,0.21,0.21,0.9,3.1,"Clupea harengus","Atlantic herring","Least Concern","Increasing",121.72
+"511",511,"HER","27","DE",62820.34,67152.9,67122.72,53339.5,71840.57,51214.16,37022.78,37039,37453.01,46660.1,49966.1,80551.8,"Clupea harengus","Atlantic herring","Least Concern","Increasing",662182.98
+"512",512,"HER","27","DK",148525,160669.28,134810.63,135579.73,141028.37,125117.07,85934.05,77445.4,92049.3,105446,120659,139660,"Clupea harengus","Atlantic herring","Least Concern","Increasing",1466923.83
+"513",513,"HER","27","EE",35152.67,33768.71,32317.48,23130.06,21940.58,22047.41,25325.24,28861.8,33168.4,31842.5,26108.1,23191.5,"Clupea harengus","Atlantic herring","Least Concern","Increasing",336854.45
+"514",514,"HER","27","ES",0,0,0,0,0.05,0.71,53.97,87.7,54.5,145,159.4,347.3,"Clupea harengus","Atlantic herring","Least Concern","Increasing",848.63
+"515",515,"HER","27","FI",134522.23,136696.87,131714.85,130685.1,122318,117520.68,98001.69,92757.15,90832.93,83717.04,89392.75,79887.36,"Clupea harengus","Atlantic herring","Least Concern","Increasing",1308046.65
+"516",516,"HER","27","FO",108244.7,55382.42,42495.9,43326,115552,51352,72952,87576,94538,78317,63332,71840,"Clupea harengus","Atlantic herring","Least Concern","Increasing",884908.02
+"517",517,"HER","27","FR",28813.02,34819.1,30284.07,30944.97,30142.26,24372.09,12879.15,4421.1,3751.6,22122.11,22115.01,39607.3,"Clupea harengus","Atlantic herring","Least Concern","Increasing",284271.78
+"518",518,"HER","27","GB",84057.77,92231.3,93744.06,97683.23,93568.96,90418.8,61570.2,66890.9,67113.31,67113.02,91097.64,109612,"Clupea harengus","Atlantic herring","Least Concern","Increasing",1015101.19
+"519",519,"HER","27","GG",0,0,0,0,0,0,0,1,1,1,0,0,"Clupea harengus","Atlantic herring","Least Concern","Increasing",3
+"520",520,"HER","27","GL",12857.6,20107.6,12573.6,13185,12133,2583,2940,4764,3730,4245,4898,18130,"Clupea harengus","Atlantic herring","Least Concern","Increasing",112146.8
+"521",521,"HER","27","IE",16287.96,19317.16,19251.37,24056.31,23192.28,28718.8,24806.58,26662,26254.5,28058,30826.9,30779.6,"Clupea harengus","Atlantic herring","Least Concern","Increasing",298211.46
+"522",522,"HER","27","IM",4,0.108,0.754,0,1,1,1,0,2,2,1,0,"Clupea harengus","Atlantic herring","Least Concern","Increasing",12.862
+"523",523,"HER","27","IS",130633,116762,109355,157977,157537,193319,198463,254476,331200.1,370814,319894.3,291372,"Clupea harengus","Atlantic herring","Least Concern","Increasing",2631802.4
+"524",524,"HER","27","JE",0,0,0,0,0,0.04,0,0,1,0,0,0,"Clupea harengus","Atlantic herring","Least Concern","Increasing",1.04
+"525",525,"HER","27","LT",4036.89,5199.32,4724.59,12624.58,2475.15,2275.76,2797,2042.4,3806.9,1793.2,3592,1172,"Clupea harengus","Atlantic herring","Least Concern","Increasing",46539.79
+"526",526,"HER","27","LV",24795.43,26111.94,25265.59,23314.7,20719.95,20099.79,25789.31,21372.8,21556.7,22526.7,22404,21762,"Clupea harengus","Atlantic herring","Least Concern","Increasing",275718.91
+"527",527,"HER","27","NL",91494.14,103022.2,93394.4,85261.4,88010,85091,45400,55782,56934,56709,103120,95915,"Clupea harengus","Atlantic herring","Least Concern","Increasing",960133.14
+"528",528,"HER","27","NO",526167.33,351806.39,313131.83,407303.1,507119.13,610713.23,633580.84,923741.23,1070437,1025492.8,884738,710591,"Clupea harengus","Atlantic herring","Least Concern","Increasing",7964821.88
+"529",529,"HER","27","PL",43007.89,44045.39,39714.61,28136.9,23559.81,27114.37,29295.56,24897.3,22232.5,16848,25175.1,22069.5,"Clupea harengus","Atlantic herring","Least Concern","Increasing",346096.93
+"530",530,"HER","27","PT",0,0,0,6.32,0.09,0,0,0,0.01,0.01,0.01,0.5,"Clupea harengus","Atlantic herring","Least Concern","Increasing",6.94
+"531",531,"HER","27","RU",113445,74016,66746,76226,88626,131692,152916,208651,222283,202161,171527,131112,"Clupea harengus","Atlantic herring","Least Concern","Increasing",1639401
+"532",532,"HER","27","SE",103181.78,117213.1,97012.48,80820.4,77224.5,66967.7,60879.2,71116.6,76233.8,94656.3,99487.1,103351.7,"Clupea harengus","Atlantic herring","Least Concern","Increasing",1048144.66
+"533",533,"HKB","27","PT",0,0,0,0,0,0.02,0,0,0.01,0,0,0.3,"Merluccius polli","Benguela hake","Least Concern","Unknown",0.33
+"534",534,"HKE","27","BE",85.8,81,58,60.4,51,39.5,51.8,68.7,50.8,71.5,78.6,83.3,"Merluccius merluccius","European hake","Least Concern","Unknown",780.4
+"535",535,"HKE","27","DE",764,844.51,849.77,758.26,560.96,402.84,298.17,278,175.12,222.7,242.7,133.71,"Merluccius merluccius","European hake","Least Concern","Unknown",5530.74
+"536",536,"HKE","27","DK",4763,4439.91,3980.89,3034.08,3140.34,2409.43,2188.46,2189.32,2178.75,1667.04,1224.05,1359.05,"Merluccius merluccius","European hake","Least Concern","Unknown",32574.32
+"537",537,"HKE","27","ES",36103.29,37240.13,30628.22,31632.08,27364.54,27193.71,24856.25,23743.41,22189.31,21814.02,13042.8,22608.2,"Merluccius merluccius","European hake","Least Concern","Unknown",318415.96
+"538",538,"HKE","27","FO",6.605,115.253,12.63,5,3,5,7,20,21,67,9,5,"Merluccius merluccius","European hake","Least Concern","Unknown",276.488
+"539",539,"HKE","27","FR",44512.34,44603.82,42807.64,39935.49,30983.16,26077.33,24927.91,19184.3,17066.3,10428.11,12416.81,10598.9,"Merluccius merluccius","European hake","Least Concern","Unknown",323542.11
+"540",540,"HKE","27","GB",14868.37,14361.63,12670.2,11328.67,8935.5,8321.4,8022.8,6926.9,7921.95,6061.08,4576.13,3875.06,"Merluccius merluccius","European hake","Least Concern","Unknown",107869.69
+"541",541,"HKE","27","IE",3486.62,3393.73,2736.23,2600.78,1772.44,1851.92,1895.69,2047.6,1618.71,1392.7,1438.1,1114.61,"Merluccius merluccius","European hake","Least Concern","Unknown",25349.13
+"542",542,"HKE","27","IS",0,0,0,52,0,0,0,109.9,0,0,0,0,"Merluccius merluccius","European hake","Least Concern","Unknown",161.9
+"543",543,"HKE","27","NL",190.29,794.9,830.3,224.9,142,226,493,251,193,157,95,37,"Merluccius merluccius","European hake","Least Concern","Unknown",3634.39
+"544",544,"HKE","27","NO",5050.25,6705.86,5034.87,4093.62,3232.86,2805.18,2285.27,1676.87,1694.02,1608.1,1295.01,1180.01,"Merluccius merluccius","European hake","Least Concern","Unknown",36661.92
+"545",545,"HKE","27","PL",3.12,2.77,5.88,0,0,0,0,0,0,0,0,0,"Merluccius merluccius","European hake","Least Concern","Unknown",11.77
+"546",546,"HKE","27","PT",1754.36,2396.6,2314.28,2535.59,3020.3,2646.91,2271.37,2433,2222,2120,2054.02,2292.11,"Merluccius merluccius","European hake","Least Concern","Unknown",28060.54
+"547",547,"HKE","27","SE",74.65,80.32,68.09,47.1,43.7,57.2,83.8,70,74.8,182.1,61.3,60.81,"Merluccius merluccius","European hake","Least Concern","Unknown",903.87
+"548",548,"HKM","27","PT",0,0,0,0,0.51,0.06,0,0,0.01,1,0.01,0.31,"Merluccius senegalensis","Senegalese hake","Endangered","Decreasing",1.9
+"549",549,"HKS","27","FR",0,0,0,0,0,0,0,0,0,0.02,0.02,0.1,"Merluccius bilinearis","Silver hake","Near Threatened","Unknown",0.14
+"550",550,"HKS","27","PT",0,0.02,0,0.15,0.05,0.04,0.76,1,0.01,0,0.01,0,"Merluccius bilinearis","Silver hake","Near Threatened","Unknown",2.04
+"551",551,"HMM","27","ES",247.04,332.04,168.12,172.51,297.77,0,0,0,0,0,0,0,"Trachurus mediterraneus","Mediterranean horse mackerel","Least Concern","Stable",1217.48
+"552",552,"HMM","27","FR",0,0,411.62,450.58,561.12,438.49,367.14,210,461.8,64.3,534.3,510.9,"Trachurus mediterraneus","Mediterranean horse mackerel","Least Concern","Stable",4010.25
+"553",553,"HMM","27","PT",41.63,0,34.76,12.71,166.55,76.38,46.03,15,10,22,2,0.7,"Trachurus mediterraneus","Mediterranean horse mackerel","Least Concern","Stable",427.76
+"554",554,"HMY","27","ES",8.73,5.64,13.92,80.37,10.9,0,0,0,0,0,0,0,"Caranx rhonchus","False scad","Least Concern","Stable",119.56
+"555",555,"HMY","27","PT",19.64,0,2.95,3.57,19.54,48.13,7.16,50,17.01,2.01,2.01,3.6,"Caranx rhonchus","False scad","Least Concern","Stable",175.62
+"556",556,"HMZ","27","LT",0,0,0,0,0,6.54,0,0,0,0,0,0,"Trachurus trecae","Cunene horse mackerel","Least Concern","Stable",6.54
+"557",557,"HMZ","27","PT",0,0,0,0,10.63,0.1,0,0,0,0,0,0,"Trachurus trecae","Cunene horse mackerel","Least Concern","Stable",10.73
+"558",558,"HOM","27","DE",8079.58,0,0,0,0,0,0,0,0,12956.8,5815.3,12453.5,"Trachurus trachurus","Atlantic horse mackerel","Vulnerable","Decreasing",39305.18
+"559",559,"HOM","27","DK",6436,6891.62,5355.29,6467.41,7857.39,5392.11,6191.62,5902.61,6014.5,5277.01,7813.01,8808,"Trachurus trachurus","Atlantic horse mackerel","Vulnerable","Decreasing",78406.57
+"560",560,"HOM","27","ES",14726.59,15315.74,11188.81,15559.12,21615.67,0,0,0,0,0,0,13054.8,"Trachurus trachurus","Atlantic horse mackerel","Vulnerable","Decreasing",91460.73
+"561",561,"HOM","27","FO",177.152,65.94,4.904,56,51,4,349,212,10,801,385,1313,"Trachurus trachurus","Atlantic horse mackerel","Vulnerable","Decreasing",3428.996
+"562",562,"HOM","27","FR",0,0,4181.4,5171.61,4263.81,2897.67,3090.27,6267.6,3176.3,15591.11,15603.92,15714.6,"Trachurus trachurus","Atlantic horse mackerel","Vulnerable","Decreasing",75958.29
+"563",563,"HOM","27","GB",0,0,0,0,0,0,0,0,0,11216.03,13839.01,12676.02,"Trachurus trachurus","Atlantic horse mackerel","Vulnerable","Decreasing",37731.06
+"564",564,"HOM","27","GG",0,0.142,0,0,0,0,1,1,4,0,1,0,"Trachurus trachurus","Atlantic horse mackerel","Vulnerable","Decreasing",7.142
+"565",565,"HOM","27","IE",0,27606.22,21655.28,32668.67,351.75,3685.7,38464.65,44489.4,40715.1,36587.8,29951.7,28856.2,"Trachurus trachurus","Atlantic horse mackerel","Vulnerable","Decreasing",305032.47
+"566",566,"HOM","27","LT",0,0,0,0,0,0,0,0,3690.4,4874.3,5703,9195,"Trachurus trachurus","Atlantic horse mackerel","Vulnerable","Decreasing",23462.7
+"567",567,"HOM","27","NL",19881.84,27672.5,35846.6,26224.2,62512,78842,76404,79220,61538,62966,61767,64391,"Trachurus trachurus","Atlantic horse mackerel","Vulnerable","Decreasing",657265.14
+"568",568,"HOM","27","NO",11482.92,11184.96,9560.06,14659.83,6793.42,3380.27,21134.81,12654.82,72620,12243.9,5426,27224,"Trachurus trachurus","Atlantic horse mackerel","Vulnerable","Decreasing",208364.99
+"569",569,"HOM","27","PT",21335.49,1597.02,22747.45,21240.09,19178.63,20795.73,11260.82,12420,11840,11026,11554,17313.6,"Trachurus trachurus","Atlantic horse mackerel","Vulnerable","Decreasing",182308.83
+"570",570,"HOM","27","RU",18,0,0,0,0,0,0,0,0,0,25,4,"Trachurus trachurus","Atlantic horse mackerel","Vulnerable","Decreasing",47
+"571",571,"HOM","27","SE",21.42,120.15,24.77,1.3,1,0,90,2,660,44.7,505.4,1073.5,"Trachurus trachurus","Atlantic horse mackerel","Vulnerable","Decreasing",2544.24
+"572",572,"HPR","27","ES",2.54,3.26,7.5,4.51,2.18,0,0,0,0,0,0,0,"Hoplostethus mediterraneus","Mediterranean slimehead","Least Concern","Unknown",19.99
+"573",573,"HPR","27","FR",0.25,0,0,0,0,0,0,0,0,0,0,0,"Hoplostethus mediterraneus","Mediterranean slimehead","Least Concern","Unknown",0.25
+"574",574,"HPR","27","PT",0.85,1.04,14.38,35.45,33.57,27.26,3.38,14,0.01,0.01,0,0.7,"Hoplostethus mediterraneus","Mediterranean slimehead","Least Concern","Unknown",130.65
+"575",575,"HTU","27","PT",0,0,0,0,0,0,0,0,0,0,0.01,0,"Heteropriacanthus cruentatus","Glasseye","Least Concern","Unknown",0.01
+"576",576,"HXT","27","ES",0,0.09,0.11,0.09,0.02,0,0,0,0,0,0,0,"Heptranchias perlo","Sharpnose sevengill shark","Near Threatened","Unknown",0.31
+"577",577,"HXT","27","PT",0,0,0,0,0.35,0.32,0.38,0,0.01,0.01,0.01,0.1,"Heptranchias perlo","Sharpnose sevengill shark","Near Threatened","Unknown",1.18
+"578",578,"ILI","27","PT",0,0,0,0,0,0,0.41,0,0,0.01,0.01,0.01,"Ilisha africana","West African ilisha","Least Concern","Stable",0.44
+"579",579,"JAA","27","ES",18.7,37.09,39.08,40.8,96.75,0,0,0,0,0,0,0,"Trachurus picturatus","Blue jack mackerel","Least Concern","Stable",232.42
+"580",580,"JAA","27","PT",4412.53,27982.22,3257.96,3182.18,3216.58,0,4764.54,4707,5698,5692.01,5505.01,4177.2,"Trachurus picturatus","Blue jack mackerel","Least Concern","Stable",72595.23
+"581",581,"JAI","27","ES",0.45,0,0,0,0,0,0,0,0,0,0,0,"Raja miraletus","Brown ray","Least Concern","Stable",0.45
+"582",582,"JAI","27","PT",0,0.19,0,0,0,1.22,0,0,0,0,1,0.01,"Raja miraletus","Brown ray","Least Concern","Stable",2.42
+"583",583,"JDP","27","ES",2.02,1.37,2.05,2.68,0.81,0,0,0,0,0,0,0,"Dasyatis pastinaca","Common stingray","Data Deficient","Unknown",8.93
+"584",584,"JDP","27","FR",4.78,4.77,6.77,5.54,3.76,2.69,3.44,3.5,4.1,0.8,8.05,12.5,"Dasyatis pastinaca","Common stingray","Data Deficient","Unknown",60.7
+"585",585,"JDP","27","GB",0,0.48,0.18,0,0.12,0,0.4,0,0,0.01,0,0,"Dasyatis pastinaca","Common stingray","Data Deficient","Unknown",1.19
+"586",586,"JDP","27","NL",0,0,0.4,0.1,0,0,0,0,0,0,0,0,"Dasyatis pastinaca","Common stingray","Data Deficient","Unknown",0.5
+"587",587,"JDP","27","PT",0,0,0,2.75,1.77,1.1,0.15,0,0,0,0.01,0,"Dasyatis pastinaca","Common stingray","Data Deficient","Unknown",5.78
+"588",588,"JOD","27","BE",27,28.4,24.5,32.7,16.9,0,0,0,0,0,0,0,"Zeus faber","John dory","Data Deficient","Stable",129.5
+"589",589,"JOD","27","DK",0,0.15,0.01,0.02,0,0.01,0.01,0.02,0,0,0,0,"Zeus faber","John dory","Data Deficient","Stable",0.22
+"590",590,"JOD","27","ES",371.67,447.94,449.59,416.29,772.68,1085.86,1888.92,2438.01,2292.7,2643.01,1535.61,1353.8,"Zeus faber","John dory","Data Deficient","Stable",15696.08
+"591",591,"JOD","27","FR",1787.76,1806.99,1826.99,1679.73,1750.64,1368,1453.76,1813.4,1657.4,1226.8,1572.72,1640.3,"Zeus faber","John dory","Data Deficient","Stable",19584.49
+"592",592,"JOD","27","GB",244.85,266.79,306.15,332.13,304.33,328,280.75,332.3,302.29,307.1,288.77,269.13,"Zeus faber","John dory","Data Deficient","Stable",3562.59
+"593",593,"JOD","27","GG",0,0.272,0.3,0,0,0,0,0,1,0,1,0,"Zeus faber","John dory","Data Deficient","Stable",2.572
+"594",594,"JOD","27","IE",228.34,252.41,199.74,228.2,281.71,331.67,234.44,177.4,176.9,191.9,249.31,251.21,"Zeus faber","John dory","Data Deficient","Stable",2803.23
+"595",595,"JOD","27","IM",1,0,0,0,0,0,0,0,0,0,0,0,"Zeus faber","John dory","Data Deficient","Stable",1
+"596",596,"JOD","27","JE",0,0.023,0.006,0.004,0.053,0.005,0.011,0.009,0.043,0.009,0.014,0.16,"Zeus faber","John dory","Data Deficient","Stable",0.337
+"597",597,"JOD","27","NL",4.95,4.9,6.9,11.1,7,4,1,1,1,0,0,0,"Zeus faber","John dory","Data Deficient","Stable",41.85
+"598",598,"JOD","27","NO",0.11,0.16,0.2,0.21,0.07,0.07,0.01,0.03,0.01,0.01,0,0,"Zeus faber","John dory","Data Deficient","Stable",0.88
+"599",599,"JOD","27","PT",320.71,323.93,425.87,506.8,444.81,413.1,408.83,379,304.01,238,363.01,284.5,"Zeus faber","John dory","Data Deficient","Stable",4412.57
+"600",600,"JOS","27","ES",6.55,7.68,6.35,5.08,10.55,0,0,0,0,0,0,0,"Zenopsis conchifer","Silvery John dory","Least Concern","Stable",36.21
+"601",601,"JOS","27","PT",31.42,25.42,50.18,35.68,53.84,52.81,44.98,51,44.01,35.01,37.01,27.61,"Zenopsis conchifer","Silvery John dory","Least Concern","Stable",488.97
+"602",602,"JRS","27","ES",11.82,7.42,2.1,1.34,0.07,0,0,0,0,0,0,0,"Raja asterias","Mediterranean starry ray","Near Threatened","Decreasing",22.75
+"603",603,"JRS","27","FR",0.5,0,0.41,0.69,0.55,0.65,0.34,0,0.8,0.2,0.1,0,"Raja asterias","Mediterranean starry ray","Near Threatened","Decreasing",4.24
+"604",604,"KYS","27","PT",4.8,4.64,3.45,3.18,3.47,3.05,2.56,2,2,2,2,1.5,"Kyphosus sectatrix","Bermuda sea chub","Least Concern","Stable",34.65
+"605",605,"LAG","27","ES",0.04,0,0,0.12,0,0,0,0,0,0,0,0,"Lampris guttatus","Opah","Least Concern","Unknown",0.16
+"606",606,"LAG","27","FR",0.04,0,0,0,0,0,0,0,0,0,0,0,"Lampris guttatus","Opah","Least Concern","Unknown",0.04
+"607",607,"LAG","27","IE",0,0,0,0,0,0,0,0,0,0,0,0.01,"Lampris guttatus","Opah","Least Concern","Unknown",0.01
+"608",608,"LAG","27","PT",0,0,0,0,0.41,0.19,0.11,1,0.01,0.03,0.02,0.71,"Lampris guttatus","Opah","Least Concern","Unknown",2.48
+"609",609,"LAU","27","EE",0,0,0,0,0,0,0,0,0,0.01,0,0,"Petromyzon marinus","Sea lamprey","Least Concern","Stable",0.01
+"610",610,"LAU","27","ES",0.4,2.49,1.07,1.05,0.92,0,0,0,0,0,0,0,"Petromyzon marinus","Sea lamprey","Least Concern","Stable",5.93
+"611",611,"LAU","27","FR",2.68,2.42,0.41,9.87,9.2,23.77,23.78,27.4,212.3,17,17,0,"Petromyzon marinus","Sea lamprey","Least Concern","Stable",345.83
+"612",612,"LAU","27","PT",45.76,74.69,77.08,78.41,50.08,46.47,50.24,37,57,24,25,26.1,"Petromyzon marinus","Sea lamprey","Least Concern","Stable",591.83
+"613",613,"LCM","27","ES",0.82,1.34,0.31,0,0,0,0,0,0,0,0,0,"Ciliata mustela","Fivebeard rockling","Least Concern","Unknown",2.47
+"614",614,"LDS","27","ES",0,0,0,0,0.08,0,0,0,0,0,0,0,"Lampadena speculigera","","Least Concern","Unknown",0.08
+"615",615,"LEC","27","ES",86.08,114.87,100.94,61.5,47.98,36.94,25.65,42.51,38.41,20.01,28.4,13.1,"Lepidocybium flavobrunneum","Escolar","Least Concern","Unknown",616.39
+"616",616,"LEC","27","FR",0.04,0,0,0,0,0,0,0,0,0,0,0,"Lepidocybium flavobrunneum","Escolar","Least Concern","Unknown",0.04
+"617",617,"LEC","27","PT",103.31,79.88,36.53,33.58,55.33,61.91,13.16,15,2.02,1,0,0,"Lepidocybium flavobrunneum","Escolar","Least Concern","Unknown",401.72
+"618",618,"LEE","27","ES",2.95,0.94,2.47,1.05,0.86,0.48,3.15,1.1,0.81,0.01,0.9,2.8,"Lichia amia","Leerfish","Least Concern","Unknown",17.52
+"619",619,"LEE","27","FR",0.01,0.15,0.02,0.04,0.02,0.11,0.89,0,0,0,0,0.2,"Lichia amia","Leerfish","Least Concern","Unknown",1.44
+"620",620,"LEE","27","GB",2.41,0,0,0,0,0,0,0,0,0,0,0,"Lichia amia","Leerfish","Least Concern","Unknown",2.41
+"621",621,"LEE","27","PT",0,0,0,0,0.12,0,0.04,0,0.01,0.01,0.01,0.11,"Lichia amia","Leerfish","Least Concern","Unknown",0.3
+"622",622,"LEP","27","FR",0,0,0,0,0,0,0,0,1,0,0,0,"Lepidotrigla dieuzeidei","Spiny gurnard","Least Concern","Unknown",1
+"623",623,"LHT","27","ES",32.88,82.83,92.69,192.56,102.9,60.15,30.97,41.7,50.6,40,71.7,57.9,"Trichiurus lepturus","Largehead hairtail","Least Concern","Stable",856.88
+"624",624,"LHT","27","IE",0.01,0,0,0,0,0,0,0,0,0,0,0,"Trichiurus lepturus","Largehead hairtail","Least Concern","Stable",0.01
+"625",625,"LHT","27","NL",0,0,0,0,0,0,0,0,0,0,0,1,"Trichiurus lepturus","Largehead hairtail","Least Concern","Stable",1
+"626",626,"LHT","27","PT",2.31,5.73,4.47,2.16,1.31,0.66,0.83,1,0.01,1,1,0.51,"Trichiurus lepturus","Largehead hairtail","Least Concern","Stable",20.99
+"627",627,"LIL","27","ES",0,0,0.04,0,0,0,0,0,0,0,0,0,"Liparis liparis","Striped seasnail","Least Concern","Unknown",0.04
+"628",628,"LIM","27","ES",0,0,0.01,0,0,0,0,0,0,0,0,0,"Liparis montagui","Montagus seasnail","Least Concern","Unknown",0.01
+"629",629,"LMA","27","PT",0,0.31,0,0.17,0.06,0.01,0,0,0,0,0,0,"Isurus paucus","Longfin mako","Endangered","Decreasing",0.55
+"630",630,"LPS","27","ES",0.03,0.01,0.11,0,0.06,0,0,0,0,0,0,0,"Lepidion eques","North Atlantic codling","Data Deficient","Unknown",0.21
+"631",631,"LTA","27","ES",22.28,39.16,35.08,80.63,34.18,149.82,193.34,168.4,41.7,57,157.3,84.9,"Euthynnus alletteratus","Little tunny(=Atl.black skipj)","Least Concern","Stable",1063.79
+"632",632,"LTA","27","FR",2.7,0.09,0.33,0.03,0.14,0.17,0,4.6,92.1,0,0,0,"Euthynnus alletteratus","Little tunny(=Atl.black skipj)","Least Concern","Stable",100.16
+"633",633,"LTA","27","GB",0,0,0,0,0,0,0,0.1,0.01,0,0,0,"Euthynnus alletteratus","Little tunny(=Atl.black skipj)","Least Concern","Stable",0.11
+"634",634,"LTA","27","PT",31.55,31.11,7.97,3.05,17.92,7.96,18.38,5,6,10,41.01,23.8,"Euthynnus alletteratus","Little tunny(=Atl.black skipj)","Least Concern","Stable",203.75
+"635",635,"LYY","27","ES",4.66,4.22,2.05,0.92,0.71,0,0,0,0,0,0,0,"Callionymus lyra","Dragonet","Least Concern","Unknown",12.56
+"636",636,"LYY","27","FR",0,0,0,0,0,0,0,0,1,0,0,0,"Callionymus lyra","Dragonet","Least Concern","Unknown",1
+"637",637,"LYY","27","GB",0,0.02,0.56,0,0.02,0,0.2,0,0,0.01,0,0,"Callionymus lyra","Dragonet","Least Concern","Unknown",0.81
+"638",638,"LYY","27","NL",0,0,0,0.3,0,0,0,0,0,0,0,0,"Callionymus lyra","Dragonet","Least Concern","Unknown",0.3
+"639",639,"MAC","27","BE",128.4,142.6,51.7,55.7,61.9,43.6,21.2,28.7,3.32,2.11,0.9,3.5,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",543.63
+"640",640,"MAC","27","DE",24745.41,23422.74,28261.59,28458.01,20934.65,18947.15,24085.26,18880,22408.41,15422.1,18573.1,16600.7,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",260739.12
+"641",641,"MAC","27","DK",40128,41251.32,46906.58,41917.67,33259.53,36232.77,34828.99,41055.03,23229.02,26731.02,24889,24234.02,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",414662.95
+"642",642,"MAC","27","EE",0,0,0,0,1366.75,0,0,0.01,0,0,0,0,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",1366.76
+"643",643,"MAC","27","ES",31782.85,27583.12,32330.39,36431.7,15918.59,17241.51,12927.1,21417.6,13951.51,16512,18677.61,16734.5,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",261508.48
+"644",644,"MAC","27","FO",103664.297,94421.176,106752.011,150488,144626,107100,122049,71539,14469,11920,14124,12082,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",953234.484
+"645",645,"MAC","27","FR",22827.55,20011.75,25723.5,21717.66,17970.89,20278.44,15910.75,13339.4,11997.9,13470.9,15729.92,17365.6,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",216344.26
+"646",646,"MAC","27","GB",228688.75,217331.95,247986.98,287974.44,163800.62,168476.2,181644.4,160427.8,171984.31,124928.02,133699.51,103032.05,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",2189975.03
+"647",647,"MAC","27","GG",6.144,2.948,4.4,13,17,12,13,13,16,14,12,10,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",133.492
+"648",648,"MAC","27","GL",46622.5,35689.3,25253.5,78405,52783,5284,62,0,0,0,0,0,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",244099.3
+"649",649,"MAC","27","IE",86430.04,76539.82,88851.18,103357.46,56603.35,63232.84,61670.11,58243.9,61423.9,44905.41,48686.1,41226.3,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",791170.41
+"650",650,"MAC","27","IM",18,3.28,4.299,3,8,11,11,14,10,6,7,0,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",95.579
+"651",651,"MAC","27","IS",173985,169655,168279,170632,154319,152413,155771,122033.2,116101.1,112352,36518,4222.3,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",1536280.6
+"652",652,"MAC","27","JE",2,2.6793,2.935,6.109,8.505,7.915,6.524,7.316,7.172,6.994,5.211,7.594,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",70.9543
+"653",653,"MAC","27","LT",0,2548.41,553.81,9411.01,0,0,28,0,110.8,0,7,92,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",12751.03
+"654",654,"MAC","27","NL",43574.27,37454.6,48781.7,46829.8,21602,25697,29807,24906,23419,20395,24773,22068,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",369307.37
+"655",655,"MAC","27","NO",221587.79,210346.73,242007.03,277734.53,164612.03,176109.41,208079.55,233957.29,121229,121494.6,131692,122010,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",2230859.96
+"656",656,"MAC","27","PL",0,0.03,0,0,0,0.17,0,3.5,0.12,2.3,977.71,1368.4,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",2352.23
+"657",657,"MAC","27","PT",4591.6,6823.97,8459.77,8451.76,4170.59,6088.35,3174.76,3294,2733,2954,3034,2855.9,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",56631.7
+"658",658,"MAC","27","RU",138160,121644,128443,116465,80819,74587,73604,59309,41428,32728,35674,33580,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",936441
+"659",659,"MAC","27","SE",3895.71,3788.35,4033.25,4421.8,2906.4,4564.3,3247.9,3429.1,7303.5,3661.6,3935.3,3386.1,"Scomber scombrus","Atlantic mackerel","Least Concern","Decreasing",48573.31
+"660",660,"MDO","27","PT",0,0,0.05,0,0,0,0.66,0,0.01,0,0.01,0,"Acanthurus monroviae","Monrovia doctorfish","Least Concern","Unknown",0.73
+"661",661,"MGR","27","ES",254.08,307.56,335.09,451.04,255.79,0,0,0,0,0,0,0,"Argyrosomus regius","Meagre","Least Concern","Unknown",1603.56
+"662",662,"MGR","27","FR",935.74,663.71,799.14,885.09,1046.33,929.48,785.66,779.3,963.7,854.71,1204.23,1355.5,"Argyrosomus regius","Meagre","Least Concern","Unknown",11202.59
+"663",663,"MGR","27","GB",0.11,0,0,0.14,0.57,0.3,0,0,0.01,0,0,0,"Argyrosomus regius","Meagre","Least Concern","Unknown",1.13
+"664",664,"MGR","27","PT",381.21,589.02,475.91,461.51,201.95,184.15,193.11,176,265,159,169,154.5,"Argyrosomus regius","Meagre","Least Concern","Unknown",3410.36
+"665",665,"MIA","27","ES",40.86,60.82,60.18,84.06,75.41,0,0,0,0,0,0,0,"Microchirus azevia","","Data Deficient","Unknown",321.33
+"666",666,"MIA","27","PT",3.51,0,0,0,0,0,0,0,0,0,0,0,"Microchirus azevia","","Data Deficient","Unknown",3.51
+"667",667,"MKF","27","PT",3.16,1.44,1.45,1.51,1.47,0.31,0.81,1,1,1,0,0,"Mycteroperca fusca","Island grouper","Vulnerable","Decreasing",13.15
+"668",668,"MKG","27","ES",3.31,2.06,1.16,0,0,0,0,0,0,0,0,0,"Microchirus variegatus","Thickback sole","Least Concern","Unknown",6.53
+"669",669,"MKG","27","FR",69.74,65.88,46.77,61.83,65.53,64.49,75.68,65,77.1,47.22,88.73,0,"Microchirus variegatus","Thickback sole","Least Concern","Unknown",727.97
+"670",670,"MKG","27","PT",95.04,128.07,158.89,141.19,151.68,114.33,34.01,16,19,15,19,11.71,"Microchirus variegatus","Thickback sole","Least Concern","Unknown",903.92
+"671",671,"MKU","27","PT",0,0,0,0,0,0,0,0,0,0,0,0.01,"Mycteroperca rubra","Mottled grouper","Least Concern","Unknown",0.01
+"672",672,"MMH","27","ES",22.24,23.91,23.15,18.64,8.43,0,0,0,0,0,0,0,"Muraena helena","Mediterranean moray","Least Concern","Unknown",96.37
+"673",673,"MMH","27","FR",0,0.18,0,0,0,0,0,0,4.2,0,0,0,"Muraena helena","Mediterranean moray","Least Concern","Unknown",4.38
+"674",674,"MMH","27","PT",84.49,94.45,93.89,117.7,82.4,125.04,91.98,109,47.01,1.01,0.01,0.31,"Muraena helena","Mediterranean moray","Least Concern","Unknown",847.29
+"675",675,"MNE","27","ES",0,0,0,0,0.02,0,0,0,0,0,0,0,"Melanostomias tentaculatus","","Least Concern","Unknown",0.02
+"676",676,"MON","27","DE",0.57,0,0,0,0,0,0,0,0,0,0,0,"Lophius piscatorius","Angler(=Monk)","Least Concern","Unknown",0.57
+"677",677,"MON","27","DK",3093,2479.18,1667.02,1444.29,1344.38,1428.83,1378.35,1606.52,1725.31,1596.01,1389.04,1814.03,"Lophius piscatorius","Angler(=Monk)","Least Concern","Unknown",20965.96
+"678",678,"MON","27","ES",391.15,398.43,454.33,468.51,443.02,0,0,0,0,0,0,422.7,"Lophius piscatorius","Angler(=Monk)","Least Concern","Unknown",2578.14
+"679",679,"MON","27","FO",892.625,966.234,642.691,797,608,1303,2270,2486,2156,2315,4010,5201,"Lophius piscatorius","Angler(=Monk)","Least Concern","Unknown",23647.55
+"680",680,"MON","27","GB",0,0,0,0,0,0,0,0,0,0,15866.93,13936.04,"Lophius piscatorius","Angler(=Monk)","Least Concern","Unknown",29802.97
+"681",681,"MON","27","GG",0.56,0.565,0.4,1,2,2,1,1,1,2,2,2,"Lophius piscatorius","Angler(=Monk)","Least Concern","Unknown",15.525
+"682",682,"MON","27","GL",0,0,0,0,0,1,0,0,0,0,0,0,"Lophius piscatorius","Angler(=Monk)","Least Concern","Unknown",1
+"683",683,"MON","27","IE",1.72,4413.96,3817.58,3934.6,3.45,9.47,3793.78,4144,3261.51,2838.01,3477.1,3384.4,"Lophius piscatorius","Angler(=Monk)","Least Concern","Unknown",33079.58
+"684",684,"MON","27","IM",15,1.055,0.161,0,0,0,0,0,0,0,0,0,"Lophius piscatorius","Angler(=Monk)","Least Concern","Unknown",16.216
+"685",685,"MON","27","IS",490,889,0,1185,1497,2666,3227,3283.3,4069,2946.8,2777.4,2590.5,"Lophius piscatorius","Angler(=Monk)","Least Concern","Unknown",25621
+"686",686,"MON","27","NL",217.45,166.7,107.7,109.2,45,69,60,66,50,77,87,60,"Lophius piscatorius","Angler(=Monk)","Least Concern","Unknown",1115.05
+"687",687,"MON","27","NO",2480.51,2118.27,1447.23,2318.83,3679,4375.47,5695.26,6364.41,5322.04,5034.3,5468.01,5423.01,"Lophius piscatorius","Angler(=Monk)","Least Concern","Unknown",49726.34
+"688",688,"MON","27","PT",293.72,351.68,462.14,416.36,403.51,510.72,173.09,177,150,111.01,96,104.11,"Lophius piscatorius","Angler(=Monk)","Least Concern","Unknown",3249.34
+"689",689,"MON","27","RU",2,0,2,1,1,0,0,0,0,36,1,1,"Lophius piscatorius","Angler(=Monk)","Least Concern","Unknown",44
+"690",690,"MON","27","SE",80.68,0,51.56,0,0,0,0,0,0,126.7,69.9,64,"Lophius piscatorius","Angler(=Monk)","Least Concern","Unknown",392.84
+"691",691,"MOX","27","ES",0.04,0.01,0.12,0.08,0.08,0,0,0,0,0,0,0,"Mola mola","Ocean sunfish","Vulnerable","Decreasing",0.33
+"692",692,"MOX","27","FR",0,0.18,0,0.41,0.05,5.53,0.24,4.3,0,0,0,0,"Mola mola","Ocean sunfish","Vulnerable","Decreasing",10.71
+"693",693,"MOX","27","NO",0,0,0,0.03,0,0,0,0,0,0,0,0,"Mola mola","Ocean sunfish","Vulnerable","Decreasing",0.03
+"694",694,"MOX","27","PT",0,0,0,0,0,0,0,0,1,0.01,0.02,0.81,"Mola mola","Ocean sunfish","Vulnerable","Decreasing",1.84
+"695",695,"MSF","27","ES",2.12,1.67,1.47,0.98,5.11,0,0,0,0,0,0,0,"Arnoglossus laterna","Mediterranean scaldfish","Least Concern","Unknown",11.35
+"696",696,"MSF","27","PT",0,2.89,5.17,1.91,33.04,26.58,0,1,0,0,0,0,"Arnoglossus laterna","Mediterranean scaldfish","Least Concern","Unknown",70.59
+"697",697,"MSP","27","PT",0,0,0,0,0.01,0,0,0,0,1,0,0,"Tetrapturus belone","Mediterranean spearfish","Least Concern","Stable",1.01
+"698",698,"MTC","27","ES",0.1,0,0.04,0,0.12,0,0,0,0,0,0,0,"Melanostigma atlanticum","Atlantic soft pout","Least Concern","Unknown",0.26
+"699",699,"MUR","27","BE",128.2,178.8,233.9,83,61.4,75.5,104.4,82.7,33.2,41.7,56.11,45.3,"Mullus surmuletus","Surmullet","Least Concern","Unknown",1124.21
+"700",700,"MUR","27","ES",151.87,194.01,247.71,265.11,245.24,328.42,504.25,465.3,490.41,379.03,390.3,379,"Mullus surmuletus","Surmullet","Least Concern","Unknown",4040.65
+"701",701,"MUR","27","FR",1771.37,1722.44,2822.74,1641.43,1038.56,1480.04,2389.25,2624.1,2280,4634.71,5402.23,2975.2,"Mullus surmuletus","Surmullet","Least Concern","Unknown",30782.07
+"702",702,"MUR","27","GB",412.72,568.4,764.81,295.46,108.97,260,391.94,441.6,390.86,477.08,353.74,239.07,"Mullus surmuletus","Surmullet","Least Concern","Unknown",4704.65
+"703",703,"MUR","27","GG",0,14.93,4.8,5,5,0,0,5,5,9,9,8,"Mullus surmuletus","Surmullet","Least Concern","Unknown",65.73
+"704",704,"MUR","27","IE",10.12,4.09,3.16,1.61,2.85,4.4,4.73,5.11,9.51,17.21,16.91,14.61,"Mullus surmuletus","Surmullet","Least Concern","Unknown",94.31
+"705",705,"MUR","27","JE",0,0.13362,0.113,0.218,0.31,0.646,0.43,0.175,0.263,0.362,0.896,1.047,"Mullus surmuletus","Surmullet","Least Concern","Unknown",4.59362
+"706",706,"MUR","27","NL",994.34,1489.6,2148.5,701.1,230,492,670,695,672,1038,1054,408,"Mullus surmuletus","Surmullet","Least Concern","Unknown",10592.54
+"707",707,"MUR","27","NO",0,0,0,0,0,0,0,0,0,0,0,0.01,"Mullus surmuletus","Surmullet","Least Concern","Unknown",0.01
+"708",708,"MUR","27","PT",160.09,212.69,292.41,227.84,197.83,231.11,257.94,294,220,192,250,184.2,"Mullus surmuletus","Surmullet","Least Concern","Unknown",2720.11
+"709",709,"MUR","27","SE",0,0.03,0,0,0,0,0,0,0,0,0,0,"Mullus surmuletus","Surmullet","Least Concern","Unknown",0.03
+"710",710,"MUT","27","ES",61.91,85.13,75.87,110.87,116.36,0,0,0,0,0,0,0,"Mullus barbatus","Red mullet","Least Concern","Unknown",450.14
+"711",711,"MUT","27","FR",0.26,0.33,0,0,0,0,0,0,0,0,0,0,"Mullus barbatus","Red mullet","Least Concern","Unknown",0.59
+"712",712,"MUT","27","IE",2.53,0.42,0,0,0.34,0.16,0,0,0,0,0,0,"Mullus barbatus","Red mullet","Least Concern","Unknown",3.45
+"713",713,"MUT","27","PT",3.28,1.34,0,0,0.59,0.58,0,0,0,0,0,0,"Mullus barbatus","Red mullet","Least Concern","Unknown",5.79
+"714",714,"MYG","27","DK",17,57.71,4.44,0,0,0,0,0,0,0,0,0,"Myxine glutinosa","Hagfish","Least Concern","Unknown",79.15
+"715",715,"MYL","27","ES",0.33,0.52,0.36,1.16,1.52,0,0,0,0,0,0,0,"Myliobatis aquila","Common eagle ray","Data Deficient","Unknown",3.89
+"716",716,"MYL","27","FR",15.88,8.5,15.18,3.85,2.18,1.13,26.12,0.7,25.3,0.11,1.22,1.6,"Myliobatis aquila","Common eagle ray","Data Deficient","Unknown",101.77
+"717",717,"MYL","27","PT",22.2,17.63,14.54,18.1,13.42,12.02,24.95,18,11,15,19,23.4,"Myliobatis aquila","Common eagle ray","Data Deficient","Unknown",209.26
+"718",718,"NAU","27","ES",0.03,0,0,0,0,0,0,0,0,0,0,0,"Naucrates ductor","Pilotfish","Least Concern","Stable",0.03
+"719",719,"NAU","27","PT",0,0,0,0,0,0.32,0,0,0,0,0,0.1,"Naucrates ductor","Pilotfish","Least Concern","Stable",0.42
+"720",720,"NOP","27","DE",25.23,26.58,22.24,0,0,0,0,0,74.9,3.5,0,33.5,"Trisopterus esmarkii","Norway pout","Least Concern","Increasing",185.95
+"721",721,"NOP","27","DK",12467,23506.92,13033.11,28447.83,38363.84,25558.41,4071.76,71311.9,19828.8,32558,83,39975,"Trisopterus esmarkii","Norway pout","Least Concern","Increasing",309205.57
+"722",722,"NOP","27","ES",0.37,1.14,0.94,5.39,35.31,0,0,0,0,0,0,0,"Trisopterus esmarkii","Norway pout","Least Concern","Increasing",43.15
+"723",723,"NOP","27","FO",0,3156,5270.3,1209,336,2736,0,3,0,0,0,0,"Trisopterus esmarkii","Norway pout","Least Concern","Increasing",12710.3
+"724",724,"NOP","27","FR",0,0,0,0,0,0,0,0,0,0.81,0.81,0.2,"Trisopterus esmarkii","Norway pout","Least Concern","Increasing",1.82
+"725",725,"NOP","27","GB",0,30.39,3.13,21.5,0,6,0,28.5,0,0.04,3,4.02,"Trisopterus esmarkii","Norway pout","Least Concern","Increasing",96.58
+"726",726,"NOP","27","GL",0,0,0,4,0,0,0,0,0,0,0,0,"Trisopterus esmarkii","Norway pout","Least Concern","Increasing",4
+"727",727,"NOP","27","IS",27,288,620,45,20,20,65,39.3,41,0,0,0,"Trisopterus esmarkii","Norway pout","Least Concern","Increasing",1165.3
+"728",728,"NOP","27","NL",6.59,8.2,19.4,0,0,0,0,18,22,0,0,0,"Trisopterus esmarkii","Norway pout","Least Concern","Increasing",74.19
+"729",729,"NOP","27","NO",21402.41,36355.67,44360.69,18664.89,46600.84,4596.45,3209.62,65668.67,37294,6649.9,4722,14336,"Trisopterus esmarkii","Norway pout","Least Concern","Increasing",303861.14
+"730",730,"NOP","27","PT",0,0,0,0,0.03,0,0,0,0,0,0,0.1,"Trisopterus esmarkii","Norway pout","Least Concern","Increasing",0.13
+"731",731,"NOP","27","RU",16,0,0,0,0,0,0,0,0,0,0,0,"Trisopterus esmarkii","Norway pout","Least Concern","Increasing",16
+"732",732,"NOP","27","SE",6.19,1.54,726.88,2,4.4,2.5,0.7,10.1,0,10,0,0,"Trisopterus esmarkii","Norway pout","Least Concern","Increasing",764.31
+"733",733,"OAL","27","FR",44.56,39.49,54.04,51,56.33,59.95,65.58,58.9,58.4,36.6,62.32,49.6,"Solea senegalensis","Senegalese sole","Data Deficient","Unknown",636.77
+"734",734,"OCS","27","PT",0,0,0,0,0,0,0,0,0,0,0.01,0.01,"Carcharhinus longimanus","Oceanic whitetip shark","Vulnerable","Decreasing",0.02
+"735",735,"OGT","27","ES",0.59,0.02,0,0,0.04,0,0,0,0,0,0,0,"Apogon imberbis","Cardinal fish","Least Concern","Stable",0.65
+"736",736,"OGT","27","PT",0,0,0,0,0,0,0.06,0,0,0,0,0,"Apogon imberbis","Cardinal fish","Least Concern","Stable",0.06
+"737",737,"OIL","27","ES",2.1,3.24,2.26,1.64,4.89,0,0,0,0,0,0,0,"Ruvettus pretiosus","Oilfish","Least Concern","Stable",14.13
+"738",738,"OIL","27","FR",6.75,0,0,0,0,0.39,20,0,0,0,0,0,"Ruvettus pretiosus","Oilfish","Least Concern","Stable",27.14
+"739",739,"OIL","27","PT",107.41,116.83,124.23,113.93,218.99,280.86,286.53,212,198.04,228,316.01,189.81,"Ruvettus pretiosus","Oilfish","Least Concern","Stable",2392.64
+"740",740,"OSG","27","FR",0,0.1,0,0.03,0.44,1.85,8.4,2.7,4.3,1.4,1.62,5.4,"Spectrunculus grandis","","Least Concern","Unknown",26.24
+"741",741,"OUB","27","PT",0,0,0,0,0.09,0.45,2.09,0,0.01,0.02,0,0,"Bothus podas","Wide-eyed flounder","Least Concern","Stable",2.66
+"742",742,"OXN","27","GB",0,0,0,0,0,1.4,0,0,0,0,0.7,0,"Oxynotus paradoxus","Sailfin roughshark","Data Deficient","Unknown",2.1
+"743",743,"OXN","27","IE",0,0,0,0,0,0,0,0,0,0,0.6,0,"Oxynotus paradoxus","Sailfin roughshark","Data Deficient","Unknown",0.6
+"744",744,"OXY","27","PT",4.93,1.63,1.81,2.13,3.93,3.29,18.6,50,76,63.01,106.01,54,"Oxynotus centrina","Angular roughshark","Vulnerable","Unknown",385.34
+"745",745,"PAC","27","ES",266.55,273.29,344.91,258.51,439.52,0,0,0,0,0,0,0,"Pagellus erythrinus","Common pandora","Least Concern","Unknown",1582.78
+"746",746,"PAC","27","FR",19.58,44.02,46.07,87.4,12.02,4.36,5.85,3.9,13,2.6,8.92,9.6,"Pagellus erythrinus","Common pandora","Least Concern","Unknown",257.32
+"747",747,"PAC","27","PT",102.69,85.49,87.89,78.04,92.17,105.71,96.89,109,86,127,148.01,127.5,"Pagellus erythrinus","Common pandora","Least Concern","Unknown",1246.39
+"748",748,"PAR","27","PT",1.27,0,1.22,1.45,2.74,1.56,0.58,0,1.01,1,3.01,0.12,"Pagellus bellottii","Red pandora","Least Concern","Unknown",13.96
+"749",749,"PHO","27","GB",0,0,0,0,0,0,0.01,0,0,0,0,0,"Alepocephalus rostratus","Risso's smooth-head","Least Concern","Stable",0.01
+"750",750,"PIL","27","BE",2.3,2.3,1.1,1.8,0,0,0,0,0,0,0,0,"Sardina pilchardus","European pilchard(=Sardine)","Least Concern","Unknown",7.5
+"751",751,"PIL","27","DE",1116.55,1941.67,1550.92,17.81,213.6,587.2,4.89,62,0,42.8,0,323.61,"Sardina pilchardus","European pilchard(=Sardine)","Least Concern","Unknown",5861.05
+"752",752,"PIL","27","DK",2460,2061.63,1011.3,953.22,39.94,39.56,2.95,47.7,0,93,52,12.01,"Sardina pilchardus","European pilchard(=Sardine)","Least Concern","Unknown",6773.31
+"753",753,"PIL","27","ES",13659.73,16205.4,20583.84,28873.52,30040.71,37236.78,30244.62,29646.7,27627.8,34391,29219.51,32825.9,"Sardina pilchardus","European pilchard(=Sardine)","Least Concern","Unknown",330555.51
+"754",754,"PIL","27","FR",25138.99,25143.88,20765.6,24970.83,26486.79,19622.16,23096.48,25023.9,35748.5,22880.6,25469.7,28039.8,"Sardina pilchardus","European pilchard(=Sardine)","Least Concern","Unknown",302387.23
+"755",755,"PIL","27","GB",7598.12,9390.57,4307.49,3889.3,3976.79,4422.8,3613.9,2526.1,2540.21,3471.01,2691.21,1925.01,"Sardina pilchardus","European pilchard(=Sardine)","Least Concern","Unknown",50352.51
+"756",756,"PIL","27","IE",164.26,231.85,277.35,0,236.49,8.27,1012.78,25,486.3,236.5,82,1281.1,"Sardina pilchardus","European pilchard(=Sardine)","Least Concern","Unknown",4041.9
+"757",757,"PIL","27","LT",0,0.9,0.9,0,0,0,0,0,0,0,0,23,"Sardina pilchardus","European pilchard(=Sardine)","Least Concern","Unknown",24.8
+"758",758,"PIL","27","NL",1367.85,4639.9,1634.8,209.9,2260,1684,661,4904,3426,2400,1202,2291,"Sardina pilchardus","European pilchard(=Sardine)","Least Concern","Unknown",26680.45
+"759",759,"PIL","27","NO",0,0,0.38,0.4,0,0,0,0,0,0.3,40,0,"Sardina pilchardus","European pilchard(=Sardine)","Least Concern","Unknown",41.08
+"760",760,"PIL","27","PT",14965.96,13724.54,13923.38,16121.45,27733.79,32331.91,57276.94,63759,60924,71055,91178.01,74112.7,"Sardina pilchardus","European pilchard(=Sardine)","Least Concern","Unknown",537106.68
+"761",761,"PLE","27","BE",7920.7,9388.8,7770,8868.2,8228.3,6687.2,6343.6,5200.3,5007.4,5219.9,5731.9,5138.7,"Pleuronectes platessa","European plaice","Least Concern","Increasing",81505
+"762",762,"PLE","27","DE",3561.03,5143.7,5782.81,4633.68,5294.96,4339.45,4254.57,4103,3263.5,3412.3,2914.5,3862.82,"Pleuronectes platessa","European plaice","Least Concern","Increasing",50566.32
+"763",763,"PLE","27","DK",21734,26936.01,24254.3,20850.89,21892.74,21365.85,20826.15,18095.3,16055.41,17580.01,16780.02,21184,"Pleuronectes platessa","European plaice","Least Concern","Increasing",247554.68
+"764",764,"PLE","27","ES",2.48,4.16,5.25,5.61,4.96,8.97,8.54,12,8.02,6.02,16.32,7.3,"Pleuronectes platessa","European plaice","Least Concern","Increasing",89.63
+"765",765,"PLE","27","FI",0,0,0,0.03,0,2.96,1.65,3.27,4.05,4.94,11.72,5.55,"Pleuronectes platessa","European plaice","Least Concern","Increasing",34.17
+"766",766,"PLE","27","FO",291.104,223.87,158.603,152,172,305,254,253,208,258,362,409,"Pleuronectes platessa","European plaice","Least Concern","Increasing",3046.577
+"767",767,"PLE","27","FR",2052.13,2216.27,2472.7,3204.98,2938.57,2877.51,3051.57,3212.6,2694.1,2267.62,2808.73,2740.8,"Pleuronectes platessa","European plaice","Least Concern","Increasing",32537.58
+"768",768,"PLE","27","GB",17777.73,21224.51,18874.08,19132.79,21225.03,18742.2,17163.04,16415.6,14792.84,12961.06,13242.13,14521.06,"Pleuronectes platessa","European plaice","Least Concern","Increasing",206072.07
+"769",769,"PLE","27","GG",0.533,1.233,1.2,3,3,4,5,4,4,4,2,2,"Pleuronectes platessa","European plaice","Least Concern","Increasing",33.966
+"770",770,"PLE","27","GL",0,1,0,0,0,0,0,0,0,0,0,0,"Pleuronectes platessa","European plaice","Least Concern","Increasing",1
+"771",771,"PLE","27","IE",580.88,671.89,374.95,298.97,274.45,316.41,290.82,272.61,263.92,276.7,393.31,340.5,"Pleuronectes platessa","European plaice","Least Concern","Increasing",4355.41
+"772",772,"PLE","27","IM",1,0,0,0,0,0,0,0,1,1,0,0,"Pleuronectes platessa","European plaice","Least Concern","Increasing",3
+"773",773,"PLE","27","IS",7040,7478,6768,5932,5991,5927,4945,5983.9,6316,6724,5816,6381.8,"Pleuronectes platessa","European plaice","Least Concern","Increasing",75302.7
+"774",774,"PLE","27","JE",1,1.157,1.47,1.632,2.625,2.347,4.824,2.721,2.004,2.641,0.89,1.008,"Pleuronectes platessa","European plaice","Least Concern","Increasing",24.319
+"775",775,"PLE","27","NL",32622.38,33783.4,32272.8,28778.9,33748,32258,29337,28291,23476,20757,23099,23947,"Pleuronectes platessa","European plaice","Least Concern","Increasing",342370.48
+"776",776,"PLE","27","NO",847.69,808.98,661.24,1013.69,1383.6,1560.9,1804.8,1671.36,1690,1819.4,2084.01,2620,"Pleuronectes platessa","European plaice","Least Concern","Increasing",17965.67
+"777",777,"PLE","27","PL",293.64,157.22,142.04,88.24,50.23,63.81,35.42,38,42.5,29.2,59.9,55.5,"Pleuronectes platessa","European plaice","Least Concern","Increasing",1055.7
+"778",778,"PLE","27","PT",33.81,49.23,44.92,50.98,44.6,62.89,64.55,112,101.01,89.01,41.01,105.1,"Pleuronectes platessa","European plaice","Least Concern","Increasing",799.11
+"779",779,"PLE","27","RU",8769,8256,7594,7380,7221,5539,7308,0,4245,2233,1938,1445,"Pleuronectes platessa","European plaice","Least Concern","Increasing",61928
+"780",780,"PLE","27","SE",290.5,386.26,406.78,399,299.2,268.3,302.3,299.7,341.5,535,504.7,447.22,"Pleuronectes platessa","European plaice","Least Concern","Increasing",4480.46
+"781",781,"POA","27","DK",0,0.06,0.03,0,0,0.01,0.13,0.02,0.02,0.01,0.01,0,"Brama brama","Atlantic pomfret","Least Concern","Unknown",0.29
+"782",782,"POA","27","ES",52.11,33.29,382.7,855.77,4006.98,12318.91,12941.46,7732.8,4934,3724.02,4417.3,7088.9,"Brama brama","Atlantic pomfret","Least Concern","Unknown",58488.24
+"783",783,"POA","27","FR",4.78,1.88,4.97,0.88,0.09,13.22,35.71,715.2,101.9,62.4,63.42,11.4,"Brama brama","Atlantic pomfret","Least Concern","Unknown",1015.85
+"784",784,"POA","27","GB",0,0,0,0,0,0.7,128.51,699.9,574.43,94.03,107.82,11.05,"Brama brama","Atlantic pomfret","Least Concern","Unknown",1616.44
+"785",785,"POA","27","IE",0,0,0,0,0,0,0,0,0.2,1.01,3.61,1.9,"Brama brama","Atlantic pomfret","Least Concern","Unknown",6.72
+"786",786,"POA","27","IS",0,0,0,0,0,0,0,0,0,2,0,0,"Brama brama","Atlantic pomfret","Least Concern","Unknown",2
+"787",787,"POA","27","NL",0,0,0,0,0,0,0,2,1,5,0,0,"Brama brama","Atlantic pomfret","Least Concern","Unknown",8
+"788",788,"POA","27","NO",0.03,0.02,0.03,0.02,0.02,0.16,0,0.17,0.02,7.5,3,0,"Brama brama","Atlantic pomfret","Least Concern","Unknown",10.97
+"789",789,"POA","27","PT",1.14,0.76,5.83,45.71,704.47,1057.25,193.85,149,96.01,608.01,181.02,472.7,"Brama brama","Atlantic pomfret","Least Concern","Unknown",3515.75
+"790",790,"POA","27","RU",0,0,0,0,0,0,0,0,0,2,0,0,"Brama brama","Atlantic pomfret","Least Concern","Unknown",2
+"791",791,"POI","27","ES",0.18,1.08,0.05,0.02,0.24,0,0,0,0,0,0,0,"Pontinus kuhlii","Offshore rockfish","Data Deficient","Unknown",1.57
+"792",792,"POI","27","PT",47.02,62.8,70.31,67.87,67.36,89.32,88.51,78,56,57.01,55.02,44.7,"Pontinus kuhlii","Offshore rockfish","Data Deficient","Unknown",783.92
+"793",793,"POL","27","BE",37,62.5,51.8,107.3,55.3,60,48.8,46.9,53.21,90.3,107.2,95.9,"Pollachius pollachius","Pollack","Least Concern","Unknown",816.21
+"794",794,"POL","27","DE",275.15,115.55,250.51,145.06,70.06,109.49,81.19,138,56.62,118.3,146.8,89.43,"Pollachius pollachius","Pollack","Least Concern","Unknown",1596.16
+"795",795,"POL","27","DK",372,278.47,372.52,311.98,337.01,327.23,299.48,475.94,328.73,316.04,364.04,255.05,"Pollachius pollachius","Pollack","Least Concern","Unknown",4038.49
+"796",796,"POL","27","ES",238.77,323.1,304.21,292.49,372.28,302.93,429.48,358.91,288.95,407.05,302.6,385.8,"Pollachius pollachius","Pollack","Least Concern","Unknown",4006.57
+"797",797,"POL","27","FO",10.312,20.821,16.61,20,10,17,15,12,11,7,6,3,"Pollachius pollachius","Pollack","Least Concern","Unknown",148.743
+"798",798,"POL","27","FR",2158.6,2524.91,2408.91,3696.74,3138.98,2534.16,3273.68,3146.9,3194.5,2778.01,3596.43,3637.4,"Pollachius pollachius","Pollack","Least Concern","Unknown",36089.22
+"799",799,"POL","27","GB",1873.89,2324.47,2110.34,2469.21,2248.88,2215.9,2302.75,2003.3,2179.35,2462.07,2693.35,2248.08,"Pollachius pollachius","Pollack","Least Concern","Unknown",27131.59
+"800",800,"POL","27","GG",56.368,56.543,53.5,73,56,90,76,77,83,69,50,42,"Pollachius pollachius","Pollack","Least Concern","Unknown",782.411
+"801",801,"POL","27","GL",0,1,0,0,0,0,0,0,0,0,0,0,"Pollachius pollachius","Pollack","Least Concern","Unknown",1
+"802",802,"POL","27","IE",964.46,1117.1,1092.79,1120.56,1283.56,1174.19,979.44,981.6,833.11,758.31,803.9,834.1,"Pollachius pollachius","Pollack","Least Concern","Unknown",11943.12
+"803",803,"POL","27","IM",0,2.435,3.267,4,7,9,6,0,7,8,8,0,"Pollachius pollachius","Pollack","Least Concern","Unknown",54.702
+"804",804,"POL","27","IS",0,1,1,1,0,0,0,0,0,1,0,0,"Pollachius pollachius","Pollack","Least Concern","Unknown",4
+"805",805,"POL","27","JE",2,2.38695,4.559,6.168,8.001,9.196,21.055,8.679,8.857,7.184,2.627,5.282,"Pollachius pollachius","Pollack","Least Concern","Unknown",85.99495
+"806",806,"POL","27","NL",7.36,3.2,4.9,5.2,5,2,2,3,5,2,5,5,"Pollachius pollachius","Pollack","Least Concern","Unknown",49.66
+"807",807,"POL","27","NO",2028.32,1946.69,1830.04,1786.82,1411.85,1448.7,1746.68,1913.58,2154.05,3067.4,3352,3020.01,"Pollachius pollachius","Pollack","Least Concern","Unknown",25706.14
+"808",808,"POL","27","PL",6.18,3.37,6.42,0,0,0,0.1,0,0,0,0,0,"Pollachius pollachius","Pollack","Least Concern","Unknown",16.07
+"809",809,"POL","27","PT",60.58,47.21,18.06,1.5,3.14,2.11,1.73,2,3,31,5,7.01,"Pollachius pollachius","Pollack","Least Concern","Unknown",182.34
+"810",810,"POL","27","SE",88.22,84.45,97.88,71.1,63.3,78.6,62.9,67.3,69.9,78.6,81.3,47.93,"Pollachius pollachius","Pollack","Least Concern","Unknown",891.48
+"811",811,"POP","27","PT",7.77,13.47,3.96,1.57,2.08,8.52,2.74,2,4,8,6,5.51,"Trachinotus ovatus","Pompano","Least Concern","Unknown",65.62
+"812",812,"POR","27","DE",0,0,0,0,0,0.04,0.03,0,0.01,2.1,1.7,0.4,"Lamna nasus","Porbeagle","Vulnerable","Decreasing",4.28
+"813",813,"POR","27","DK",0,0.09,0,0,0,2.91,1.99,0.03,4.33,2.02,2.03,3.03,"Lamna nasus","Porbeagle","Vulnerable","Decreasing",16.43
+"814",814,"POR","27","ES",0.03,0.24,0.02,0,0,0.01,1.41,59.9,72.65,143.03,228.3,157,"Lamna nasus","Porbeagle","Vulnerable","Decreasing",662.59
+"815",815,"POR","27","FO",1.712,5.287,10.911,15,17,25,18,14,13,10,14,21,"Lamna nasus","Porbeagle","Vulnerable","Decreasing",164.91
+"816",816,"POR","27","FR",0,0,0,1.64,13.36,26.71,2.18,8.1,303.1,238.51,355.44,213.2,"Lamna nasus","Porbeagle","Vulnerable","Decreasing",1162.24
+"817",817,"POR","27","GB",0,0,0,0,0,0.1,0.02,0,11.23,15.07,25.91,13.07,"Lamna nasus","Porbeagle","Vulnerable","Decreasing",65.4
+"818",818,"POR","27","GG",0,0,0,0,0,0,0,0,0,1,1,1,"Lamna nasus","Porbeagle","Vulnerable","Decreasing",3
+"819",819,"POR","27","IE",0,0,0,0,0,0,0,0.1,2.61,6.7,7.11,2.62,"Lamna nasus","Porbeagle","Vulnerable","Decreasing",19.14
+"820",820,"POR","27","IS",1,2,0,36,1,2,1,1,1,1,0,1,"Lamna nasus","Porbeagle","Vulnerable","Decreasing",47
+"821",821,"POR","27","JE",0,0,0,0,0,0,0,0.3,0,0,0.095,0,"Lamna nasus","Porbeagle","Vulnerable","Decreasing",0.395
+"822",822,"POR","27","NL",0,0,0.3,0,0,0,0,0,0,0,0,0,"Lamna nasus","Porbeagle","Vulnerable","Decreasing",0.3
+"823",823,"POR","27","NO",6.33,6.33,4.28,4.65,8.71,17.3,10.61,11.98,9.03,11.5,9.01,28.02,"Lamna nasus","Porbeagle","Vulnerable","Decreasing",127.75
+"824",824,"POR","27","PT",0,0,0,0,0,0.41,0.23,0,0,0.01,0.01,0.02,"Lamna nasus","Porbeagle","Vulnerable","Decreasing",0.68
+"825",825,"POR","27","SE",0,0,0,0,0,0,0,0,0,0.2,0,0,"Lamna nasus","Porbeagle","Vulnerable","Decreasing",0.2
+"826",826,"PRP","27","PT",0.05,0.03,0,0.03,0.05,0.1,0.03,0,0.01,0.01,0.01,0.01,"Promethichthys prometheus","Roudi escolar","Least Concern","Stable",0.33
+"827",827,"PRR","27","ES",0,0,0.08,0,0,0,0,0,0,0,0,0,"Sparisoma cretense","Parrotfish","Least Concern","Unknown",0.08
+"828",828,"PRR","27","PT",203.81,161.24,190.37,146.26,144.55,213.48,238.44,209,297,284,249.01,207.8,"Sparisoma cretense","Parrotfish","Least Concern","Unknown",2544.96
+"829",829,"PSB","27","PT",0,0,0,0.98,0.01,0,0,0,0.01,0.01,0.01,0.01,"Psettodes bennettii","Spiny turbot","Data Deficient","Unknown",1.03
+"830",830,"PSK","27","PT",0,0,0,0.65,0.07,0.2,0,0,0,0.01,0,0,"Pseudocarcharias kamoharai","Crocodile shark","Least Concern","Increasing",0.93
+"831",831,"PSS","27","PT",0,0,0,0,0.07,0,0,0,0,0,0,0,"Pseudotolithus senegalensis","Cassava croaker","Endangered","Decreasing",0.07
+"832",832,"PXV","27","PT",0,0,0,0.3,0.13,0.04,0,0,0,0,0.01,0.3,"Polymixia nobilis","Stout beardfish","Least Concern","Unknown",0.78
+"833",833,"QUB","27","ES",145.3,126.39,107.96,244.64,198.72,0,0,0,0,0,0,0,"Squalus blainville","Longnose spurdog","Data Deficient","Unknown",823.01
+"834",834,"QUB","27","FR",0,0,0,0,0,0,0,0,0.6,0,0,0,"Squalus blainville","Longnose spurdog","Data Deficient","Unknown",0.6
+"835",835,"RCT","27","GB",0,0,0.28,0,0,0,0,0,0.02,0,0,0,"Rhinochimaera atlantica","Straightnose rabbitfish","Least Concern","Unknown",0.3
+"836",836,"RCT","27","IE",0,0,0,0,0,0,0,0,0,0,0,0.1,"Rhinochimaera atlantica","Straightnose rabbitfish","Least Concern","Unknown",0.1
+"837",837,"REA","27","PT",3.86,2.98,2.89,3.18,3.86,2.54,3.29,4,3.01,3.01,2.01,1.4,"Pagrus auriga","Redbanded seabream","Least Concern","Unknown",36.03
+"838",838,"REB","27","DE",2056.5,0,0,0,0,0,0,0,0,0,0,0,"Sebastes mentella","Beaked redfish","Least Concern","Unknown",2056.5
+"839",839,"REB","27","DK",1,0.2,0.59,0.23,0.92,0.66,4.01,2.71,16.12,3.02,17.03,48.01,"Sebastes mentella","Beaked redfish","Least Concern","Unknown",94.5
+"840",840,"REB","27","EE",0,0,0,0,0,0,0,0,0,0,684.1,395.8,"Sebastes mentella","Beaked redfish","Least Concern","Unknown",1079.9
+"841",841,"REB","27","ES",3336.08,3453.38,3224.13,513.1,2661.78,2803.7,3456.76,4454.51,2087.85,981.04,1.01,3.4,"Sebastes mentella","Beaked redfish","Least Concern","Unknown",26976.74
+"842",842,"REB","27","FO",0,0,0.075,0,0,0,0,0,0,0,0,0,"Sebastes mentella","Beaked redfish","Least Concern","Unknown",0.075
+"843",843,"REB","27","GL",2357.5,3296.9,625.5,1,0,0,0,2992,5937,3380,2008,2413,"Sebastes mentella","Beaked redfish","Least Concern","Unknown",23010.9
+"844",844,"REB","27","IS",2105,12313,11445,9503,17380,5940,23804,28242.1,15529.1,19385,12460.7,12974.3,"Sebastes mentella","Beaked redfish","Least Concern","Unknown",171081.2
+"845",845,"REB","27","LT",1700.99,1868.3,1316.48,1478.05,1424.55,1035.28,0,0,0,0,0,0,"Sebastes mentella","Beaked redfish","Least Concern","Unknown",8823.65
+"846",846,"REB","27","LV",0,0,0,0,0,0,0,0,0,0,1148,1211,"Sebastes mentella","Beaked redfish","Least Concern","Unknown",2359
+"847",847,"REB","27","NL",0,0.2,4,3.7,0,0,0,0,0,0,0,0,"Sebastes mentella","Beaked redfish","Least Concern","Unknown",7.9
+"848",848,"REB","27","NO",17930.17,19440.19,21224.31,15361.89,4723.68,5059.07,4238.08,6486.19,1918,1804.2,6672.01,7762,"Sebastes mentella","Beaked redfish","Least Concern","Unknown",112619.79
+"849",849,"REB","27","PL",102.49,208.07,4.5,102.92,83.61,11.38,10.6,3.9,515.7,219,1715.2,3831.5,"Sebastes mentella","Beaked redfish","Least Concern","Unknown",6808.87
+"850",850,"REB","27","PT",791.09,0,677.76,504.58,1078.76,965.85,2135.71,2460,2345,1993,80,0,"Sebastes mentella","Beaked redfish","Least Concern","Unknown",13031.75
+"851",851,"REB","27","RU",30768,31371,23697,22061,30155,22480,27403,29592,29796,22258,27499,35241,"Sebastes mentella","Beaked redfish","Least Concern","Unknown",332321
+"852",852,"RGL","27","PT",11.05,9.66,9.06,7.06,11.8,7.57,10.45,8,9.01,7.01,21.01,9.1,"Gymnura altavela","Spiny butterfly ray","Vulnerable","Decreasing",120.78
+"853",853,"RIB","27","ES",60.66,53.91,54.05,19.44,5.93,0,0,0,0,0,0,0,"Mora moro","Common mora","Least Concern","Unknown",193.99
+"854",854,"RIB","27","FR",33.73,56.38,78.68,64.5,100.82,71.15,88.66,88.5,88.3,75.72,84.33,116.1,"Mora moro","Common mora","Least Concern","Unknown",946.87
+"855",855,"RIB","27","GB",0,0,0,0,0.24,0.3,0.06,0.3,0,0.01,0,0,"Mora moro","Common mora","Least Concern","Unknown",0.91
+"856",856,"RIB","27","IE",0.15,0,0,1.58,2.82,0,0,0,0,0,20.1,25.6,"Mora moro","Common mora","Least Concern","Unknown",50.25
+"857",857,"RIB","27","NO",0,0,0,0,0.17,0,0,0,0,0,0,0,"Mora moro","Common mora","Least Concern","Unknown",0.17
+"858",858,"RIB","27","PT",170.38,190.88,93.09,62.85,52.56,31.5,58.56,55,68.01,53,87.01,91.8,"Mora moro","Common mora","Least Concern","Unknown",1014.64
+"859",859,"RJC","27","BE",408.2,454.3,580.3,451.5,599,601.3,484.9,383.5,399.4,570.9,0,0,"Raja clavata","Thornback ray","Near Threatened","Decreasing",4933.3
+"860",860,"RJC","27","DE",27.57,33.79,0,0,0,0,0,0,0,0,0,0,"Raja clavata","Thornback ray","Near Threatened","Decreasing",61.36
+"861",861,"RJC","27","DK",1,2.69,3.65,8.65,2.07,0.3,0.95,1.11,0.02,0.01,0,0,"Raja clavata","Thornback ray","Near Threatened","Decreasing",20.45
+"862",862,"RJC","27","ES",424.65,398.44,366.96,656.48,631.25,740.15,768.96,713.8,251.54,0,0,0,"Raja clavata","Thornback ray","Near Threatened","Decreasing",4952.23
+"863",863,"RJC","27","FR",1354.85,1405.69,1305.96,1566.9,1510.18,1183.87,997.38,1074.7,952.9,47.2,687.24,828.5,"Raja clavata","Thornback ray","Near Threatened","Decreasing",12915.37
+"864",864,"RJC","27","GB",1189.22,1163.57,1063.92,1106.39,1294.56,1207.4,1084.11,992.9,795.65,448.02,0,0,"Raja clavata","Thornback ray","Near Threatened","Decreasing",10345.74
+"865",865,"RJC","27","IE",517.89,472.49,393.66,395.37,341.06,459.96,270.64,194.7,29.2,0,0.1,0,"Raja clavata","Thornback ray","Near Threatened","Decreasing",3075.07
+"866",866,"RJC","27","IM",6,0.333,0.226,0,0,0,1,0,0,0,0,0,"Raja clavata","Thornback ray","Near Threatened","Decreasing",7.559
+"867",867,"RJC","27","JE",0,0.19,0.01,0.013,0.025,0.238,0.052,0.104,0.046,0.167,0,0,"Raja clavata","Thornback ray","Near Threatened","Decreasing",0.845
+"868",868,"RJC","27","NL",355.13,189.2,166.6,153.5,164,192,96,0,162,192,0,0,"Raja clavata","Thornback ray","Near Threatened","Decreasing",1670.43
+"869",869,"RJC","27","NO",0.65,1.41,1.31,1.47,3.5,2.38,0.53,5.89,0,0.01,0,0,"Raja clavata","Thornback ray","Near Threatened","Decreasing",17.15
+"870",870,"RJC","27","PT",837.9,790.61,915.04,942.39,896.72,767.46,795.88,869,588,502.01,471.02,363.2,"Raja clavata","Thornback ray","Near Threatened","Decreasing",8739.23
+"871",871,"RJC","27","SE",0.1,0,0,0,0,0,0,0,0,0,0,0,"Raja clavata","Thornback ray","Near Threatened","Decreasing",0.1
+"872",872,"RJE","27","BE",0,0,0,0.3,0,0.5,0,0,0,0,0,0,"Raja microocellata","Small-eyed ray","Near Threatened","Decreasing",0.8
+"873",873,"RJE","27","ES",0.95,1.12,0.43,0.45,1.2,5.74,3.93,10.5,2.03,0,0,0,"Raja microocellata","Small-eyed ray","Near Threatened","Decreasing",26.35
+"874",874,"RJE","27","FR",100.28,6.43,71.73,99.83,61.43,50.16,42.51,65.9,46.9,0.21,20.31,19.3,"Raja microocellata","Small-eyed ray","Near Threatened","Decreasing",584.99
+"875",875,"RJE","27","GB",45.12,89.29,135.31,127.63,158.6,239.1,217.12,246.9,167.71,88.02,0,0,"Raja microocellata","Small-eyed ray","Near Threatened","Decreasing",1514.8
+"876",876,"RJE","27","GG",0,0,0.9,1,2,2,6,10,6,0,0,0,"Raja microocellata","Small-eyed ray","Near Threatened","Decreasing",27.9
+"877",877,"RJE","27","IE",0,0.3,0,0,0,0.01,0,0,0,0,0,0,"Raja microocellata","Small-eyed ray","Near Threatened","Decreasing",0.31
+"878",878,"RJE","27","JE",0,0,1.107,0.489,0.819,1.372,1.062,3.15,0.925,0.183,0,0,"Raja microocellata","Small-eyed ray","Near Threatened","Decreasing",9.107
+"879",879,"RJE","27","NL",0,0,0.1,0,0,0,0,0,0,0,0,0,"Raja microocellata","Small-eyed ray","Near Threatened","Decreasing",0.1
+"880",880,"RJE","27","PT",46.01,0,0,0,0,0,0,0,0,0,0,0,"Raja microocellata","Small-eyed ray","Near Threatened","Decreasing",46.01
+"881",881,"RJH","27","BE",463.6,421.9,484.9,445.8,542.8,494.9,365.7,279.6,295.5,307.41,0,0,"Raja brachyura","Blonde ray","Near Threatened","Decreasing",4102.11
+"882",882,"RJH","27","DE",0.06,0.09,0,0,0,0,0,0,0,0,0,0,"Raja brachyura","Blonde ray","Near Threatened","Decreasing",0.15
+"883",883,"RJH","27","DK",0,3.74,2.26,1.21,0.43,0,0,0,0,0,0,0,"Raja brachyura","Blonde ray","Near Threatened","Decreasing",7.64
+"884",884,"RJH","27","ES",3.07,2.6,1.65,0.5,3.36,1.42,2.85,8.81,13.11,0,0,0,"Raja brachyura","Blonde ray","Near Threatened","Decreasing",37.37
+"885",885,"RJH","27","FR",744.71,653.16,646.2,574.17,325.56,282.75,383.49,269.5,137.3,0,0,0,"Raja brachyura","Blonde ray","Near Threatened","Decreasing",4016.84
+"886",886,"RJH","27","GB",505.87,627,571.45,530.14,508.57,478.5,483.7,498.5,349.13,165.03,0,0,"Raja brachyura","Blonde ray","Near Threatened","Decreasing",4717.89
+"887",887,"RJH","27","GG",50.962,98.012,142.4,198,182,169,131,143,102,0,0,0,"Raja brachyura","Blonde ray","Near Threatened","Decreasing",1216.374
+"888",888,"RJH","27","IE",208.79,226.78,403.18,476.98,441.56,455.04,429.1,439.5,10.7,0,0,6.2,"Raja brachyura","Blonde ray","Near Threatened","Decreasing",3097.83
+"889",889,"RJH","27","IM",1,0,0,0,0,0,0,0,0,0,0,0,"Raja brachyura","Blonde ray","Near Threatened","Decreasing",1
+"890",890,"RJH","27","JE",34,73.04,65.23,83.122,76.326,58.976,23.333,22.936,2.369,1.802,0.049,0,"Raja brachyura","Blonde ray","Near Threatened","Decreasing",441.183
+"891",891,"RJH","27","NL",104.4,33.2,45.1,30.1,30,58,24,11,2,3,0,0,"Raja brachyura","Blonde ray","Near Threatened","Decreasing",340.8
+"892",892,"RJH","27","PT",205.82,198.83,218.05,234.97,278.98,360.39,402.82,377,412,347.02,394,377.81,"Raja brachyura","Blonde ray","Near Threatened","Decreasing",3807.69
+"893",893,"RJM","27","BE",19.3,17.8,10.2,9.3,31.1,84.3,157.1,88.1,105.3,121.71,0,0,"Raja montagui","Spotted ray","Least Concern","Stable",644.21
+"894",894,"RJM","27","DE",5.88,4.08,0,0,0,0,0,0,0,0,0,0,"Raja montagui","Spotted ray","Least Concern","Stable",9.96
+"895",895,"RJM","27","DK",0,0,0.06,1.38,0.11,0,0,0,0.02,0.02,0,0,"Raja montagui","Spotted ray","Least Concern","Stable",1.59
+"896",896,"RJM","27","ES",45.53,43.77,35.94,23.19,31.58,39.56,47.26,90.51,27.62,0,0,0,"Raja montagui","Spotted ray","Least Concern","Stable",384.96
+"897",897,"RJM","27","FR",941.75,879.77,954.46,1109.23,1062.71,1195.65,1189.09,1003.2,956.9,42.51,934.32,1017.1,"Raja montagui","Spotted ray","Least Concern","Stable",11286.69
+"898",898,"RJM","27","GB",243.31,247.75,233.4,197.45,238.78,197.7,206.6,186.8,83.71,27.05,0,0,"Raja montagui","Spotted ray","Least Concern","Stable",1862.55
+"899",899,"RJM","27","IE",65.14,62.21,88.57,93.13,64.07,78.31,81.26,39.2,1.9,0,0,0,"Raja montagui","Spotted ray","Least Concern","Stable",573.79
+"900",900,"RJM","27","NL",170.12,87.8,82.2,95.9,139,195,111,0,216,277,0,0,"Raja montagui","Spotted ray","Least Concern","Stable",1374.02
+"901",901,"RJM","27","PT",65.55,145.65,50.29,41.54,56.89,56.32,83.29,89,135.01,158,169.01,81.11,"Raja montagui","Spotted ray","Least Concern","Stable",1131.66
+"902",902,"RJQ","27","NO",26.61,0,0,0,0,0,0,0,0,0,0,0,"Bathyraja spinicauda","Spinetail ray","Near Threatened","Unknown",26.61
+"903",903,"RJU","27","BE",24.1,5.3,0,0,0,0,0,0,0,0,0,0,"Raja undulata","Undulate ray","Endangered","Decreasing",29.4
+"904",904,"RJU","27","ES",20.85,0,4.95,0.09,0.14,0,0.41,0,0.01,0,0,0,"Raja undulata","Undulate ray","Endangered","Decreasing",26.45
+"905",905,"RJU","27","FR",101.86,72.32,57.62,16.65,2.61,7.88,22.04,9.3,20.7,0,0,0.1,"Raja undulata","Undulate ray","Endangered","Decreasing",311.08
+"906",906,"RJU","27","GB",35.49,22.4,3.68,0,0,0,0,0,1.7,3,0,0,"Raja undulata","Undulate ray","Endangered","Decreasing",66.27
+"907",907,"RJU","27","GG",1.203,0,1.4,0,0,0,0,2,4,0,0,0,"Raja undulata","Undulate ray","Endangered","Decreasing",8.603
+"908",908,"RJU","27","JE",0,0.04,0,0,0,0,0,1.468,3.639,0.097,0.026,0,"Raja undulata","Undulate ray","Endangered","Decreasing",5.27
+"909",909,"RJU","27","PT",33.62,21.76,0,0,0,0,0,0,0,0,0,0,"Raja undulata","Undulate ray","Endangered","Decreasing",55.38
+"910",910,"RMM","27","ES",0.08,0,0.15,0,1,0,5,4,3,1,2,3,"Mobula mobular","Devil fish","Endangered","Decreasing",19.23
+"911",911,"RNG","27","DE",30.79,28.7,33.15,30.26,25.16,31.67,33.96,33,24.11,16.6,15.9,17.61,"Coryphaenoides rupestris","Roundnose grenadier","Critically Endangered","Unknown",320.91
+"912",912,"RNG","27","DK",1,1.13,0.66,0.62,0.61,0.23,4.67,0.6,1.2,0.02,0.02,2715.02,"Coryphaenoides rupestris","Roundnose grenadier","Critically Endangered","Unknown",2725.78
+"913",913,"RNG","27","EE",0,0,0,3.81,0,0,0,0,0,0,140.1,60.6,"Coryphaenoides rupestris","Roundnose grenadier","Critically Endangered","Unknown",204.51
+"914",914,"RNG","27","ES",1622.97,1238.08,1844.57,2815.96,1977.93,2672.31,4327.86,3534.3,1352.4,3636,5878.91,5251.3,"Coryphaenoides rupestris","Roundnose grenadier","Critically Endangered","Unknown",36152.59
+"915",915,"RNG","27","FO",16.587,39.868,30.55,43,19,26,70,243,327,682,852,954,"Coryphaenoides rupestris","Roundnose grenadier","Critically Endangered","Unknown",3303.005
+"916",916,"RNG","27","FR",115.26,434.87,403.45,698.79,1003,1187.19,1349.35,3089.9,2210.4,2672.01,2701.71,3151.7,"Coryphaenoides rupestris","Roundnose grenadier","Critically Endangered","Unknown",19017.63
+"917",917,"RNG","27","GB",7.94,5.46,11.29,7.38,6.23,2.5,7.9,25.2,18.6,8.02,4.4,15,"Coryphaenoides rupestris","Roundnose grenadier","Critically Endangered","Unknown",119.92
+"918",918,"RNG","27","GL",27.6,14.8,37.8,19,43,9,0,0,42,31,3,1,"Coryphaenoides rupestris","Roundnose grenadier","Critically Endangered","Unknown",228.2
+"919",919,"RNG","27","IE",0,0,0,0,0,0,0,0,0,0.1,29.61,141.4,"Coryphaenoides rupestris","Roundnose grenadier","Critically Endangered","Unknown",171.11
+"920",920,"RNG","27","IS",19,394,23,35,84,80,62,58.8,46,29,12.7,62.1,"Coryphaenoides rupestris","Roundnose grenadier","Critically Endangered","Unknown",905.6
+"921",921,"RNG","27","LT",0,0,0,0,0,44.56,0,0,0,28.2,39,118,"Coryphaenoides rupestris","Roundnose grenadier","Critically Endangered","Unknown",229.76
+"922",922,"RNG","27","NO",4.19,4.99,6.58,11.57,18.76,7.65,19.84,28.83,10.04,9.71,15.03,27.03,"Coryphaenoides rupestris","Roundnose grenadier","Critically Endangered","Unknown",164.22
+"923",923,"RNG","27","PT",0,0,0,0,0.47,0,0,0,0.01,0.01,0.01,0,"Coryphaenoides rupestris","Roundnose grenadier","Critically Endangered","Unknown",0.5
+"924",924,"RNG","27","RU",0,0,0,0,0,0,0,79,12,41,1,2,"Coryphaenoides rupestris","Roundnose grenadier","Critically Endangered","Unknown",135
+"925",925,"RNG","27","SE",0.01,0.01,0,0,0,0,0,0,0,0,0.1,0.4,"Coryphaenoides rupestris","Roundnose grenadier","Critically Endangered","Unknown",0.52
+"926",926,"RNH","27","ES",2.14,4.3,5.66,2.58,11.15,0,0,0,0,0,0,0,"Arnoglossus thori","Thor's scaldfish","Data Deficient","Unknown",25.83
+"927",927,"RPG","27","ES",80.16,112.22,91.76,81.06,67.51,46.94,137.21,114.31,89.72,109.01,102.61,115.6,"Pagrus pagrus","Red porgy","Least Concern","Unknown",1148.11
+"928",928,"RPG","27","FR",42.75,40.1,29.64,39.95,15.03,13.09,20.72,10.2,12.2,4.5,7.81,11.7,"Pagrus pagrus","Red porgy","Least Concern","Unknown",247.69
+"929",929,"RPG","27","PT",254.29,294.86,264.62,181.19,151.46,175.38,201.19,172,167,186.01,208.01,155.1,"Pagrus pagrus","Red porgy","Least Concern","Unknown",2411.11
+"930",930,"RSE","27","ES",76.35,78.94,89.93,130.3,108.44,0,0,0,0,0,0,0,"Scorpaena scrofa","Red scorpionfish","Least Concern","Unknown",483.96
+"931",931,"RSE","27","FR",0.14,0,0,0,0,0,0,0,0,4.94,5.24,9.1,"Scorpaena scrofa","Red scorpionfish","Least Concern","Unknown",19.42
+"932",932,"RSE","27","GB",0,0,0,0,0,0,0,0.1,0.02,0,3.91,0.02,"Scorpaena scrofa","Red scorpionfish","Least Concern","Unknown",4.05
+"933",933,"RSE","27","PT",32.27,40.54,37.71,40.21,26.69,35.87,32.97,33,41.01,39,32.01,30.1,"Scorpaena scrofa","Red scorpionfish","Least Concern","Unknown",421.38
+"934",934,"RUB","27","PT",1.23,0,0,0.76,0.45,0.21,0.29,1,1,0.01,0,0,"Caranx crysos","Blue runner","Least Concern","Unknown",4.95
+"935",935,"SAA","27","FR",0,0.02,0,0.01,0,0.06,0.12,0,5,0,0,0,"Sardinella aurita","Round sardinella","Least Concern","Unknown",5.21
+"936",936,"SAA","27","GB",0,0,0,0,0.03,0,0.21,0,0,0.01,0,0,"Sardinella aurita","Round sardinella","Least Concern","Unknown",0.25
+"937",937,"SAA","27","PT",0,0,0,0,0,0,0,0,0,0,3,0.1,"Sardinella aurita","Round sardinella","Least Concern","Unknown",3.1
+"938",938,"SAE","27","NL",0.06,0,0,0,0,0,0,0,0,0,0,0,"Sardinella maderensis","Madeiran sardinella","Vulnerable","Unknown",0.06
+"939",939,"SAE","27","PT",0,2.36,0,0,0,0,0,0,0,0,0,0,"Sardinella maderensis","Madeiran sardinella","Vulnerable","Unknown",2.36
+"940",940,"SAL","27","DE",0.15,1.63,10.05,6.33,11.54,1.36,7.43,8,14,25.2,17.1,18.71,"Salmo salar","Atlantic salmon","Lower Risk/least concern","",121.5
+"941",941,"SAL","27","DK",15,51.17,94.9,124.53,120.78,103.31,89.58,130.13,67.54,19.04,64.05,163.03,"Salmo salar","Atlantic salmon","Lower Risk/least concern","",1043.06
+"942",942,"SAL","27","EE",8.89,6.83,5.59,5.22,6.82,5.33,3.77,3.8,7.9,7.8,5.8,5.8,"Salmo salar","Atlantic salmon","Lower Risk/least concern","",73.55
+"943",943,"SAL","27","ES",0.04,0,0.01,0,0.3,0,2.57,0.41,0.01,1.02,0.01,0,"Salmo salar","Atlantic salmon","Lower Risk/least concern","",4.37
+"944",944,"SAL","27","FI",254.92,288.08,253.62,311.32,295,351.39,248.47,235.84,366.66,365.29,372.52,342.61,"Salmo salar","Atlantic salmon","Lower Risk/least concern","",3685.72
+"945",945,"SAL","27","FO",0.002,0,0,0,0,0,0,0,0,0,0,0,"Salmo salar","Atlantic salmon","Lower Risk/least concern","",0.002
+"946",946,"SAL","27","FR",7.66,2.68,3.72,6.72,5.47,7.13,11.44,38.5,6.1,5.31,5.92,6.5,"Salmo salar","Atlantic salmon","Lower Risk/least concern","",107.15
+"947",947,"SAL","27","GB",0.33,3.8,0.11,0.16,3.94,4.7,7.8,0.1,0.42,5.02,8.03,7.03,"Salmo salar","Atlantic salmon","Lower Risk/least concern","",41.44
+"948",948,"SAL","27","LT",0.16,0.36,0.36,0.51,0.36,0.71,0,0.5,0.8,0.9,1,1,"Salmo salar","Atlantic salmon","Lower Risk/least concern","",6.66
+"949",949,"SAL","27","LV",3.18,4.75,3.96,3.71,4.19,4.86,4.37,3.5,8.7,4.8,20,16,"Salmo salar","Atlantic salmon","Lower Risk/least concern","",82.02
+"950",950,"SAL","27","NO",9.23,6.1,4.2,216.2,195.15,262.09,11.89,262.64,4,6.2,6.01,525,"Salmo salar","Atlantic salmon","Lower Risk/least concern","",1508.71
+"951",951,"SAL","27","PL",41.97,23.19,23.97,19.89,30.61,31.93,33.83,47.7,49.1,43.1,91,106.6,"Salmo salar","Atlantic salmon","Lower Risk/least concern","",542.89
+"952",952,"SAL","27","PT",0,0,0,0,0.07,0.07,0.16,0,0.01,0.01,0.01,0.01,"Salmo salar","Atlantic salmon","Lower Risk/least concern","",0.34
+"953",953,"SAL","27","RU",13,24,34,32,37,32,31,32,62,79,55,72,"Salmo salar","Atlantic salmon","Lower Risk/least concern","",503
+"954",954,"SAL","27","SE",156.83,195.31,187.3,195,193.3,245.2,359.2,299.5,320.9,253.1,317.2,335.6,"Salmo salar","Atlantic salmon","Lower Risk/least concern","",3058.44
+"955",955,"SAU","27","ES",288.84,887.18,1398.71,966.25,295.68,278.35,796.38,158.9,343.5,281,2259.7,680.7,"Scomberesox saurus","Atlantic saury","Least Concern","Unknown",8635.19
+"956",956,"SAU","27","PT",0,0,0,0,0.65,2.39,0.44,0,0.01,0.01,1,0.4,"Scomberesox saurus","Atlantic saury","Least Concern","Unknown",4.9
+"957",957,"SBA","27","ES",229.35,437.73,480.02,770.4,901.62,0,0,0,0,0,0,0,"Pagellus acarne","Axillary seabream","Least Concern","Unknown",2819.12
+"958",958,"SBA","27","FR",119.29,59.57,82.49,80.79,48.9,24.11,31.19,32.9,47,7.11,21.83,18.7,"Pagellus acarne","Axillary seabream","Least Concern","Unknown",573.88
+"959",959,"SBA","27","GB",0,0,0,0,0,0,0,0,0.01,0,0,0,"Pagellus acarne","Axillary seabream","Least Concern","Unknown",0.01
+"960",960,"SBA","27","PT",579.57,666.47,1069.14,715.89,719.76,780.44,880.48,1041,977,787,1062,1050.71,"Pagellus acarne","Axillary seabream","Least Concern","Unknown",10329.46
+"961",961,"SBB","27","ES",0.12,0.07,0.02,0.24,0.06,0,0,0,0,0,0,0,"Stomias boa","Boa dragonfish","Least Concern","Unknown",0.51
+"962",962,"SBG","27","ES",109.39,124.06,160.56,201.13,114.82,56.01,141.07,138.9,116.11,154.02,130.8,243.1,"Sparus aurata","Gilthead seabream","Least Concern","Stable",1689.97
+"963",963,"SBG","27","FR",460.46,387.87,584.12,731.54,636.53,376.18,534.11,777.5,556.7,193.84,300.85,330.4,"Sparus aurata","Gilthead seabream","Least Concern","Stable",5870.1
+"964",964,"SBG","27","GB",0.22,1.39,0.03,0.12,1.99,0.9,1.44,1.2,3.33,0.05,0.33,0.04,"Sparus aurata","Gilthead seabream","Least Concern","Stable",11.04
+"965",965,"SBG","27","GG",0,0,0,0,0,0,1,0,0,0,0,0,"Sparus aurata","Gilthead seabream","Least Concern","Stable",1
+"966",966,"SBG","27","JE",0,0.12,0,0,0.007,0.55,0,0.06,0.25,0,0,0,"Sparus aurata","Gilthead seabream","Least Concern","Stable",0.987
+"967",967,"SBG","27","NL",0.05,0.1,0,0,0,2,1,0,0,0,0,0,"Sparus aurata","Gilthead seabream","Least Concern","Stable",3.15
+"968",968,"SBG","27","PT",250.33,220.49,240.58,298.39,282.74,229.57,286.01,219,194,186,223,150.1,"Sparus aurata","Gilthead seabream","Least Concern","Stable",2780.21
+"969",969,"SBL","27","ES",0.07,0.09,0.56,0.13,0.01,0,0,0,0,0,0,0,"Hexanchus griseus","Bluntnose sixgill shark","Near Threatened","Unknown",0.86
+"970",970,"SBL","27","FR",0,0,0.64,0.3,1.72,0.86,2.11,0,7.8,0.01,0.91,0.9,"Hexanchus griseus","Bluntnose sixgill shark","Near Threatened","Unknown",15.25
+"971",971,"SBL","27","GB",0,0,0,0,0,0,0.01,0,0,0.02,0,0,"Hexanchus griseus","Bluntnose sixgill shark","Near Threatened","Unknown",0.03
+"972",972,"SBL","27","IE",0,0,0,0,0,0,0,0,0,0,0.3,0,"Hexanchus griseus","Bluntnose sixgill shark","Near Threatened","Unknown",0.3
+"973",973,"SBL","27","PT",0.02,0,0,0,0,0,0.14,1,1.01,0.02,4,14.6,"Hexanchus griseus","Bluntnose sixgill shark","Near Threatened","Unknown",20.79
+"974",974,"SBN","27","ES",0,0,0,0,0.03,0,0,0,0,0,0,0,"Scopelogadus beanii","","Data Deficient","Stable",0.03
+"975",975,"SBR","27","DE",0,0,0,0,0,0,0,0,0.01,0,0,0,"Pagellus bogaraveo","Blackspot(=red) seabream","Near Threatened","Decreasing",0.01
+"976",976,"SBR","27","ES",158.93,191.23,189.12,253.58,282.42,235.85,184.81,251.81,171.7,246,285.2,302.2,"Pagellus bogaraveo","Blackspot(=red) seabream","Near Threatened","Decreasing",2752.85
+"977",977,"SBR","27","FR",16.32,31.39,31.21,54.66,53.78,53.26,40.81,102.9,64.9,40.91,95.32,57,"Pagellus bogaraveo","Blackspot(=red) seabream","Near Threatened","Decreasing",642.46
+"978",978,"SBR","27","GB",1.3,0.9,0.61,0.21,0.47,3.4,12.89,13.9,13.05,13.08,4.13,0.07,"Pagellus bogaraveo","Blackspot(=red) seabream","Near Threatened","Decreasing",64.01
+"979",979,"SBR","27","IE",0.11,0.01,0,0,0,0,0,0.01,1.21,0.4,0.2,0,"Pagellus bogaraveo","Blackspot(=red) seabream","Near Threatened","Decreasing",1.94
+"980",980,"SBR","27","NL",0.17,0,0.2,0,9,9,0,0,15,21,17,34,"Pagellus bogaraveo","Blackspot(=red) seabream","Near Threatened","Decreasing",105.37
+"981",981,"SBR","27","PT",593.14,626.62,774.28,864.54,681.55,740.32,744.52,803,1183.01,1269.01,1281.02,1108.11,"Pagellus bogaraveo","Blackspot(=red) seabream","Near Threatened","Decreasing",10669.12
+"982",982,"SBS","27","ES",144.57,309.95,325.37,465.81,270.65,390.53,471.16,232.7,180.6,194.01,191.9,494.4,"Oblada melanura","Saddled seabream","Least Concern","Unknown",3671.65
+"983",983,"SBS","27","FR",3.37,7.1,17.74,2.39,3.88,14.4,11.94,10.1,8.5,0.7,0.9,24.1,"Oblada melanura","Saddled seabream","Least Concern","Unknown",105.12
+"984",984,"SBS","27","PT",0,0,0,0,0.24,0.24,0.11,0,0.01,0.01,0.01,0.11,"Oblada melanura","Saddled seabream","Least Concern","Unknown",0.73
+"985",985,"SBZ","27","ES",31.62,36.05,47.58,26.16,13.08,0,0,0,0,0,0,0,"Diplodus cervinus","Zebra seabream","Least Concern","Decreasing",154.49
+"986",986,"SBZ","27","FR",0.78,0.5,0.25,0.22,0.19,1.19,0.63,0,12.7,0,0,0,"Diplodus cervinus","Zebra seabream","Least Concern","Decreasing",16.46
+"987",987,"SBZ","27","PT",6.25,4.53,5.32,6.4,5.56,4.13,8.04,8,6.01,6.01,7.01,6.8,"Diplodus cervinus","Zebra seabream","Least Concern","Decreasing",74.06
+"988",988,"SCK","27","ES",0,0,0,0.01,0.04,0,0,0,0.02,0,0.01,0,"Dalatias licha","Kitefin shark","Vulnerable","Decreasing",0.08
+"989",989,"SCK","27","FR",0,0,0.02,0.07,0.01,0.18,3,5.2,0,0.4,0.81,2.8,"Dalatias licha","Kitefin shark","Vulnerable","Decreasing",12.49
+"990",990,"SCK","27","GB",0.63,0,0,0,0,0,0,0,0.01,0,4.6,34.04,"Dalatias licha","Kitefin shark","Vulnerable","Decreasing",39.28
+"991",991,"SCK","27","IE",0,0,0,0,0,0,0,0,0,0,0,8.7,"Dalatias licha","Kitefin shark","Vulnerable","Decreasing",8.7
+"992",992,"SCK","27","PT",0,0,0,0,0,0,0.09,1,7,11,10,16.31,"Dalatias licha","Kitefin shark","Vulnerable","Decreasing",45.4
+"993",993,"SCP","27","PT",0,0,0,0,0.03,0.04,0.03,0,0,0.01,0,0,"Stenotomus chrysops","Scup","Near Threatened","Decreasing",0.11
+"994",994,"SDR","27","PT",0,0,0.57,0,0.18,0.31,0.03,0,0.01,0.01,0.01,0,"Synodus saurus","Atlantic lizardfish","Least Concern","Unknown",1.12
+"995",995,"SDS","27","ES",14.33,16.21,18.57,15.89,32.5,0,0,0,0,0,0,0,"Mustelus asterias","Starry smooth-hound","Least Concern","Unknown",97.5
+"996",996,"SDS","27","GB",6.53,13.23,10.99,7.86,10.52,21.1,0.35,0,1.21,0.03,1.4,0,"Mustelus asterias","Starry smooth-hound","Least Concern","Unknown",73.22
+"997",997,"SDS","27","NL",0.29,0.4,0.5,0,0,0,0,0,0,0,0,0,"Mustelus asterias","Starry smooth-hound","Least Concern","Unknown",1.19
+"998",998,"SDS","27","PT",8.17,6.72,8.27,7.93,7.99,8.68,6.01,7,14,8,29,21.8,"Mustelus asterias","Starry smooth-hound","Least Concern","Unknown",133.57
+"999",999,"SDU","27","ES",0,0,0,0,0,0,0,0,0,0,0,0.4,"Deania profundorum","Arrowhead dogfish","Least Concern","Unknown",0.4
+"1000",1000,"SDU","27","FR",0,0,0,0,0,0.71,1.97,0,0,0,0,0,"Deania profundorum","Arrowhead dogfish","Least Concern","Unknown",2.68
+"1001",1001,"SDU","27","IE",0,0,0,0,0,0.81,0,0,0,0,0,0,"Deania profundorum","Arrowhead dogfish","Least Concern","Unknown",0.81
+"1002",1002,"SDU","27","NL",0.66,0,0.1,0,1,6,0,0,0,0,0,0,"Deania profundorum","Arrowhead dogfish","Least Concern","Unknown",7.76
+"1003",1003,"SDU","27","PT",0,0,3.64,0,0.03,0,0,3,0.01,0,0,0,"Deania profundorum","Arrowhead dogfish","Least Concern","Unknown",6.68
+"1004",1004,"SFA","27","FR",0,0,0,0,0,0.01,0,0,0,0,0,0,"Istiophorus platypterus","Indo-Pacific sailfish","Least Concern","Unknown",0.01
+"1005",1005,"SFS","27","DE",0,0,0,0,0,0,0.26,0,0,0,0,0,"Lepidopus caudatus","Silver scabbardfish","Data Deficient","Unknown",0.26
+"1006",1006,"SFS","27","ES",181.42,335.71,391.86,687.84,594.1,1097.29,1367.08,1000.6,807.8,928.04,735.92,499.2,"Lepidopus caudatus","Silver scabbardfish","Data Deficient","Unknown",8626.86
+"1007",1007,"SFS","27","FR",0.25,0,0.18,0.38,0.02,0.4,0.76,9.4,7.4,3.91,16.32,42,"Lepidopus caudatus","Silver scabbardfish","Data Deficient","Unknown",81.02
+"1008",1008,"SFS","27","GB",0,0,0,0,0,0,0,0,0,0,0.1,4.01,"Lepidopus caudatus","Silver scabbardfish","Data Deficient","Unknown",4.11
+"1009",1009,"SFS","27","IE",0,0,0,0,0,0,0,0,0,0,67.4,341.9,"Lepidopus caudatus","Silver scabbardfish","Data Deficient","Unknown",409.3
+"1010",1010,"SFS","27","LT",0,0,0,0,0,3.15,0,0,0,2.2,23,30,"Lepidopus caudatus","Silver scabbardfish","Data Deficient","Unknown",58.35
+"1011",1011,"SFS","27","PT",167.54,155.15,513.89,1086.6,414.95,294.96,259.97,84,143,76.01,66.02,47.8,"Lepidopus caudatus","Silver scabbardfish","Data Deficient","Unknown",3309.89
+"1012",1012,"SHB","27","ES",0,0.03,0.01,0.01,0,0,0,0,0,0,0,0,"Echinorhinus brucus","Bramble shark","Data Deficient","Unknown",0.05
+"1013",1013,"SHB","27","PT",0,0,0,0,0.01,0.6,0.14,1,2.02,0.01,1.01,0.51,"Echinorhinus brucus","Bramble shark","Data Deficient","Unknown",5.3
+"1014",1014,"SHO","27","ES",98.62,91.1,64.99,1.81,4.73,4.02,14.33,0.11,70.51,129.02,133,189.1,"Galeus melastomus","Blackmouth catshark","Least Concern","Stable",801.34
+"1015",1015,"SHO","27","FR",0,0,0.47,1.43,4.13,2.35,0.43,0.8,4.7,1.81,1.61,1,"Galeus melastomus","Blackmouth catshark","Least Concern","Stable",18.73
+"1016",1016,"SHO","27","GB",0,0,0,0,0,0,0.6,0,0,0,0,0,"Galeus melastomus","Blackmouth catshark","Least Concern","Stable",0.6
+"1017",1017,"SHO","27","NO",6.18,1.85,2.34,3.55,13.39,30.99,17.95,13.36,0,0,0,0,"Galeus melastomus","Blackmouth catshark","Least Concern","Stable",89.61
+"1018",1018,"SHO","27","PT",42.16,35.32,38.6,33.5,8.82,0,1.34,4,16.01,12,25.01,30.9,"Galeus melastomus","Blackmouth catshark","Least Concern","Stable",247.66
+"1019",1019,"SHR","27","FR",0.37,0.73,0,0.03,0.47,0.03,3.81,0.8,0,0,0,0,"Diplodus puntazzo","Sharpsnout seabream","Least Concern","Unknown",6.24
+"1020",1020,"SHR","27","IS",0,0,274,0,0,0,0,0,0,0,0,0,"Diplodus puntazzo","Sharpsnout seabream","Least Concern","Unknown",274
+"1021",1021,"SHR","27","PT",24.72,10.84,13.25,10.42,13.35,15.46,23.65,22,30.01,29,51.01,25.1,"Diplodus puntazzo","Sharpsnout seabream","Least Concern","Unknown",268.81
+"1022",1022,"SKJ","27","ES",78.69,168.97,118.8,130.97,161.83,626.52,454.89,138.83,43.01,24.02,60.02,37.8,"Katsuwonus pelamis","Skipjack tuna","Least Concern","Stable",2044.35
+"1023",1023,"SKJ","27","FR",0.42,1.11,7.25,9.58,3.27,34.15,21.38,4.5,1.5,0.1,0.11,9.6,"Katsuwonus pelamis","Skipjack tuna","Least Concern","Stable",92.97
+"1024",1024,"SKJ","27","IE",6.95,61.35,0,0,0,0,0,0,0,0,0.01,0,"Katsuwonus pelamis","Skipjack tuna","Least Concern","Stable",68.31
+"1025",1025,"SKJ","27","PT",1126.65,700.66,1233.07,749.41,3829.25,1582.12,3772.07,11586,943,5150.01,8333.01,8767.4,"Katsuwonus pelamis","Skipjack tuna","Least Concern","Stable",47772.65
+"1026",1026,"SLI","27","ES",5.24,5.94,0.16,2.51,0,0,4.77,0,529.91,0,0,0,"Molva macrophthalma","Spanish ling","Least Concern","Unknown",548.53
+"1027",1027,"SLI","27","PT",11.15,10.41,12.95,13.49,14.67,19.51,25.02,25,0,0,0,0,"Molva macrophthalma","Spanish ling","Least Concern","Unknown",132.2
+"1028",1028,"SLM","27","ES",509.5,632.7,709.16,707.83,373.45,330.06,417.54,1058.7,352.6,234,256.5,216.1,"Sarpa salpa","Salema","Least Concern","Stable",5798.14
+"1029",1029,"SLM","27","FR",10.08,8.57,12.04,10.48,18.07,11.18,10.59,10.9,23.9,10.4,15.81,12.6,"Sarpa salpa","Salema","Least Concern","Stable",154.62
+"1030",1030,"SLM","27","PT",259.26,226.61,194.97,227.67,136.6,251.05,195.46,172,226,274,349,265.9,"Sarpa salpa","Salema","Least Concern","Stable",2778.52
+"1031",1031,"SMA","27","ES",348.81,379.94,439.29,435.15,316.86,368.05,239,340.3,361.36,185.06,118.6,90.5,"Isurus oxyrinchus","Shortfin mako","Endangered","Decreasing",3622.92
+"1032",1032,"SMA","27","FR",1,1.68,1.4,0.57,0.16,0.47,0.16,0,0,0,0,0,"Isurus oxyrinchus","Shortfin mako","Endangered","Decreasing",5.44
+"1033",1033,"SMA","27","GB",0,0,0,0,0,0,0,0,1.65,1.04,0,0.03,"Isurus oxyrinchus","Shortfin mako","Endangered","Decreasing",2.72
+"1034",1034,"SMA","27","PT",232.39,223.25,223.77,172.09,680.13,948.36,757.25,937,974.01,1063,1221,729.41,"Isurus oxyrinchus","Shortfin mako","Endangered","Decreasing",8161.66
+"1035",1035,"SMD","27","BE",1.7,2.1,0.2,0.4,0.1,0,0,0,0,0,0,0,"Mustelus mustelus","Smooth-hound","Vulnerable","Decreasing",4.5
+"1036",1036,"SMD","27","ES",25.95,23.05,22.98,17.47,19.48,17.11,48.83,35.6,32.6,26,51.1,32.1,"Mustelus mustelus","Smooth-hound","Vulnerable","Decreasing",352.27
+"1037",1037,"SMD","27","GB",359.03,456.09,268.32,313.45,301.93,315.3,299.72,274.4,195.92,172.04,0,0,"Mustelus mustelus","Smooth-hound","Vulnerable","Decreasing",2956.2
+"1038",1038,"SMD","27","IE",0,0,0.21,0.04,0,0,0.16,0.5,0.5,0.6,0.4,0,"Mustelus mustelus","Smooth-hound","Vulnerable","Decreasing",2.41
+"1039",1039,"SMD","27","NL",22.8,22.8,24.7,16.9,2,4,0,0,0,0,0,0,"Mustelus mustelus","Smooth-hound","Vulnerable","Decreasing",93.2
+"1040",1040,"SMD","27","PT",58.23,147.01,232.47,162.3,26.25,23.62,21.21,24,22.01,25.01,27.01,25.62,"Mustelus mustelus","Smooth-hound","Vulnerable","Decreasing",794.74
+"1041",1041,"SNQ","27","ES",21.58,9.2,22.19,5.93,15.23,0,0,0,0,0,0,0,"Scorpaena notata","Small red scorpionfish","Least Concern","Unknown",74.13
+"1042",1042,"SNS","27","ES",0.09,0.4,0.87,0.82,1.85,0,0,0,0,0,0,0,"Macroramphosus scolopax","Longspine snipefish","Least Concern","Unknown",4.03
+"1043",1043,"SNS","27","PT",0,0,0,1.27,0.03,0.02,0.01,11,0.02,0.01,1.01,0.02,"Macroramphosus scolopax","Longspine snipefish","Least Concern","Unknown",13.39
+"1044",1044,"SOL","27","BE",2214.7,2570.4,3076.6,3604.6,2888.7,3055.4,3529.6,3886,4003.7,3771.5,3855.7,3990.5,"Solea solea","Common sole","Data Deficient","Stable",40447.4
+"1045",1045,"SOL","27","DE",782.02,879.03,771.05,644.61,569.86,452.08,359.45,563,581.9,548.8,500.8,518.91,"Solea solea","Common sole","Data Deficient","Stable",7171.51
+"1046",1046,"SOL","27","DK",860,648.94,468.18,596.84,743.51,738.45,754.96,872.43,1048.72,1109.01,981.02,1361.02,"Solea solea","Common sole","Data Deficient","Stable",10183.08
+"1047",1047,"SOL","27","ES",241.37,228.88,235.92,235.12,243.25,0,0,0,0,0,0,162.5,"Solea solea","Common sole","Data Deficient","Stable",1347.04
+"1048",1048,"SOL","27","FO",1,0,0,0,0,0,0,0,0,0,0,0,"Solea solea","Common sole","Data Deficient","Stable",1
+"1049",1049,"SOL","27","FR",4860.35,5152.78,6273,7562.6,8209.49,7510.8,8066.97,8051.1,8948.5,6918.4,7852.31,7914.2,"Solea solea","Common sole","Data Deficient","Stable",87320.5
+"1050",1050,"SOL","27","GB",1799.29,1965.23,1937.46,2312.55,2272.78,1987.8,2201.23,2228.2,2361.46,2376.09,2945.74,2529.04,"Solea solea","Common sole","Data Deficient","Stable",26916.87
+"1051",1051,"SOL","27","GG",3.038,2.121,2.4,6,6,3,5,5,4,8,5,4,"Solea solea","Common sole","Data Deficient","Stable",53.559
+"1052",1052,"SOL","27","IE",162.98,202.14,183.08,194.1,215.32,216.18,177.47,202.81,183.22,213.91,278.01,228.9,"Solea solea","Common sole","Data Deficient","Stable",2458.12
+"1053",1053,"SOL","27","IM",2,0,0,0,0,0,0,0,1,0,0,0,"Solea solea","Common sole","Data Deficient","Stable",3
+"1054",1054,"SOL","27","JE",1,0.8947,0.962,1.069,2.382,1.26,1.688,1.487,1.464,2.171,1.807,2.661,"Solea solea","Common sole","Data Deficient","Stable",18.8457
+"1055",1055,"SOL","27","NL",9513.76,9616.8,9279.5,9018.4,9967,9085,8137,8773,9606,9459,10368,8304,"Solea solea","Common sole","Data Deficient","Stable",111127.46
+"1056",1056,"SOL","27","NO",2.36,2.44,4.97,3.43,6.26,8.79,7.07,4.75,5.01,22.3,14,45.01,"Solea solea","Common sole","Data Deficient","Stable",126.39
+"1057",1057,"SOL","27","PT",471.21,0,472.13,501.57,442.49,396.65,292.4,380,360,321,269.01,312.3,"Solea solea","Common sole","Data Deficient","Stable",4218.76
+"1058",1058,"SOL","27","SE",19.97,15.4,9.76,37.7,54,31,47.9,46.2,37.3,35.8,44.5,37.8,"Solea solea","Common sole","Data Deficient","Stable",417.33
+"1059",1059,"SOR","27","ES",0.02,0.07,0.18,0.06,0.01,0.35,1.15,0.3,0,0,3.4,3.4,"Somniosus rostratus","Little sleeper shark","Data Deficient","Unknown",8.94
+"1060",1060,"SOR","27","FR",0,0,0,0.07,0,0,1.97,0,0,0,0,0,"Somniosus rostratus","Little sleeper shark","Data Deficient","Unknown",2.04
+"1061",1061,"SOR","27","RU",0,0,0,0,0,0,0,0,0,1,0,0,"Somniosus rostratus","Little sleeper shark","Data Deficient","Unknown",1
+"1062",1062,"SOT","27","PT",0,0,0,0,0.13,0,0,0,0,0,0,0,"Psettodes belcheri","Spottail spiny turbot","Data Deficient","Unknown",0.13
+"1063",1063,"SPC","27","FR",0.04,0.22,0.22,1.31,1.95,1.22,5.98,14.9,27.1,0,0,0,"Spicara smaris","Picarel","Least Concern","Unknown",52.94
+"1064",1064,"SPF","27","PT",0,0,0,0,0,0,0,1,0.01,1,1,0.1,"Tetrapturus pfluegeri","Longbill spearfish","Least Concern","Stable",3.11
+"1065",1065,"SPL","27","ES",0,0,0,0,0.01,0.04,0,0.1,0,0.01,0,0,"Sphyrna lewini","Scalloped hammerhead","Endangered","Unknown",0.16
+"1066",1066,"SPL","27","GB",0,0,0,0,0,0,0,0.3,0,0,0,0,"Sphyrna lewini","Scalloped hammerhead","Endangered","Unknown",0.3
+"1067",1067,"SPR","27","BE",0,0,0,0.4,1,1,0.1,1.1,0.3,0.4,0.5,1,"Sprattus sprattus","European sprat","Least Concern","Unknown",5.8
+"1068",1068,"SPR","27","DE",8705.42,16505.49,13995.83,11709.57,11898.68,11740.38,14674.44,21092,29223.1,30973.2,30974.4,30797.02,"Sprattus sprattus","European sprat","Least Concern","Unknown",232289.53
+"1069",1069,"SPR","27","DK",129480,219217.26,302821.17,190354.34,96386.17,111705.76,163220.03,187020.5,195174.1,126692.01,140892.01,183794,"Sprattus sprattus","European sprat","Least Concern","Unknown",2046757.35
+"1070",1070,"SPR","27","EE",26545.95,23686.94,23953.57,28498.26,29805.07,27697.27,34976.3,47861.6,47298.7,48581.9,51007.4,46689,"Sprattus sprattus","European sprat","Least Concern","Unknown",436601.96
+"1071",1071,"SPR","27","ES",0.16,0.08,0.05,0.09,0.25,0.37,0.26,2.4,0.03,0.01,14.2,1.8,"Sprattus sprattus","European sprat","Least Concern","Unknown",19.7
+"1072",1072,"SPR","27","FI",16087.64,16805.62,11875.26,11812.6,11086,8970.08,15772.46,24611.64,23175.99,24270.37,24625.43,19056.89,"Sprattus sprattus","European sprat","Least Concern","Unknown",208149.98
+"1073",1073,"SPR","27","FO",1398.774,5251.498,643.83,185,510,467,237,7326,0,0,1901,1538,"Sprattus sprattus","European sprat","Least Concern","Unknown",19458.102
+"1074",1074,"SPR","27","FR",0.59,10.21,1.2,3.79,2.24,172.17,72.55,206.4,5.7,0.21,0.22,10.5,"Sprattus sprattus","European sprat","Least Concern","Unknown",485.78
+"1075",1075,"SPR","27","GB",3983.08,5067.06,3752.42,4935.87,4800.16,7283.9,7271.3,6822,5447.61,3601.02,3050.4,2707.01,"Sprattus sprattus","European sprat","Least Concern","Unknown",58721.83
+"1076",1076,"SPR","27","IE",4259.65,4763.28,10370.95,2991.12,5453.72,9726.48,3930.8,3200.6,3772.1,2353,3744.4,1522.2,"Sprattus sprattus","European sprat","Least Concern","Unknown",56088.3
+"1077",1077,"SPR","27","LT",12480.06,11548.02,11004.05,9679.23,5775.14,11245.33,9730,10223.1,19514.9,18295.5,19745,10814,"Sprattus sprattus","European sprat","Least Concern","Unknown",150054.33
+"1078",1078,"SPR","27","LV",35744.23,28103.47,30500.85,30760.8,33309.8,30719.45,33055.88,45851.1,49549.9,57301.3,60454,54638,"Sprattus sprattus","European sprat","Least Concern","Unknown",489988.78
+"1079",1079,"SPR","27","NL",1811.54,2016,3383.6,2774.4,1140,3899,6144,1722,4,5,124,106,"Sprattus sprattus","European sprat","Least Concern","Unknown",23129.54
+"1080",1080,"SPR","27","NO",10228.99,21702.93,9699.64,10724.62,2936.26,10364.04,12357.19,14647.04,11470,4453.3,12933,11471,"Sprattus sprattus","European sprat","Least Concern","Unknown",132988.01
+"1081",1081,"SPR","27","PL",69971.32,60056.09,64172.77,58588.18,80987.74,63115.19,56489.63,59276.5,83415.5,55556.7,60202.5,55890.8,"Sprattus sprattus","European sprat","Least Concern","Unknown",767722.92
+"1082",1082,"SPR","27","PT",0,0,0,0,0.02,0.03,0,0,0.01,0.01,0.01,0.01,"Sprattus sprattus","European sprat","Least Concern","Unknown",0.09
+"1083",1083,"SPR","27","RU",38683,34500,30694,23449,22895,25687,19458,25647,25512,21337,24808,28324,"Sprattus sprattus","European sprat","Least Concern","Unknown",320994
+"1084",1084,"SPR","27","SE",58385.84,56245.58,50979.73,51376.7,52909.2,50697.2,60574.3,82604,81825.8,95571.2,100440.7,102748.3,"Sprattus sprattus","European sprat","Least Concern","Unknown",844358.55
+"1085",1085,"SPU","27","ES",14.41,22.35,28.94,25.08,13.31,7.9,13.66,17.9,8.5,13,17.2,18.4,"Dicentrarchus punctatus","Spotted seabass","Least Concern","Unknown",200.65
+"1086",1086,"SPU","27","FR",113.48,126.25,120.96,122.83,132.95,89.28,97.52,97.3,106.3,32.13,83.42,58.8,"Dicentrarchus punctatus","Spotted seabass","Least Concern","Unknown",1181.22
+"1087",1087,"SPU","27","PT",42,45.44,52.09,39.84,30.71,15.24,8.21,13,12.01,8.01,7.01,11.21,"Dicentrarchus punctatus","Spotted seabass","Least Concern","Unknown",284.77
+"1088",1088,"SPZ","27","ES",0,0,0,0.01,0,0.1,0,0,0.02,0.03,2.5,0,"Sphyrna zygaena","Smooth hammerhead","Vulnerable","Decreasing",2.66
+"1089",1089,"SPZ","27","GB",0.08,0.03,0,0,0.03,0,0,0,0,0,0,0,"Sphyrna zygaena","Smooth hammerhead","Vulnerable","Decreasing",0.14
+"1090",1090,"SPZ","27","PT",0,0,0,1.51,0,0.76,0,2,3,1,3,1,"Sphyrna zygaena","Smooth hammerhead","Vulnerable","Decreasing",12.27
+"1091",1091,"SRJ","27","ES",0.13,0.01,0,0.03,0.34,0,0,0,0,0,0,0,"Serranus hepatus","Brown comber","Least Concern","Unknown",0.51
+"1092",1092,"SRK","27","ES",2.81,3.23,1.67,3.69,2.88,0,0,0,0,0,0,0,"Serranus scriba","Painted comber","Least Concern","Stable",14.28
+"1093",1093,"SSA","27","PT",0,0,0,0,0,0,0,0,0.01,0,0.01,0.21,"Menidia menidia","Atlantic silverside","Least Concern","Stable",0.23
+"1094",1094,"SSB","27","ES",41.36,94.56,88.1,117.82,138.29,58.53,84.17,139.7,265.5,208,295.7,383.3,"Lithognathus mormyrus","Sand steenbras","Least Concern","Stable",1915.03
+"1095",1095,"SSB","27","FR",32.46,60.14,85.86,57.37,53.44,72.19,60.54,43.9,67.2,33,58.21,100.3,"Lithognathus mormyrus","Sand steenbras","Least Concern","Stable",724.61
+"1096",1096,"SSB","27","PT",11.46,12.34,27.14,96.18,17.14,33.85,22.73,43,46,51,51,64.5,"Lithognathus mormyrus","Sand steenbras","Least Concern","Stable",476.34
+"1097",1097,"SSM","27","IE",0,0,0,0,0,0,0,0.1,0.1,0,0,0,"Scomberomorus maculatus","Atlantic Spanish mackerel","Least Concern","Unknown",0.2
+"1098",1098,"SSM","27","PT",0,0,0,0,0,0,0,0,0,0,0,0.01,"Scomberomorus maculatus","Atlantic Spanish mackerel","Least Concern","Unknown",0.01
+"1099",1099,"STB","27","PT",0,0,0,0,0.09,0.43,0.07,0,0.01,0.01,1,0.01,"Morone saxatilis","Striped bass","Least Concern","Unknown",1.62
+"1100",1100,"SUT","27","PT",0,0,0,0,0.11,0,0,0,0,0,0,0,"Squatina oculata","Smoothback angelshark","Critically Endangered","Decreasing",0.11
+"1101",1101,"SWA","27","ES",802.85,687.1,729.55,657.3,688.44,642.63,611.2,605.6,704.52,561,498.01,410,"Diplodus sargus","White seabream","Least Concern","Unknown",7598.2
+"1102",1102,"SWA","27","FR",188.06,297.64,260.38,242.47,444.27,182.91,184.43,333.1,192.7,136.4,236.42,146.5,"Diplodus sargus","White seabream","Least Concern","Unknown",2845.28
+"1103",1103,"SWA","27","PT",465.43,401.4,380.89,428.77,312.93,253.66,358.28,339,258,225.01,301.01,209.4,"Diplodus sargus","White seabream","Least Concern","Unknown",3933.78
+"1104",1104,"SWO","27","CN",0,0,0,0,0,0,0,0,0,0,1,1,"Xiphias gladius","Swordfish","Least Concern","Decreasing",2
+"1105",1105,"SWO","27","DK",0,0,0,0,0,0,0,0,0,0,0,0.01,"Xiphias gladius","Swordfish","Least Concern","Decreasing",0.01
+"1106",1106,"SWO","27","ES",2212.5,2760.42,2190.5,1641.78,1290.95,1432.23,1148.29,1222,1679.94,1999.02,1652.22,1669.4,"Xiphias gladius","Swordfish","Least Concern","Decreasing",20899.25
+"1107",1107,"SWO","27","FR",78.44,91.66,66.01,28.33,44.62,145.35,18.44,34.6,17.1,0.63,46.2,92.4,"Xiphias gladius","Swordfish","Least Concern","Decreasing",663.78
+"1108",1108,"SWO","27","GB",0.19,0,0.24,0,0.02,0.2,0,0.3,0.1,0,0.11,0.02,"Xiphias gladius","Swordfish","Least Concern","Decreasing",1.18
+"1109",1109,"SWO","27","IE",10.56,14.75,15.51,2.63,2.29,5.54,2.21,1.5,0.91,2.3,1.9,2.61,"Xiphias gladius","Swordfish","Least Concern","Decreasing",62.71
+"1110",1110,"SWO","27","JP",0,0,0,0,0,0,0,3,5,49,52,44,"Xiphias gladius","Swordfish","Least Concern","Decreasing",153
+"1111",1111,"SWO","27","NO",0,0.1,0,0,0,0,0,0,0,0,0,0,"Xiphias gladius","Swordfish","Least Concern","Decreasing",0.1
+"1112",1112,"SWO","27","PT",1784.05,1477.21,1349.56,1215.75,1277.17,932.28,839.01,721,726.01,609.01,447.04,719.3,"Xiphias gladius","Swordfish","Least Concern","Decreasing",12097.39
+"1113",1113,"SWO","27","TW",0,0,0,0,0,0,0,0,0,0,1,0,"Xiphias gladius","Swordfish","Least Concern","Decreasing",1
+"1114",1114,"SYC","27","BE",577.5,427.3,1.8,1.5,3.6,0,0,0,0,0,0,0,"Scyliorhinus canicula","Small-spotted catshark","Least Concern","Stable",1011.7
+"1115",1115,"SYC","27","DK",0,0.02,0.01,0.02,0,0,0,0,0,0,0,0,"Scyliorhinus canicula","Small-spotted catshark","Least Concern","Stable",0.05
+"1116",1116,"SYC","27","ES",580.27,504.05,521.94,482.29,596.63,582.46,398.39,245.2,186.01,128.01,136,111.5,"Scyliorhinus canicula","Small-spotted catshark","Least Concern","Stable",4472.75
+"1117",1117,"SYC","27","FR",3955.53,4665.12,4726.34,5185.65,5206.64,4858.39,5489.47,5532.1,5348.8,4249.4,5713.2,5465.1,"Scyliorhinus canicula","Small-spotted catshark","Least Concern","Stable",60395.74
+"1118",1118,"SYC","27","GB",1340.56,1663.65,1428.03,500.82,549.22,413.6,283.13,256.2,342.92,285.01,218.23,143,"Scyliorhinus canicula","Small-spotted catshark","Least Concern","Stable",7424.37
+"1119",1119,"SYC","27","GG",0,0,0,8,11,0,0,0,0,0,0,0,"Scyliorhinus canicula","Small-spotted catshark","Least Concern","Stable",19
+"1120",1120,"SYC","27","IE",524.17,425.67,0,0,313.96,221.42,0,0,0,0,0,0,"Scyliorhinus canicula","Small-spotted catshark","Least Concern","Stable",1485.22
+"1121",1121,"SYC","27","IM",16,0,0,16,5,0,0,0,0,0,0,0,"Scyliorhinus canicula","Small-spotted catshark","Least Concern","Stable",37
+"1122",1122,"SYC","27","JE",4,10.735,19.504,12.796,11.443,10.24,0.8,3.43,0.335,1.73,2.34,4.651,"Scyliorhinus canicula","Small-spotted catshark","Least Concern","Stable",82.004
+"1123",1123,"SYC","27","NL",148.53,124.2,96.2,50.9,60,26,1,2,0,0,0,0,"Scyliorhinus canicula","Small-spotted catshark","Least Concern","Stable",508.83
+"1124",1124,"SYR","27","ES",0.03,0,0.02,0.93,0.09,0,0.75,100.5,76.7,127,127.4,123.5,"Scymnodon ringens","Knifetooth dogfish","Data Deficient","Unknown",556.92
+"1125",1125,"SYR","27","FR",0,0,0,0.19,0.55,3.33,1.96,0,0,0,0,0,"Scymnodon ringens","Knifetooth dogfish","Data Deficient","Unknown",6.03
+"1126",1126,"SYR","27","GB",0,0,0,0,0,0,0,0,0,0,50.6,0,"Scymnodon ringens","Knifetooth dogfish","Data Deficient","Unknown",50.6
+"1127",1127,"SYR","27","IE",0,0,0,0,0,0,0,0,0,0,28.4,0,"Scymnodon ringens","Knifetooth dogfish","Data Deficient","Unknown",28.4
+"1128",1128,"SYR","27","PT",0.26,0,0,0,0,0,0.41,115,84,113,114,0,"Scymnodon ringens","Knifetooth dogfish","Data Deficient","Unknown",426.67
+"1129",1129,"SYT","27","BE",56.6,39.3,37,27.1,0,0,0,0,0,0,0,0,"Scyliorhinus stellaris","Nursehound","Near Threatened","Unknown",160
+"1130",1130,"SYT","27","ES",0.54,0.29,0.15,0.1,0.16,0,0,0,0,0,0,0,"Scyliorhinus stellaris","Nursehound","Near Threatened","Unknown",1.24
+"1131",1131,"SYT","27","FR",344.82,398.55,285.1,248.82,222.93,212.91,373.13,259.2,256.4,80.9,181.72,158.3,"Scyliorhinus stellaris","Nursehound","Near Threatened","Unknown",3022.78
+"1132",1132,"SYT","27","GB",5.25,12.28,0,0,0,0,0,0,0,0,0,0,"Scyliorhinus stellaris","Nursehound","Near Threatened","Unknown",17.53
+"1133",1133,"SYT","27","IE",0,2.74,0,0,15.64,7.65,0,0,0,0,0,0,"Scyliorhinus stellaris","Nursehound","Near Threatened","Unknown",26.03
+"1134",1134,"SYT","27","JE",0,1.042,0.223,0.426,0.046,0.139,1.445,2.543,0.971,0,0,4.201,"Scyliorhinus stellaris","Nursehound","Near Threatened","Unknown",11.036
+"1135",1135,"SYT","27","NL",0,0,0,0,1,0,0,0,0,0,0,0,"Scyliorhinus stellaris","Nursehound","Near Threatened","Unknown",1
+"1136",1136,"SYT","27","PT",649.56,645.79,504.03,353.32,467.4,343.32,385.01,447,454,431,444,420.4,"Scyliorhinus stellaris","Nursehound","Near Threatened","Unknown",5544.83
+"1137",1137,"TAL","27","ES",0.08,0,0,0,0,0,0,0,0,0,0,0,"Taractichthys longipinnis","Big-scale pomfret","Least Concern","Unknown",0.08
+"1138",1138,"TBR","27","GB",5.36,0,0,0,0,0,0,0,0,0,0,0,"Ctenolabrus rupestris","Goldsinny-wrasse","Least Concern","Stable",5.36
+"1139",1139,"TBR","27","NO",310.94,207.23,219.95,281.35,229.55,181.22,171.99,162.84,8,1.8,2,3,"Ctenolabrus rupestris","Goldsinny-wrasse","Least Concern","Stable",1779.87
+"1140",1140,"TBR","27","SE",5.54,0,3.76,0,0,0,0,0,0,0,0,0,"Ctenolabrus rupestris","Goldsinny-wrasse","Least Concern","Stable",9.3
+"1141",1141,"TIG","27","ES",0,0.34,0.02,0,0.27,0,0,0.01,0,2,2.51,4.5,"Galeocerdo cuvier","Tiger shark","Near Threatened","Decreasing",9.65
+"1142",1142,"TIG","27","NL",0,0,0,0,0,15,53,0,39,32,38,54,"Galeocerdo cuvier","Tiger shark","Near Threatened","Decreasing",231
+"1143",1143,"TJX","27","ES",0,0,0,0.08,0,0,0,0,0,0,0,0,"Trachyscorpia cristulata","Atlantic thornyhead","Least Concern","Unknown",0.08
+"1144",1144,"TJX","27","FR",0.32,0.89,1.33,1.56,2.6,4.85,3.37,0,6.8,7.6,18.25,0,"Trachyscorpia cristulata","Atlantic thornyhead","Least Concern","Unknown",47.57
+"1145",1145,"TJX","27","GB",0,0,0,0,0.01,0,0,0,0.01,0.02,1.5,26.01,"Trachyscorpia cristulata","Atlantic thornyhead","Least Concern","Unknown",27.55
+"1146",1146,"TMP","27","PT",0,0,0,0,0.18,0.54,0.56,0,1,1,1.01,0.41,"Thalassoma pavo","Ornate wrasse","Least Concern","Stable",4.7
+"1147",1147,"TRZ","27","ES",0,0,0,0,0,0,0,0,0,3,0,0,"Pseudocaranx dentex","White trevally","Least Concern","Unknown",3
+"1148",1148,"TRZ","27","PT",40.53,35.47,50.36,43.14,56.76,30.43,23.88,31,21,20,16,17.2,"Pseudocaranx dentex","White trevally","Least Concern","Unknown",385.77
+"1149",1149,"TSU","27","ES",0,0,0,0,0.01,0,0,0,0,0,0,0,"Trachyrincus scabrus","Roughsnout grenadier","Least Concern","Unknown",0.01
+"1150",1150,"TSU","27","LT",0,0,0,0,0,0,0,0,0,99,543,573,"Trachyrincus scabrus","Roughsnout grenadier","Least Concern","Unknown",1215
+"1151",1151,"TTR","27","ES",12.73,10.76,6.85,6.54,5.52,0,0,0,0,0,0,0,"Torpedo marmorata","Marbled electric ray","Data Deficient","Unknown",42.4
+"1152",1152,"TTR","27","FR",13.74,15.86,18.3,14.28,23.18,19.53,21.71,22.4,26.1,5.81,21.21,0,"Torpedo marmorata","Marbled electric ray","Data Deficient","Unknown",202.12
+"1153",1153,"TTR","27","GB",0,0,0,0,0,0,0,0,0.01,0.01,0,0,"Torpedo marmorata","Marbled electric ray","Data Deficient","Unknown",0.02
+"1154",1154,"TVY","27","ES",0.06,0,0.07,0.01,0.14,0,0,0,0,0,0,0,"Cataetyx laticeps","","Least Concern","Unknown",0.28
+"1155",1155,"UCA","27","ES",29.24,25.94,25.11,12.87,6.54,0,0,0,0,0,0,0,"Umbrina canariensis","Canary drum(=Baardman)","Least Concern","Unknown",99.7
+"1156",1156,"UCA","27","FR",52.49,41.05,42.79,40.15,61.73,26.57,24.13,25.1,27.4,7.5,17.93,12.7,"Umbrina canariensis","Canary drum(=Baardman)","Least Concern","Unknown",379.54
+"1157",1157,"USB","27","DK",0,0,0.08,0.03,0,0,0,0,0,0,0,0,"Labrus bergylta","Ballan wrasse","Least Concern","Unknown",0.11
+"1158",1158,"USB","27","ES",266.6,273.54,234.67,205.38,202.76,0,0,0,0,0,0,0,"Labrus bergylta","Ballan wrasse","Least Concern","Unknown",1182.95
+"1159",1159,"USB","27","FR",241.88,249.18,246.43,245.82,255.48,249.64,246.89,301.4,261.7,108.21,227.34,218.8,"Labrus bergylta","Ballan wrasse","Least Concern","Unknown",2852.77
+"1160",1160,"USB","27","GB",29.94,0.13,0.03,0,0,0.2,0.1,0.1,0.01,0.01,0,0,"Labrus bergylta","Ballan wrasse","Least Concern","Unknown",30.52
+"1161",1161,"USB","27","GG",0,0,4.7,6,4,0,0,8,9,6,4,0,"Labrus bergylta","Ballan wrasse","Least Concern","Unknown",41.7
+"1162",1162,"USB","27","IE",6,0,0,0,0,0.03,0,0,0,0,0,0,"Labrus bergylta","Ballan wrasse","Least Concern","Unknown",6.03
+"1163",1163,"USB","27","NO",264.15,182.19,193.5,154.23,152.4,118.39,148.7,164.49,95,5.6,4,4,"Labrus bergylta","Ballan wrasse","Least Concern","Unknown",1486.65
+"1164",1164,"USB","27","PT",11.01,10.65,10.61,11.76,9.65,10.37,12.71,13,16,15.01,17,14.6,"Labrus bergylta","Ballan wrasse","Least Concern","Unknown",152.37
+"1165",1165,"USB","27","SE",0,0,7.27,0,0,0,0,0,0,0,0,0,"Labrus bergylta","Ballan wrasse","Least Concern","Unknown",7.27
+"1166",1166,"UUC","27","ES",1.11,1.26,0.11,0.04,0.21,0,0,0,0,0,0,0,"Uranoscopus scaber","Stargazer","Least Concern","Unknown",2.73
+"1167",1167,"UUC","27","FR",0,0,0,0,0,0.15,0,0,0,0,0,0,"Uranoscopus scaber","Stargazer","Least Concern","Unknown",0.15
+"1168",1168,"VAD","27","ES",1.5,1.29,1.61,1.83,0.49,0,0,0,0,0,0,0,"Campogramma glaycos","Vadigo","Least Concern","Stable",6.72
+"1169",1169,"VMA","27","DE",0,0,0,0,0,0,0,0,0,1,0,0,"Scomber colias","Atlantic chub mackerel","Least Concern","Unknown",1
+"1170",1170,"VMA","27","ES",61724.07,36520.51,38780.77,34543.54,25198.1,0,0,0,0,0,0,0,"Scomber colias","Atlantic chub mackerel","Least Concern","Unknown",196766.99
+"1171",1171,"VMA","27","FR",809.95,737.82,296.22,354.99,485.07,337.63,227.69,239.1,168,161.51,1558.01,2650.7,"Scomber colias","Atlantic chub mackerel","Least Concern","Unknown",8026.69
+"1172",1172,"VMA","27","GB",0.07,0,0,0,0,0,1.2,0,0,0,0,0,"Scomber colias","Atlantic chub mackerel","Least Concern","Unknown",1.27
+"1173",1173,"VMA","27","IE",0,0,0,0,0,0,0,0,0,0.01,0,0,"Scomber colias","Atlantic chub mackerel","Least Concern","Unknown",0.01
+"1174",1174,"VMA","27","LT",0,0,0,0,0,9.48,0,0,0,0,0,0,"Scomber colias","Atlantic chub mackerel","Least Concern","Unknown",9.48
+"1175",1175,"VMA","27","LV",0,0,0,0,0,0,0,0,0,7,0,0,"Scomber colias","Atlantic chub mackerel","Least Concern","Unknown",7
+"1176",1176,"VMA","27","NL",0,0,0,0,6,0,0,0,0,0,0,0,"Scomber colias","Atlantic chub mackerel","Least Concern","Unknown",6
+"1177",1177,"VMA","27","PT",18998.89,26939.79,45786.25,30022.41,40314.87,35704.99,0,24458,14619,23837,26134,17503,"Scomber colias","Atlantic chub mackerel","Least Concern","Unknown",304318.2
+"1178",1178,"VMA","27","RU",0,0,0,0,11,476,0,0,0,0,0,0,"Scomber colias","Atlantic chub mackerel","Least Concern","Unknown",487
+"1179",1179,"WAH","27","ES",0,0,0,0.07,0,0.01,0,0.01,0,0,0.01,0,"Acanthocybium solandri","Wahoo","Least Concern","Stable",0.1
+"1180",1180,"WAH","27","GB",0.12,0,0,0,0,0,0,0,0,0,0,0,"Acanthocybium solandri","Wahoo","Least Concern","Stable",0.12
+"1181",1181,"WAH","27","PT",0.13,0.04,0.03,0,0.03,2.24,0.09,0,0.01,12,0,0.01,"Acanthocybium solandri","Wahoo","Least Concern","Stable",14.58
+"1182",1182,"WEG","27","BE",38.1,26,33.5,30.7,11.9,0,0,0,0,0,0,0,"Trachinus draco","Greater weever","Least Concern","Unknown",140.2
+"1183",1183,"WEG","27","DK",740,1250.75,1249.58,1225.76,909.61,279.12,425.9,46.13,38.03,41.01,378.03,1722.01,"Trachinus draco","Greater weever","Least Concern","Unknown",8305.93
+"1184",1184,"WEG","27","ES",48.74,110.85,62.41,47.58,29.69,20.32,66.35,39,15.01,32,31.3,52.3,"Trachinus draco","Greater weever","Least Concern","Unknown",555.55
+"1185",1185,"WEG","27","FR",316.82,314.42,291.29,283.65,303.49,293.49,366.84,313.3,384,147.72,345.71,247.3,"Trachinus draco","Greater weever","Least Concern","Unknown",3608.03
+"1186",1186,"WEG","27","GB",7.89,7.06,3.66,8.67,6.41,8.7,7.8,8,1.03,0.06,0.42,0.08,"Trachinus draco","Greater weever","Least Concern","Unknown",59.78
+"1187",1187,"WEG","27","NL",33.21,24,21.5,33.1,11,1,1,4,0,9,3,0,"Trachinus draco","Greater weever","Least Concern","Unknown",140.81
+"1188",1188,"WEG","27","PT",9.49,7.22,3.5,4.09,3.74,3.17,4.07,4,4,5,19,5.5,"Trachinus draco","Greater weever","Least Concern","Unknown",72.78
+"1189",1189,"WEG","27","SE",58.14,3.1,35.99,897.2,810,709.2,748.4,92.1,959.8,555.1,213.4,19.41,"Trachinus draco","Greater weever","Least Concern","Unknown",5101.84
+"1190",1190,"WHG","27","BE",303.4,397.2,346.2,360.6,356.5,288.5,256.3,344.5,324.3,308.91,253.5,300.3,"Merlangius merlangus","Whiting","Least Concern","Unknown",3840.21
+"1191",1191,"WHG","27","DE",391.23,321.15,721.79,582.97,309.64,461.32,553.92,452,411.52,665.8,444.7,1158.71,"Merlangius merlangus","Whiting","Least Concern","Unknown",6474.75
+"1192",1192,"WHG","27","DK",3309,5351.61,3253.01,393.95,327.23,264.21,327.69,511.62,326.7,341,576.02,763.02,"Merlangius merlangus","Whiting","Least Concern","Unknown",15745.06
+"1193",1193,"WHG","27","EE",0,0,0,0,0,0,0,0,0.1,0.4,0.6,0.01,"Merlangius merlangus","Whiting","Least Concern","Unknown",1.11
+"1194",1194,"WHG","27","ES",19.6,40.15,56.37,55.7,58.99,117.07,116.3,109.5,53.93,199.04,318.31,523.1,"Merlangius merlangus","Whiting","Least Concern","Unknown",1668.06
+"1195",1195,"WHG","27","FI",0,1.28,1.45,0.11,2,12.15,1.42,6.77,0.33,0.26,0.94,1.89,"Merlangius merlangus","Whiting","Least Concern","Unknown",28.6
+"1196",1196,"WHG","27","FO",189.446,287.103,304.637,298,483,850,827,937,1038,1154,1807,1888,"Merlangius merlangus","Whiting","Least Concern","Unknown",10063.186
+"1197",1197,"WHG","27","FR",10460.01,12744.6,12022.27,10519.37,9969.06,10553.4,13993.19,13887.4,12678.3,9809.41,11679.02,12344.5,"Merlangius merlangus","Whiting","Least Concern","Unknown",140660.53
+"1198",1198,"WHG","27","GB",10367.57,10698.34,11399.24,11809.73,12680.55,11131.7,9993.2,9216.2,10238.12,11492.03,13192.33,12361.06,"Merlangius merlangus","Whiting","Least Concern","Unknown",134580.07
+"1199",1199,"WHG","27","GG",0,0,0.4,2,0,1,1,4,0,1,1,0,"Merlangius merlangus","Whiting","Least Concern","Unknown",10.4
+"1200",1200,"WHG","27","GL",0,0.2,0,0,0,0,0,0,0,0,0,0,"Merlangius merlangus","Whiting","Least Concern","Unknown",0.2
+"1201",1201,"WHG","27","IE",6416.16,7835.84,6580.54,7036.89,7030.11,5995.05,5000,4530.1,3004.71,2567.5,5123.3,4935.4,"Merlangius merlangus","Whiting","Least Concern","Unknown",66055.6
+"1202",1202,"WHG","27","IM",4,0.059,0,0,0,0,0,0,1,1,1,0,"Merlangius merlangus","Whiting","Least Concern","Unknown",7.059
+"1203",1203,"WHG","27","IS",582,729,859,928,986,1469,2964,0,2308,1687.6,1258.6,1051.3,"Merlangius merlangus","Whiting","Least Concern","Unknown",14822.5
+"1204",1204,"WHG","27","JE",2,0.852,2.804,2.819,0.472,0.243,0.113,2.762,0.017,0.896,0.243,0.028,"Merlangius merlangus","Whiting","Least Concern","Unknown",13.249
+"1205",1205,"WHG","27","LV",0,0,0,0,0,0,0,0,0,0,0,23,"Merlangius merlangus","Whiting","Least Concern","Unknown",23
+"1206",1206,"WHG","27","NL",1435.07,1293.2,1255.1,1160.2,1233,1043,962,965,854,841,800,859,"Merlangius merlangus","Whiting","Least Concern","Unknown",12700.57
+"1207",1207,"WHG","27","NO",1030.54,1194.37,1139.33,960.58,607.8,172.75,87.44,168.68,115,129.31,53.01,58.01,"Merlangius merlangus","Whiting","Least Concern","Unknown",5716.82
+"1208",1208,"WHG","27","PL",534.9,204.88,18.86,4.1,7.32,21.37,7.31,88.7,99.1,12.1,33,201.5,"Merlangius merlangus","Whiting","Least Concern","Unknown",1233.14
+"1209",1209,"WHG","27","PT",1.23,0.96,38.54,64.85,95.46,90.32,104.87,114,114,98,107.01,174.4,"Merlangius merlangus","Whiting","Least Concern","Unknown",1003.64
+"1210",1210,"WHG","27","RU",2,1,1,0,0,0,0,0,0,0,0,0,"Merlangius merlangus","Whiting","Least Concern","Unknown",4
+"1211",1211,"WHG","27","SE",61.21,146.47,138.46,67.3,44.8,75.7,103.9,86.1,83.5,120.2,147.7,293.7,"Merlangius merlangus","Whiting","Least Concern","Unknown",1369.04
+"1212",1212,"WRF","27","ES",28.06,24.64,28.99,35.52,87.66,194.37,744.47,604,431.31,406.03,398.61,142.9,"Polyprion americanus","Wreckfish","Data Deficient","Unknown",3126.56
+"1213",1213,"WRF","27","FO",0.055,0.246,1.682,0,0,0,0,0,0,0,0,0,"Polyprion americanus","Wreckfish","Data Deficient","Unknown",1.983
+"1214",1214,"WRF","27","FR",13.61,8.48,5.47,3.42,5.86,5.54,11.43,7,20.2,7.9,20.61,26.1,"Polyprion americanus","Wreckfish","Data Deficient","Unknown",135.62
+"1215",1215,"WRF","27","GB",1.12,0.61,0.05,1.09,0.5,0.4,16,16.8,9.03,3.06,3.92,0.05,"Polyprion americanus","Wreckfish","Data Deficient","Unknown",52.63
+"1216",1216,"WRF","27","PT",211.15,152.34,200.76,229.6,315.9,379.53,420.13,342,610.02,818.02,1255,836.3,"Polyprion americanus","Wreckfish","Data Deficient","Unknown",5770.75
+"1217",1217,"WRM","27","ES",0,0.05,0.01,0,0.2,0,0,0,0,0,0,0,"Labrus merula","Brown wrasse","Least Concern","Stable",0.26
+"1218",1218,"WRM","27","NL",0,0,0,0.1,0,0,0,0,0,0,0,0,"Labrus merula","Brown wrasse","Least Concern","Stable",0.1
+"1219",1219,"WSA","27","ES",0.01,0.03,0,0.01,0.09,0,0,0,0,0,0,0,"Serranus atricauda","Blacktail comber","Data Deficient","Decreasing",0.14
+"1220",1220,"WSA","27","PT",76.43,115.46,103.06,49.11,35.53,41.04,30.27,0,0,0,0,0,"Serranus atricauda","Blacktail comber","Data Deficient","Decreasing",450.9
+"1221",1221,"WSH","27","FR",0,0,0,0,0,0,0.1,0,0,0,0,0,"Carcharodon carcharias","Great white shark","Vulnerable","Unknown",0.1
+"1222",1222,"YFC","27","ES",0.54,0.69,0.73,1.06,1.13,0,0,0,0,0,0,0,"Symphodus cinereus","Grey wrasse","Least Concern","Stable",4.15
+"1223",1223,"YFM","27","ES",0,0.05,0.04,0.11,0.01,0,0,0,0,0,0,0,"Symphodus melops","Corkwing wrasse","Least Concern","Stable",0.21
+"1224",1224,"YFM","27","GB",2.51,0,0,0,0,0,0,0,0,0,0,0,"Symphodus melops","Corkwing wrasse","Least Concern","Stable",2.51
+"1225",1225,"YFM","27","NO",538.25,514.81,442.61,352.89,226,225.35,230.85,168.2,7,0.6,0,0,"Symphodus melops","Corkwing wrasse","Least Concern","Stable",2706.56
+"1226",1226,"YFM","27","SE",15.47,0,19.93,0,0,0,0,0,0,0,0,0,"Symphodus melops","Corkwing wrasse","Least Concern","Stable",35.4
+"1227",1227,"YFT","27","CN",0,0,0,0,0,0,0,0,0,0,2,9,"Thunnus albacares","Yellowfin tuna","Near Threatened","Decreasing",11
+"1228",1228,"YFT","27","ES",0,0.23,0,0,0.93,0.38,3.42,7.3,1.81,1.02,0.3,0,"Thunnus albacares","Yellowfin tuna","Near Threatened","Decreasing",15.39
+"1229",1229,"YFT","27","FR",0,0,0,0,1.67,19.48,0.36,6.4,0,0,0,0,"Thunnus albacares","Yellowfin tuna","Near Threatened","Decreasing",27.91
+"1230",1230,"YFT","27","GB",0,0,0.04,0,1.44,0,21.1,23.2,0,0,0,0,"Thunnus albacares","Yellowfin tuna","Near Threatened","Decreasing",45.78
+"1231",1231,"YFT","27","IE",0,0,0,0,0,0,0,0,0,0,0.1,0,"Thunnus albacares","Yellowfin tuna","Near Threatened","Decreasing",0.1
+"1232",1232,"YFT","27","PT",8.32,7.45,5.18,36,257.61,281.69,218.56,291,845.01,360,636.01,156.1,"Thunnus albacares","Yellowfin tuna","Near Threatened","Decreasing",3102.93
+"1233",1233,"YFT","27","TW",0,0,0,0,0,0,0,0,0,0,6,0,"Thunnus albacares","Yellowfin tuna","Near Threatened","Decreasing",6
+"1234",1234,"YOI","27","PT",0,0,0,0,0.32,0.08,0,0,0,0,0,0,"Cynoglossus canariensis","Canary tonguesole","Near Threatened","Stable",0.4
+"1235",1235,"YRS","27","ES",0.08,0.07,0.07,0.03,0.12,0,0,0,0,0,0,0,"Sphyraena sphyraena","European barracuda","Least Concern","Stable",0.37
+"1236",1236,"YRS","27","PT",8.15,0.03,0.03,4.14,0.02,23.9,0.04,0,0.01,0.02,0,0,"Sphyraena sphyraena","European barracuda","Least Concern","Stable",36.34
+"1237",1237,"YTL","27","PT",7.94,4.21,7.41,3.33,6.81,18.26,9.63,2,0,0,0,0,"Seriola rivoliana","Longfin yellowtail","Least Concern","Stable",59.59
